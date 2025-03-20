@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "6b6b531a5a0b651e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b31020b6d6f20d5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a8f654e1964be8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af77498fd0ad510d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f802496fc8e9100c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f75a844df2d6d641",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4a5b047f99080c5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c0f91a98245d5fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "0ad6b190f1c13701",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc283148c0f9802a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d4c6467ffb43659",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "f33532c5aa7db875",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2d349188b345d5c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eaa580d79c46fee6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7a8f654e1964be8a",
+  "lastOpenFiles": [
+    "Mneme",
+    "02-mcn/238a-hirschsprung.md",
+    "02-mcn/239a-pyloric-stenosis.md",
+    "05-ms/445a-cystic-fibrosis.md",
+    "Home.md",
+    "01-funda/drills/001b-eras.md",
+    "01-funda/drills/001c-eras.md",
+    "01-funda/001a-eras.md",
+    "05-ms",
+    "02-mcn/217a-rheumatic-fever.md",
+    "02-mcn/208-216a-chd.md",
+    "02-mcn/185a-newborn-assessment.md",
+    "02-mcn/182-183a-essential-newborn-care.md",
+    "02-mcn/180a-contraceptive-surgical.md",
+    "02-mcn/178a-contraceptive-mechanical.md",
+    "02-mcn/179a-contraceptive-hormonal.md",
+    "02-mcn/177a-contraceptive-natural.md",
+    "02-mcn/165a-breastfeeding.md",
+    "02-mcn/160a-labor-induction.md",
+    "02-mcn/149a-fetal-station.md",
+    "02-mcn/150a-fetal-well-being.md",
+    "02-mcn/146a-partography.md",
+    "02-mcn/147a-fetal-skull.md",
+    "02-mcn/148a-fetal-position.md",
+    "02-mcn/144-145a-labor-stages.md",
+    "02-mcn/144a-labor-stages.md",
+    "02-mcn/143a-labor-components.md",
+    "02-mcn",
+    "02-mcn-pedia",
+    "attachments/pyloric-stenosis.png",
+    "attachments/aganglionic-megacolon-surgeries.jpg",
+    "attachments/aganglionic-megacolon.png",
+    "pyloric-stenosis.png",
+    "aganglionic-megacolon-surgeries.jpg",
+    "aganglionic-megacolon.png",
+    "Untitled",
+    "04-psych",
+    "03-chn",
+    "attachments/ear_placement.png",
+    "attachments/partograph-composite.pdf",
+    "attachments/placenta-previa_types.png",
+    "attachments/congenital-heart-defects.png",
+    "attachments/chain-of-infection.png",
+    "attachments/open.url",
+    "attachments"
+  ]
+}

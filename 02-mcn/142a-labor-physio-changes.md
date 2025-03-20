@@ -1,0 +1,5 @@
+**Reference**: Dr. RPS Maternal & Newborn Care (2nd ed., pp. 222–261)
+
+1. **Dilatation**: progressive opening/widening of the **cervical os**. It is expressed in **centimeters**, described as "opening", "widening", "enlarging", or "increasing in diameter". It specifically refers to the cervical external os (a cervical dilatation of 3 cm means the cervical external os is 3-cm open). 10 cm is a fully dilated cervix, the end of the first stage of labor.
+2. **Effacement**: thinning and obliteration of the cervical canal. It is expressed in percentage, described as "thinning", "shortening", or "narrowing". A 100% effaced cervix is a fully effaced cervix where the cervical canal has become paper thin or is already absent.
+3. **Physiologic Retraction Ring**: the separation of the active, shorter, thicker upper uterine segment an the passive, longer, and thinner lower segment. The **Bandl's Ring** is a pathologic retraction ring, formed when the upper uterine segment is as active as the lower segment; seen as an **abdominal indentation ring**, signifying impending rupture of the uterus if not managed.
