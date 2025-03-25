@@ -1,0 +1,25 @@
+- **Frederick Taylor's Scientific Management Theory**: management work can be **scientifically done** to be able to increase work production or output. It may be summarized as follows:
+	- Selection of workers
+	- Training of selected workers
+	- Provision of adequate tools for workers
+	- Proper treatment or evaluation
+- **Human Relations Theory**: effective management arises from **good working relationships** between the manager and laborers, and among the laborers themselves.
+- **Douglas McGregor's Motivational Theory**: a manager may have two classes of workers:
+	- **Theory X**: a "*negative*" type of worker that **dislikes work and avoids responsibilities**. They require duress to perform obligations. A high level of motivation is required for them to work.
+	- **Theory Y**: a "*positive*" type of worker that are **reliable and gives importance to their job for the best results**. These workers are responsible, diligent, and trustworthy. They productively utilize time, energy, and efforts.
+- **Henry Fayol's Principles of Management**: fourteen principles of management are outlined.
+	- **Division of Work**: 
+	- **Proper Authority, Responsibility, and Accountability**: 
+	- **Unity of Command**: 
+	- **Unity of Direction**: 
+	- **Remuneration of Personnel**: 
+	- **Balance between Centralization and Decentralization**: 
+	- **Subordination of Personal Interest with General Interest**: 
+	- **Scalar Chain/Chain of Command**: 
+	- **Security of Tenure**: 
+	- **Esprit de Corps; Team Spirit**: 
+	- **Span of Control**: 
+	- **Channels of Communication**: 
+	- **Respondeat Superior; Command Responsibility**: 
+- **William Ouchi's Theory Z**: management is a **shared relationships** between the manager and their members. A participative form of management is utilized.
+- **Total Quality Management**: TQM; effective management involves a **collective approach** of the whole organization with the aim of providing quality and continuous client satisfaction based on resulting data.
