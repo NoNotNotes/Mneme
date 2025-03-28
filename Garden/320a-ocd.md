@@ -1,7 +1,7 @@
 **Obsessions** are recurrent, persistent, intrusive, and unwanted thoughts, images, or impulses that cause marked anxiety and interfere with interpersonal, social, or occupational function. The person knows these thoughts are excessive or unreasonable but believes he or she has no control over them.
 
 **Compulsions** are ritualistic or repetitive behaviors or mental acts that a person carries out continuously in an attempt to neutralize anxiety. Usually, the theme of the ritual is associated with that of the obsession, such as repetitive hang washing when someone is obsessed with contamination or repeated prayers or confession for someone obsessed with blasphemous thoughts. Common compulsions include the following:
-- Checking rituals: repeatedly making sure the door is locked or the coffee pot is turned off)
+- Checking rituals: repeatedly making sure the door is locked or the coffee pot is turned off
 - Counting rituals: each step taken, ceiling tiles, concrete blocks, or desks in a classroom
 - Washing and scrubbing until the skin is raw
 - Praying or chanting
