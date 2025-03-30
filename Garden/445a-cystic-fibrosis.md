@@ -57,7 +57,7 @@ The clinical manifestations vary widely and change as the disease progresses. Th
 4. **Integumentary System**: the consistent finding of abnormally high sodium and chloride concentrations in the sweat is a unique characteristic of CF as the chloride channel defect prevents reabsorption of sodium and chloride in the sweat glands. Parents may observe that their infants are "salty" when they kiss them. This can be a cause of abnormal sodium and chloride loss, dehydration, and hypochloremic and hyponatremic alkalosis.
 ___
 # Diagnostic Evaluation
-Traditionally, a diagnosis is made on (a) a **positive sweat chloride test**, (b) **absence of pancreatic enzymes** (duodenal aspiration), (c) **radiography**, (d) **chronic obstructive pulmonary disease**, and (e) family history.
+Traditionally, a diagnosis is made on (a) a **positive sweat chloride test**, (b) **absence of pancreatic enzymes** (endoscopic duodenal aspiration), (c) **radiography**, (d) **chronic obstructive pulmonary disease**, and (e) family history.
 - **Sweat Chloride Test** (pilocarpine iontophoresis): a quantitative assessment of sweat electrolytes. Sweating is induced with a special device and at least 75 mg of sweat is collected on filter paper. Two separate samples are collected to ensure reliability. Normal sweat chloride content is less than 40 mEq/L, with a mean of 18 mEq/L. A chloride concentration greater than 60 mEq/L is highly suggestive of CF.
 - **Chest radiography** reveals characteristic patchy atelectasis and obstructive emphysema. PFTs are sensitive indices of lung function, providing evidence of abnormal small airway function in CF. Radiographs, including contrast enema, are used for diagnosis of meconium ileus.
 
@@ -67,12 +67,15 @@ Newer diagnostic methods, in addition to the aforementioned, make it possible to
 ___
 # Therapeutic Management
 CF requires both acute and chronic therapy. Improvements in antibiotic therapy and improved nutritional and respiratory management have extended CF median survival age of a child born in 2019 to be 48 years.
-1. **Airway clearance therapy** is a key intervention, and various pulmonary techniques are used to enhance secretion clearance. Parents should be taught how to perform ACTs at home, which is an important contributor the the success of therapy.
+1. **Airway clearance therapy** is a key intervention, and various pulmonary techniques are used to enhance secretion clearance. Parents should be taught how to perform ACTs at home, which is an important contributor to the success of therapy.
 	- **Manual postural drainage** and **chest physiotherapy**; high-frequency chest wall oscillation; autogenic drainage (a combination of breathing techniques at different lung volume levels to move the secretions to where they can be huff-coughed out); and other devices that assist in airway clearance, such as masks that generate positive expiratory pressure (PEP masks) and "flutter devices" (devices that provide an oscillatory expiratory pressure pattern with PEP and assist with expectoration of secretions.)
+		- Coughing, turning, and deep breathing exercises may also help.
+		- If ineffective, suctioning may also be done as needed.
 	- **Mucolytics**/**Expectorants**: Dornase alfa is a nebulized medication given to decrease the large amount of deoxyribonucleic acid (DNA) that accumulates within CF mucus. This decreases viscosity and promotes expectoration of secretions.
 	- Inhalation of hypertonic saline may also be used for chronic treatment of CF. This hydrates the airways and improves airway clearance.
 	- **Bronchodilators** are used for patients with a bronchoconstrictive element in their condition, as confirmed by incentive spirometry before and after therapy is instituted.
 	- **Exercise** is an important adjunct to airway clearance therapy. The ultimate goal is to increase lung vital capacity, remove secretions, increase pulmonary blood flow, and maintain healthy lung tissue for effective ventilation. Any aerobic exercise preferred by the client should be encouraged. Exercise also provides a sense of well-being.
+	- **Increased hydration** can help reduce secretions tenacity.
 2. **Antibiotics** based on sputum cultures are implemented for acute airway exacerbations. While majority of patients are colonized with *P. aeruginosa*, *S. aureus*, *methicillin-resistant S. aureus*, and *Burkholderia cepacia complex* may be found. Routine cultures are used to identify organisms and guide antibiotic selection.
 	- Chronic colonization with *P. aeruginosa* is an independent risk factor for accelerated loss of lung function and decreased survival.
 	- Treatment is continued until exacerbations have resolved, usually at a minimum of 10 days to as long as 3 weeks or more.

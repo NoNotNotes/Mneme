@@ -58,11 +58,10 @@ Nursing care will depend on the age of the child and type of treatment being use
 2. **Monitoring for complications**: the most serious complication of HD is **enterocolitis**. Preoperative care may include decreasing bacterial flora with oral or systemic antibiotics and colonic irrigations using antibiotic solution. In neonates, this may not be necessary as the bowels are still sterile.
 3. **Postoperative Care**: involve and aid the parents of the child in caring for the child. Allow them to help with feedings and observe for signs of wound infection, irregular passage of stool (constipation or true incontinence), or the development of complications.
 	- Measure abdominal girth daily and as necessary.
-	-  Assess the surgical site for redness, swelling, and drainage.
+	- Assess the surgical site for redness, swelling, and drainage.
 	- Assess the stoma (if a colostomy was done) for bleeding or skin breakdown. The stoma should be pink-red and moist.
 	- Maintain NPO status until bowel sounds return or flatus is passed, usually within 48 to 72 hours.
 	- Maintain the nasogastric tube to allow intermittent suction until peristalsis returns.
 	- Maintain IV fluids until the child tolerates appropriate oral intake, advancing the diet from clear liquids to regular as tolerated and as prescribed.
 4. **Preventing Complications**: anal strictures are a potential problem after surgery. Daily dilatations may be required, which can be done by parents who can be taught to perform care at home.
-5. **Colostomy Care**: a diverting colostomy may be used in some cases of HD. Parents are taught about the use and care of colostomy appliances
-
+5. **Colostomy Care**: a diverting colostomy may be used in some cases of HD. Parents are taught about the use and care of colostomy appliances.

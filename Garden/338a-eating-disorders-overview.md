@@ -1,4 +1,4 @@
-**Eating Disorders** are disorders characterized by alterations in eating patterns and disturbances in body image that interferes with relationships and occupational functioning. There are nine types described by the [[01-4#Eating and Feeding Disorders|DSM-5]]:
+**Eating Disorders** are disorders characterized by alterations in eating patterns and disturbances in body image that interferes with relationships and occupational functioning. There are nine types described by the DSM-5:
 - **Anorexia Nervosa** (AN)
 - **Bulimia Nervosa** (BN)
 - **Binge Eating Disorder** (BED)

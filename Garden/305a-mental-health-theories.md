@@ -91,47 +91,6 @@ ___
 	- **Fear** or worry that drives the character.
 	- **Expectation**: the character feels they are obligated to something because of someone else.
 ___
-# Anxiety and Anxiety Responses
-"**Anxiety**" is a vague, unpleasant feeling of **apprehension**. It may be a response to unknown and non-specific threats. It normally motivates a person to take action for resolving a problem or crisis. It may become **abnormal** when **excessive**, **chronic**, and results in **impairment of major functioning** e.g. panic without reason, phobias, and uncontrollable repetitive actions. Hildegard Peplau outlined four types of anxiety: **mild**, **moderate**, **severe**, and **panic**.
-## Types of Anxiety
-1. **Mild Anxiety**: a positive state of **heightened awareness and sharpened senses**, allowing the person to learn new behaviors and solve problems, **taking in all available stimuli** (perceptual field)
-	- **Perception**: increased
-	- **Behavior**: alert, energetic, attentive
-	- **Physiologic Changes**: slight discomfort, restlessness, "butterflies in my stomach", difficulty sleeping.
-	- **Coping**: adaptive
-	- **Nursing Management**: verbalization of thoughts and feelings, relaxation techniques (e.g., deep breathing, mindfulness).
-2. **Moderate Anxiety**: **decreased perceptual field** (only able to focus on the immediate task); **assistance is required** to learn new behaviors or solve problems.
-	- **Perception**: decreased, selective (*selective inattention*)
-	- **Behavior**: difficulty in concentration, easily distracted, **pacing**
-	- **Physiologic Changes**: clammy hands, diaphoresis, muscle tension, GI distress, headache, xerostomia, frequent urination
-	- **Coping**: palliative; the use of any defense mechanism available.
-	- **Nursing Management**: refocus attention; supervise in problem solving and learning. When talking, keep it short and simple (KISS).
-	- **Medical Management**: oral anxiolytics if indicated
-3. **Severe Anxiety**: feelings of **dread and terror**. Redirection to a task by another individual is not possible. Their focus is on scattered details and **physiologic symptoms of tachycardia, diaphoresis, and chest pain occur** (They may go to the emergency room believing they are having a heart attack).
-	- **Perception**: distorted perception
-	- **Behavioral**: impaired rational, decision-making, problem solving, judging, concentration, and ability. Confusion and disorientation.
-	- **Physiologic Changes**: increased BP, RR, CR, chest pain, **severe headache**, nausea and vomiting, diarrhea, tremors, dilated pupils.
-	- **Coping**: excessive, maladaptive defense mechanisms.
-	- **Nursing Management**: relaxation techniques, decrease environmental stimuli, stay or walk with the patient, and listen attentively.
-	- **Medical Management**: intramuscular anxiolytics
-4. **Panic Anxiety**: **loss of rational thought; delusions, hallucinations, and complete physical immobility and mutism may occur**. The person may bolt and run aimlessly, leading to injury.
-	- **Perception**: disorganized
-	- **Behavioral**: immobilization, hysterical or mute, irrational reasoning, overwhelmed and helpless - suicidal, potential hallucination or delusions.
-	- **Physiological**: same as severe anxiety, shortness of breath, and hyperventilation.
-	- **Coping**: dysfunctional use of defense mechanisms.
-	- **Nursing Management**: provide safety, reduce environmental stimuli, continuously talk with the patient, **use touch judiciously**, and stay with the person during their panic attack (5 to 30 minutes).
-
-| Type         | Perception   | Behavioral                                                                                            | Coping                 | Nursing Management                                | Medical Management |
-| ------------ | ------------ | ----------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------- | ------------------ |
-| **Mild**     | Widened      | Alert, Energetic, Attentive                                                                           | Adaptive               | Encourage verbalization                           | N/A                |
-| **Moderate** | Narrowed     | Distracted, Pacing                                                                                    | Palliative             | Refocus (grounding techniques), Supervision, KISS | PO Anxiolytic      |
-| **Severe**   | Distorted    | Impaired thinking, Confusion, Disorientation                                                          | Excessive, Maladaptive | Relaxation, Less Stimuli, Presence, Listening     | IM Anxiolytic      |
-| **Panic**    | Disorganized | Immobilization, Mute/Hysterical, Irrational, Overwhelmed (Suicidal), Potential Hallucination/Delusion | Dysfunctional          | Safety, Less Stimuli, Presence (judicious touch)  | N/A                |
-## Underlying Causes of Anxiety
-1. **Interpersonal Factors**: fear of interpersonal rejection; traumatic or dysfunctional relationships.
-2. **Behavioral Factors**: exposure to early negative life circumstances and learned responses to frustration.
-3. **Psychoanalytic Factor**: conflicts between the id and the superego.
-___
 # Adaptation and Coping Mechanisms
 "**Adaptation**" is the **physical or behavioral characteristic** of an organism that helps an organism to **survive better in the surrounding environment**. Adaptation occurs in various levels:
 - **Adaptive**: facing and finding solutions to situations
@@ -140,7 +99,7 @@ ___
 - **Dysfunctional**: ineffective use of defense mechanisms; results in negative ADL and social impact.
 ___
 # Crisis
-When events [[#Underlying Causes of Anxiety|causing anxiety]] becomes **overwhelming** and **usual coping patterns become suspended**. These may involve man-made and natural disasters, interpersonal events, traumatic experiences, etc.
+When events causing anxiety becomes **overwhelming** and **usual coping patterns become suspended**. These may involve man-made and natural disasters, interpersonal events, traumatic experiences, etc.
 1. **Maturational Crisis**: occurring as a normal part of growth and development e.g. leaving home for the first time, completing school, marriage, childbirth and rearing, beginning a career, etc. **The successful resolution of these crises result in positive character development**.
 2. **Situational Crisis**: **sudden or unpredicted events that threaten an individual's integrity** (physical, emotional, societal, economic, etc.).
 3. **Adventitious Crisis**: **unexpected unusual events** that can affect an individual or a multitude of people; a **social crisis** e.g. natural disasters; societal injustices like racism, kidnapping, terrorism; violent crimes.
@@ -353,7 +312,7 @@ end
 1. **Alarm Stage**: a stressor stimulates the hypothalamus to send messages to the adrenal gland for the secretion of adrenaline and norepinephrine (stress hormones). These stimulate the conversion of glycogen to glucose in the liver.
 2. **Resistance**: more organs are involved; the lungs take in more oxygen, the heart beats faster and stronger, and the digestive system reduces in function to delegate blood to other body systems. If the stressor is adequately resolved or adapted to, stress responses abate.
 3. **Exhaustion**: if adaptation does not occur and anxiety or stress remains, body stores are depleted, emotional components are unresolved, and arousal of the physiologic responses continue with a small reserve capacity.
-	- The [[autonomic nervous system]] is responsible for involuntary responses in self-preservation.
+	- The autonomic nervous system is responsible for involuntary responses in self-preservation.
 ## Transactional Model of Stress and Coping (Lazarus)
 Stress is defined as a "**particular relationships between the person and environment** that is appraised by the person as **taxing or exceeding his or her resources** and **endangering his or her wellbeing**". The effects stress has on a person is based on the person's feelings of threat, vulnerability, and ability to cope.
 1. **Primary Appraisal**: Is the threat **significant**, **negative**, and **harmful or challenging**? Anger, disgust, disappointment, worry, anxiety, fear responses, anticipation, illness, or even injury may occur if a threat is passes the primary appraisal.

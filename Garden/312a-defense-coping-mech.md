@@ -2,9 +2,9 @@
 - Course Module
 - Lecturer (Sir Jimenez)
 
-"**Coping**" is any effort done to reduce stress responses. It may be **constructive**; task-oriented (direct problem solving) or defense-oriented (regulate stress via defense mechanisms), or **destructive**, where the individual often avoid the problem.
+"**Coping**" is any effort done to reduce stress responses. It may be **constructive**; task-oriented (direct problem solving) or defense-oriented (regulate stress via defense mechanisms), or **destructive**, where the individual often avoid the problem. A coping mechanism operates on a *conscious* level of awareness.
 
-"**Defense Mechanisms**" also known as "**ego defense mechanisms**" or "**protective defenses**" are **patterns of behavior or thought utilized to protect oneself** from threatening internal or external aspects. It allows an individual to **maintain control, safety, self-esteem, lessen discomfort, cope with stress, and decrease anxiety**.
+"**Defense Mechanisms**" also known as "**ego defense mechanisms**" or "**protective defenses**" are **patterns of behavior or thought utilized to protect oneself** from threatening internal or external aspects. It allows an individual to **maintain control, safety, self-esteem, lessen discomfort, cope with stress, and decrease anxiety**. A defense mechanism operates on an *unconscious* level of awareness.
 ___
 # Normal and Adaptive Mechanism
 Persons who effectively utilize these mechanisms are **perceived as virtuous**. These mechanisms enhance the individual's feeling of mastery and pleasure.
