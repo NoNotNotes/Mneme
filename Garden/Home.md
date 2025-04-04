@@ -2,7 +2,7 @@
 ```contributionGraph
 title: Notes by Day
 graphType: calendar
-dateRangeValue: 1
+dateRangeValue: 2
 dateRangeType: LATEST_MONTH
 startOfWeek: 0
 showCellRuleIndicators: true
