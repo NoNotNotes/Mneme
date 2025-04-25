@@ -1,4 +1,6 @@
-**MS** is an immune-mediated, progressive demyelinating disease of the CNS. **Demyelination** is the destruction or loss of the **myelin**, a fatty and protein material that surrounds certain nerve fibers in the brain and spinal cord, resulting in impaired nerve impulse transmission. Its peak of onset is from 20 to 50 years of age, but can occur at any age. It is found in women three times more often than in men. Its cause is unknown. There are several acute and subacute forms of MS. Less severe forms include **RIS** and **CIS**. The four main clinical forms are **Remitting-Relapsing MS** (RRMS), **Secondary Progressive MS**, **Primary Progressive MS** (PPMS), and **Progressive-Relapsing MS**.
+**Reference**: Brunner-Suddarth's Textbook of Medical-Surgical Nursing (15th Ed.)
+
+**MS** is an immune-mediated, progressive demyelinating disease of the CNS. **Demyelination** is the destruction or loss of the **myelin**, a fatty and protein material that surrounds certain nerve fibers in the brain and spinal cord, resulting in impaired nerve impulse transmission. Its peak of onset is from 20 to 50 years of age, but can occur at any age. It is found in women three times more often than in men. Its cause is unknown. There are several acute and subacute forms of MS. Less severe forms include **RIS** and **CIS**. The four main clinical forms are **Remitting-Relapsing MS** (RRMS), **Secondary Progressive MS**, **Primary Progressive MS** (PPMS), and **Progressive-Relapsing MS**. (discussed later)
  1. **Radiologically Isolated Syndrome** (RIS): MRI imaging finds lesions due to MS, but the patient presents no symptoms. Often, MS is diagnosed within five years after initial findings of lesions.
 2. **Clinically Isolated Syndrome** (CIS): presence of acute or subacute findings for at least 24 hours.
 ___
@@ -17,6 +19,8 @@ The course of MS ranges from being asymptomatic or having benign, mild presentat
 - **Remitting-Relapsing MS**: consists of 85% of patients. Every relapse features complete recovery but produces residual deficits. These deficits accumulate overtime between relapses, contributing the functional decline. This may progress to **secondary progressive form**, where progression of disease occurs with or without relapses.
 - **Primary Progressive MS**: consists of 15% of patients. Disabling symptoms steadily increase, with rare plateaus and temporary minor improvement. This may result in quadriparesis, cognitive dysfunction, visual loss, and brainstem syndromes.
 - **Progressive-Relapsing MS** is the rarest presentation, found in 5% of cases. Relapses occur similar to RRMS, but disabling progression continues between relapses.
+
+![[multiple-sclerosis_types.png]]
 
 Signs and symptoms vary, reflecting the location of the plaques or lesions in the brain. Physical, emotional, and cognitive symptoms can impact the quality of life.
 - Fatigue, depression, weakness, numbness, dystaxia, loss of balance, spasticity, and pain are all common.

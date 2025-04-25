@@ -16,7 +16,7 @@ The damage caused by a traumatic brain injury, i.e. it's **pathophysiology**, be
 >5. **Intracerebral Hemorrhage**: bleeding within the brain
 >6. **Intraventricular Hemorrhage**: bleeding into the ventricles of the brain
 
-27. *Secondary Brain Injury**: occuring hours or days after the initial injury, this may result from **impairment in cerebral blood flow** due to local edema, hemorrhage, increased intracranial pressure such, shock, disturbance of pulmonary ventilation (aspiration, chest wall instability, neurogenic disturbance), etc.
+7. *Secondary Brain Injury**: occurring hours or days after the initial injury, this may result from **impairment in cerebral blood flow** due to local edema, hemorrhage, increased intracranial pressure such, shock, disturbance of pulmonary ventilation (aspiration, chest wall instability, neurogenic disturbance), etc.
 	- Decreased perfusion results in cellular destruction, causing neuronal death.
 ## Clinical Manifestations
 1. **Cognitive Changes**: change in level of consciousness (loss of consciousness, speech, lethargy, attention deficit, mood disturbances), memory, learning, problem-solving, speed of mental processing, judgment, and decision-making.

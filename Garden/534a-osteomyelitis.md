@@ -8,7 +8,7 @@ ___
 2. **Poor nourishment or obesity**
 3. Impaired immune systems, chronic illnesses, **long-term corticosteroid therapy** or use of **immunosuppressive agents**
 4. Use of illicit **IV drugs**
-5. **Postoperatively**, typically occuring within 30 days. This may be incisional or deep (depending on if the incision reaches beyond the deep fascia layer). **Implants** can become a source of deep postoperative infection within a year.
+5. **Postoperatively**, typically occurring within 30 days. This may be incisional or deep (depending on if the incision reaches beyond the deep fascia layer). **Implants** can become a source of deep postoperative infection within a year.
 ___
 # Pathophysiology
 Over half of bone infections are caused by *Staphylococcus aureus*, and increasingly of the variety that is methicillin-resistant (MRSA). Other pathogens include the gram-positive organisms *streptococci* and *enterococci*, followed by gram-negative bacteria, including *pseudomonas*.

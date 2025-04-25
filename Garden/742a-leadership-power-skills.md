@@ -97,7 +97,7 @@ Decision-making is the process of providing resolutions of conflicts or problems
 ## Ethical
 A leader is **ethical**. They must have good manners and the right conduct. They display appropriate behaviors, morality, and conscience in guiding and motivating other members of the team to function conscientiously.
 ## Conflict Resolution
-Conflict is the clash of ideas resulting in a potential crisis. These must be resolved by leaders as conflict hinders the achievement of common objectives. Conflict occurs in three contexts: **Intrapersonal**, occuring within an individual; **Interpersonal**, occuring between individuals; and **Organizational** or **Interdepartmental**, where conflict arises between two units, departments, or groups.
+Conflict is the clash of ideas resulting in a potential crisis. These must be resolved by leaders as conflict hinders the achievement of common objectives. Conflict occurs in three contexts: **Intrapersonal**, occurring within an individual; **Interpersonal**, occurring between individuals; and **Organizational** or **Interdepartmental**, where conflict arises between two units, departments, or groups.
 
 Conflict resolution utilizes different methods:
 1. **Avoidance**: the problem is avoided by the leader.

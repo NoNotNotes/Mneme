@@ -1,4 +1,4 @@
-A chronic, progressive, hereditary disease of the nervous system resulting in **progressive involuntary choreiform movement** and [[dementia]].
+A chronic, progressive, hereditary disease of the nervous system resulting in **progressive involuntary choreiform movement** and dementia.
 - Affects 1 in 10,000 individuals at midlife, equally between men, women, and races.
 - All individuals have the gene for Huntington, but the disease requires inheritance of the expansion of the gene. **Huntington is transmitted through an autosomal dominant gene**, having a **50% risk of inheriting the disorder from a parent**.
 - The genetic mutation in Huntington disease (*HTT*) has been identified and mapped. Genetic testing for its presence is possible, but it cannot predict the time of onset. Patients may also refrain from testing to avoid employment and healthcare discrimination due to their disease. **Genetic counseling** is crucial. Long-term psychological, emotional, financial, and legal support may be required.
@@ -58,7 +58,7 @@ ___
 	- **Relaxation techniques and medication** may be used. Provide the patient with assistive devices (warming tray, etc) and adequate time to eat. Food should be easy to chew and bite-sized. **Blenderized meals** are used if the patient cannot chew. If swallowing is difficult, the nurse should be familiar with the abdominal thrust technique for choking and aspiration.
 3. **Impaired verbal communication** from excessive grimacing and unintelligible speech
 	- Maintain communication with the patient even if they are unable to communicate. Establish alternate methods of communication and determine the individual's expressions and their meanings. Consult with a speech therapist if beneficial.
-4. **Acute confusion** and **impaired socialisation**
+4. **Acute confusion** and **impaired socialization**
 	- Reorient the patient after awakening. Orienting devices in speech and the environment is also useful (calendars, clock, wall posters).
 	- Maintain the patient's medical identification bracelet.
 	- Keep the patient in the social mainstream.

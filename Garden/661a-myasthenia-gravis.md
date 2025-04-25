@@ -32,10 +32,10 @@ ___
 ___
 # Myasthenic Crisis
 **Myasthenic Crisis** is an exacerbation of the disease process characterized by **severe generalized muscle weakness** and respiratory or bulbar weakness that may result in **respiratory failure**. This may result from disease exacerbation or a specific precipitating event, most commonly being **respiratory infection**. Changes in medication, surgery, pregnancy, and specific drugs can exacerbate myasthenia.
-	- **Neuromuscular respiratory failure** is the critical complication in myasthenic and cholinergic crises. Inadequate cough and gag reflexes (caused by bulbar weakness) result in poor airway clearance.
-	- A **downward trend of two respiratory function tests**, a **negative inspiratory force**, and **vital capacity** are among the first clinical sign of respiratory compromise.
-	- **Endotracheal intubation and mechanical ventilation** may be needed. Noninvasive positive-pressure ventilation uses an external vest-like device to provides support even without intubation.
-	- **Cholinesterase inhibitors** are stopped during respiratory failure, and gradually restarted once improvement is demonstrated after plasmapheresis or IVIG.
+- **Neuromuscular respiratory failure** is the critical complication in myasthenic and cholinergic crises. Inadequate cough and gag reflexes (caused by bulbar weakness) result in poor airway clearance.
+- A **downward trend of two respiratory function tests**, a **negative inspiratory force**, and **vital capacity** are among the first clinical sign of respiratory compromise.
+- **Endotracheal intubation and mechanical ventilation** may be needed. Noninvasive positive-pressure ventilation uses an external vest-like device to provides support even without intubation.
+- **Cholinesterase inhibitors** are stopped during respiratory failure, and gradually restarted once improvement is demonstrated after plasmapheresis or IVIG.
 
 **Varying degrees of dysphagia, dysarthria, eyelid ptosis, diplopia, and prominent muscle weakness** are symptoms of a **myasthenic crisis**. During crises, patients are placed in an ICU because of associated **intense and sudden fluctuations in clinical condition**.
 - **Ventilatory assistance** is of utmost importance. Monitoring for respiratory status (rate, depth, sounds, pulmonary function parameters \[vital capacity, negative inspiratory force]) should be continuous.

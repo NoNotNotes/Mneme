@@ -281,12 +281,12 @@ ___
 ## Cognitive Development Theory (Piaget)
 Four stages of cognitive development in understanding the world, as posited by Jean Piaget; **organization and adaptation** allow us to make sense of the world.
 
-| Stage | Age (years) | World View |
-| ---- | ---- | ---- |
-| **Sensorimotor Stage** | 0 to 2 | The child is only aware of what is in front of them. |
-| **Preoperational Stage** | 2 to 7 | The child is able to think symbolically. |
-| **Concrete Operational Stage** | 7 to 11 | The child is aware of their surroundings, and is less self-centered. |
-| **Formal Operational Stage** | 11 to 15 | The child is able to think in abstract and logical ways. |
+| Stage                          | Age (years) | World View                                                                                                                                                                                                                                            |
+| ------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sensorimotor Stage**         | 0 to 2      | *Exploration*— The child is only aware of what is in front of them. Children learn through sensory experiences and motor actions, developing object permanence (understanding that objects still exist even when out of sight).                       |
+| **Preoperational Stage**       | 2 to 7      | *Imagination*— The child is able to think symbolically. Children begin to use symbols and language, but struggle with abstract concepts and logical reasoning. They are egocentric (difficulty understanding perspectives other than their own).      |
+| **Concrete Operational Stage** | 7 to 11     | *Logic*— Children develop logical thinking skills, but primarily focused on concrete objects and events. They can understand concepts like conservation (understanding that the amount of something remains the same even if its appearance changes). |
+| **Formal Operational Stage**   | 11 to 15    | *Abstraction*— Individuals develop the ability to think abstractly, reason hypothetically, and engage in complex problem-solving.                                                                                                                     |
 ## Social Relationships Theory (Vygotsky)
 Culture and **social interaction lead cognitive development**. He claimed that we are born with four "elementary mental functions": **Attention**, **Sensation**, **Perception**, and **Memory**. Our environment (social and cultural) allow us to use these functions and to develop, leading to the development of higher mental functions. **Development** ideally occurs within the **Zone of Proximal Development**, where one is able to perform tasks with the aid of others ("**The More Knowledgeable Other**"), which eventually allows the individual to perform it on their own. 
 ## Information-Processing Theory

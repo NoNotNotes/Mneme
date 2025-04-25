@@ -23,20 +23,21 @@ The extent of damage depends on what part of the spinal column is damaged, with 
 	- Piloerection
 	- Bradycardia
 	- Bladder or rectal distention
+
 >[!TIP] Causes
 >This is a syndrome that may occur after spinal shock resolves, but it may also be due to the nervous system "overfiring" as it attempts to reach parts of the body that are below the level of injury, i.e., not receiving the appropriate signals by the brain. This results in a clinical image of pale, cool, lower extremities (if the injury is mid-thoracic; T6), while the upper half of the body experiences severe blood pressure, flushing, headaches, distended neck veins, bradycardia, sweating, etc.
 >
 >The brain attempts to send these autonomic signals to parts of the body when they experience pressure (pressure areas), restrictive clothing, a full bladder (neurogenic bladder) and fecal impaction/rectal distention (neurogenic bowel). Autonomic Dysreflexia (AD) is a medical emergency that can develop suddenly which, if not treated, can lead to seizures, stroke, and even death.
 >
 >>[!TIP] First Aid
->>4. Place the patient in a **sitting position**. **Keep the head elevated** to reduce pressure.
->>5. **Drain the bladder**; if catheterized, check for kinks. A distended bladder is one of the causes of AD.
->>6. **Loosen or take anything tight off**, such as restrictive garments, belts, etc. as pressure on parts of the body is also a cause of AD.
->>7. **Empty the bowel** or **stop digital stimulation** until symptoms subside. The same as a distended bladder, this may cause AD.
->>8. **Monitor blood pressure** every **five minutes**.
->>9. Check the skin for **sores**, **toenail problems**, and the **soles of the feet**. Pressure points are a cause of AD.
->>10. Seek professional help even if symptoms subside. If symptoms remain or return, **head to the emergency room**. Inform the staff of the presence of autonomic dysreflexia.
->	- Maintain the upright position, blood pressure monitoring, and identify the causes of AD.
+>>1. Place the patient in a **sitting position**. **Keep the head elevated** to reduce pressure.
+>>2. **Drain the bladder**; if catheterized, check for kinks. A distended bladder is one of the causes of AD.
+>>3. **Loosen or take anything tight off**, such as restrictive garments, belts, etc. as pressure on parts of the body is also a cause of AD.
+>>4. **Empty the bowel** or **stop digital stimulation** until symptoms subside. The same as a distended bladder, this may cause AD.
+>>5. **Monitor blood pressure** every **five minutes**.
+>>6. Check the skin for **sores**, **toenail problems**, and the **soles of the feet**. Pressure points are a cause of AD.
+>>7. Seek professional help even if symptoms subside. If symptoms remain or return, **head to the emergency room**. Inform the staff of the presence of autonomic dysreflexia.
+>>	- Maintain the upright position, blood pressure monitoring, and identify the causes of AD.
 
 
 ## Diagnostic Examination
