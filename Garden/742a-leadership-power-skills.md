@@ -3,7 +3,7 @@
 2. **Expert Power**: the power of control **based on the exceptional expertise a leader** that is not ordinarily found in other members of the staff.
 3. **Referent Power**: power obtained from the **admiration and respect of members based on special characteristics** (e.g. charisma) of the leader.
 4. **Connection Power**: the ability to influence others **based on linkages to other influential or powerful individuals**.
-5. **Reward Power**: the positive power of a leader to **incentivise actions** or achievements, such as with bonuses, awards, promotions, or transfers.
+5. **Reward Power**: the positive power of a leader to **incentivize actions** or achievements, such as with bonuses, awards, promotions, or transfers.
 6. **Coercive Power**: the negative power of a leader to use **duress** to gain control, such as with reprimands, termination, and penalties.
 # Skills and Qualities of a Leader
 ## Authority
