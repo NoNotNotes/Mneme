@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "isoimm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "others/oncology.md",
+                "file": "127a-isoimmunization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of oncology"
+              "title": "Outline of 127a-isoimmunization"
             }
           }
         ],
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,27 +166,36 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "copilot:Open Copilot Chat": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "eaa580d79c46fee6",
+  "active": "c94c607c1cb1d54f",
   "lastOpenFiles": [
-    "849a-f&e-overview.md",
+    "127a-isoimmunization.md",
+    "208-216a-chd.md",
+    "119a-pregnancy-estimates.md",
+    "118a-pregnancy-signs.md",
+    "120a-pregnancy-discomforts.md",
     "others/oncology.md",
+    "001a-eras.md",
+    "125a-pih.md",
+    "182-183a-essential-newborn-care.md",
+    "312a-defense-coping-mech.md",
+    "305a-mental-health-theories.md",
+    "316a-anxiety.md",
+    "601a-diabetes-mellitus.md",
+    "849a-f&e-overview.md",
     "069a-surgery-types.md",
     "vaccinations-cdc.md",
     "attachments/Pasted image 20250511002458.png",
     "750a-last-wills.md",
     "others",
-    "001a-eras.md",
     "009a-liabilities.md",
     "742a-leadership-power-skills.md",
     "741a-leadership-theories-styles.md",
     "754a-nures-rrl.md",
     "Home.md",
     "259-268a-growth-and-development.md",
-    "208-216a-chd.md",
     "144-145a-labor-stages.md",
     "attachments/teeth.png",
     "attachments/teeth_deciduous.png",
@@ -193,21 +203,11 @@
     "attachments/normal-preschooler.png",
     "547a-git-dx.md",
     "576a-hepatitis.md",
-    "277a-immunization.md",
     "attachments/normal-toddler.png",
     "attachments/ref/Maternal and Child Health Nursing (8th Ed., Joanne Flagg, 2017).pdf",
     "attachments/ref",
     "attachments/New folder",
-    "bulbar-palsy.md",
-    "667b-amyotrophic-lateral-sclerosis.md",
-    "525a-musculoskeletal-assessment.md",
     "Normal OB.pdf",
-    "368a-resp-acid.md",
-    "441a-copd.md",
-    "165a-breastfeeding.md",
-    "160a-labor-induction.md",
-    "156a-fetal-distress.md",
-    "150a-fetal-well-being.md",
     "attachments/infant_cruising.png",
     "attachments/infant_creeping.png",
     "attachments/infant_ventral-suspension.png",

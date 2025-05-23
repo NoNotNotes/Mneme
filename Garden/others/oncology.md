@@ -4,7 +4,7 @@
 - Topranker's Guidebook – Oncologic Nursing (pp. 415–428)
 - Toprank Modules
 ___
-Cancer (Greek "*karkinos*"—crab)is the appearance of cells that multiply without restraint, damage healthy tissue, and endanger life. The main cause of cancer is **unknown**—it is idiopathic in most cases.
+Cancer (Greek "*karkinos*"—crab) is the appearance of cells that multiply without restraint, damage healthy tissue, and endanger life. The main cause of cancer is **unknown**—it is idiopathic in most cases.
 
 There are two primary theories in the formation of cancer:
 1. **Cellular Transformation (and Derangement) Theory**: cells exposed to etiologic factors transform into cancer cells.
@@ -334,10 +334,15 @@ In terminally ill patients, the nurse focuses on nutrition, activity, supportive
 5. **Psychosocial Support**: open communication with patient and family, therapeutic communication
 6. **Control of odor**: infectious organisms may form offensive odors. Frequent changing of dressings and good hygiene is important.
 ## Oncologic Emergencies
+
 ### Tumor Lysis Syndrome
+
 ### Superior Vena Cava Syndrome
+
 ### Sepsis and Disseminated Intravascular Coagulation
+
 ### Syndrome of Inappropriate Antidiuretic Hormone
+
 ### Spinal Cord Compression
 The entrance of a tumor into the spinal cord or when the vertebral column collapses from tumor entry will result in spinal cord compression.
 1. **Signs and symptoms**: back pain is an early sign, usually appearing before neurological deficits occur. Neurological deficits include numbness, tingling, loss of urethral, vaginal, and rectal sensation, and muscle weakness. Other manifestations are dependent on the level of the spinal compression.
@@ -348,9 +353,27 @@ Excessive malignancy that involves bone metastasis will release calcium into the
 2. **Intervention**: monitor serum calcium levels and ECG changes. Medications that lower serum calcium levels are given as prescribed. Dialysis may be required if the condition becomes life-threatening or is accompanied by renal impairment. Oral or parenteral fluids help reduce concentration and kidney stone formation.
 ___
 # Bladder Cancer
-1. **Risk Factors**: 
-2. **Signs and Symptoms**: 
-3. **Treatment**: 
+Bladder cancer
+1. **Risk Factors**:
+	- Demographics: 4:1 ratio between men and women respectively. Industrial workers show higher rates of bladder cancer.
+	- Lifestyle: exposure to environmental carcinogens, cigarette smoking, high cholesterol intake
+	- Health history: high urinary pH, bladder stones, pelvic radiation therapy
+2. **Signs and Symptoms**: the most common (and early) sign is painless hematuria. Dysuria may also occur. Urinary hesitancy may appear. Pelvic and back pain may be present.
+3. **Diagnostic Evaluation**: Imaging—cystoscopy, CT scan, ultrasonography; palpation via bimanual examination (tumor sizing and location, extent of invasion, bladder mobility) is useful for staging.
+4. **Treatment**:
+	- Ileal Conduit: the ileum is used for a stoma. As such, it requires an external drainage bag.
+	- Ureterostomy: the ureters are used for stomas.
+	- Vesicostomy: the bladder is used for a stoma.
+	- Nephrostomy: a tube is inserted into the kidney as a stoma.
+	- Ureterosigmoidostomy: the ureters are attached to the sigmoid colon. This allows for voiding through the rectum. This is no longer a regular procedure due to the risk of infection, electrolyte imbalance, and incontinence.
+	- Neobladder: the ascending colon is connected to the urethra, allowing for voiding through the natural route.
+	- Kock pouch: the ileum is used as a bladder with valve, then self-catheterized for drainage.
+	- Indiana pouch: the ascending colon is used as a bladder, then self-catheterized for drainage.
+	- Mitrofanoff: the appendix and ileocecal valve are used as a bladder, then self-catheterized for drainage.
+5. **Nursing Management**:
+	- Administering IV fluids
+	- Pain management
+	- Comfort measures—small frequent meals, decreased fluid intake, provision of rest
 ___
 # Bone Cancer
 1. **Risk Factors**: 
@@ -367,7 +390,7 @@ ___
 >[!TIP] Breast Self-Examination
 >The best way to detect breast cancer early is to perform regular self-examination by 20 years of age.
 >- Examination is done after menstruation, or on the same day of the month for postmenopausal women. While self-examination is important, clinical breast examinations should also be done every 3 to 5 years. For women over the age of 45, an annual mammogram is recommended. For women 55 or older, a biennial mammogram is recommended.
->- While in a standing position, assess for symmetry of the breasts. Use both hands to examine the breasts. While in a lying position, support the back on the side of the breast to be palpated. Palpate the breast tissues from the center to the periphery in a circular motion with the finger tips. Palpation includes the tail of Spence (part of the breast) and the axillary area (common area for lymph node involvement).
+>- While in a standing position, assess for symmetry of the breasts. Use both hands to examine the breasts. While in a lying position, support the back on the side of the breast to be palpated. Palpate the breast tissues from the center to the periphery in a circular motion with the fingertips. Palpation includes the tail of Spence (part of the breast) and the axillary area (common area for lymph node involvement).
 
 1. **Risk Factors**:
 	- Advanced menarche (<11 years), delayed menopause (>50 years)
@@ -391,20 +414,53 @@ ___
 	- Stage II: breast tumor up to 5 cm in size with axillary lymph node involvemnt
 	- Stage III: breast tumor larger than 5 cm in size with axillary, supraclavicular, and infraclavicular lymph node involvement
 	- Stage IV: involvement of secondary sites (LLBBA).
-4. **Treatment**: 
+4. **Treatment**: Tamoxifen, surgical removal: oophorectomy, mastectomy; ablative treatment with adrenalectomy.
 ___
 # Cervical Cancer
-1. **Risk Factors**: 
-2. **Signs and Symptoms**: 
+1. **Risk Factors**:
+	- Lifestyle: promiscuous, poor hygiene
+	- Medical history: early and high parity; previous HPV or herpes infection
+2. **Signs and Symptoms**:
+	- Positive Papanicolau test result
+	- Painless vaginal bleeding or spotting with serosanguinous and foul discharge
+	- Dyspareunia and dysmenorrhea
 3. **Treatment**: 
+	- Implantation and laser treatment
+	- Cryosurgery (results in heavy watery discharge), conization, hysterectomy, and pelvic exenteration.
 ___
 # Colorectal Cancer
-1. **Risk Factors**: 
-2. **Signs and Symptoms**: 
-3. **Treatment**: 
+1. **Risk Factors**:
+	- Lifestyle: alcoholism, cigarette smoking, high-fat high-protein low-fiber diet.
+	- This type of cancer occurs equally between both sexes.
+	- History: family history, history of colon cancer or polyps, previous gastrectomy, history of inflammatory bowel disease, and history of genital cancer.
+2. **Signs and Symptoms**:
+	- **Altered bowel patterns** (most common); diarrhea occurs if the cancer is on the ascending colon, constipation occurs if the cancer is on the descending colon, and patterns alternate when the cancer is on the rectum.
+	- Stool may be **pencil-like**. It may also contain blood from gastrointestinal bleeding. Because of bleeding, unexplained anemia may also be present.
+	- Anorexia, weight loss, fatigue, dull abdominal pain, and abdominal distention may be present.
+	- Abscess formation, fistula formation, obstruction, and perforation are all potential complications of colon cancer.
+3. **Diagnostic Evaluation**: findings may initially appear during a digital rectal exam or occult stool exam. Imaging with a colonoscopy, proctosigmoidoscopy, or CT scan can also visualize the cancer. A carcinoembryonic antigen (CEA) analysis may also reveal the presence of cancer.
+	- Recommended digital rectal exam schedule: once a year for those 40 years old and above.
+	- Recommended occult stool exam: once a year for those 50 years old and above.
+4. **Treatment**: bowel resection (with colostomy, ileostomy)
+	- Hemicolectomy: removal of the left (descending) or right (ascending) colon.
+	- Transverse colectomy: removal of the transverse colon.
+	- Sigmoidectomy: removal of the sigmoid colon
+	- Abdominal-perineal resection (Miles' procedure): removal of the sigmoid colon, rectum, and anal sphincter.
+5. **Complications**: bowel obstruction, gastrointestinal bleeding, perforating, abscess formation, peritonitis, sepsis, shock
+6. **Nursing Management**:
+	- Pre-operatively, the nurse is responsible for bowel cleaning. The patient is instructed to remain on a low-residue diet for 3 to 5 days then to be on clear liquids then NPO post-midnight. A laxative and cleansing enema is also given. Neomycin is also given as prophylaxis prior to the surgery.
+	- Post-operatively, comfort can be promoted with a warm Sitz bath. Stoma is the primary responsibility of the nurse:
+		- **Appearance**: The stoma is normally red or pink—good blood flow—and protrudes by half an inch. Dark, dusky brown, or black membranes are abnormal and indicate ischemia and necrosis. The stoma should be moist, like the inside of one's cheek.
+		- **Drainage**: Flatus and fecal drainage should resume in 4 to 7 days.
+		- **Pouch Management**: the pouch should be emptied when it is one-half or one-thirds full to prevent leakage or detachment. Replacement of the pouch is done every three to seven days.
+		- **Peristomal Skin Care**: the skin should be kept clean and dry. Barrier products (e.g., Karaya \[Talc/Cornstarch] paste; barrier rings) can be used to protect the skin from irritation.
+		- **Irrigation** with warm normal saline is done to clean the bowels. Starting with 200 mL, two rounds of irrigation is done—first to stimulate peristalsis, and second to evacuate feces. The patient is positioned in semi-Fowler's position, and the lubricated (water-based) catheter is inserted into the stoma by two to four inches. The solution container is hung 12 to 18 inches above the stoma (about shoulder-height) and retained for 5 to 10 minutes. The solution is drained after 15 to 20 minutes.
+			- If cramps occur, stoop the irrigation slowly until the cramps abate, then continue the irrigation at a slower rate.
+		- **Diet**: avoid **gas-forming foods** (nuts, eggs, gum, carbonated drinks, cruciferous vegetables)
 ___
 # Endometrial Cancer
-1. **Risk Factors**: 
+1. **Risk Factors**:
+	- Medical history: obesity, diabetes mellitus, hypertension, nulliparity, infertility, and history of polyps
 2. **Signs and Symptoms**: 
 3. **Treatment**: 
 ___
@@ -419,9 +475,24 @@ ___
 3. **Treatment**: 
 ___
 # Hepatocellular Cancer
-1. **Risk Factors**: 
-2. **Signs and Symptoms**: 
-3. **Treatment**: 
+Cancer of the liver. The liver itself has many functions: protein synthesis, bile production, drug metabolism, hormone metabolism, storage of glucose, and production of clotting factors. Cancer of the liver will result in the disruption of many of these functions.
+1. **Risk Factors**: Hepatitis B infection, liver cirrhosis, aflatoxins, oral contraceptives, insulin therapy, alcohol, smoking, *Clonorchis sinensis*
+2. **Signs and Symptoms**: dysfunction in any of the functions of the liver—metabolic, endocrine
+3. **Diagnostic Evaluation**: Liver biopsy
+4. **Treatment**: the only curative treatment is surgery. Liver resection or cryosurgery, then transplantation. Ethanol injections are also well-tolerated, inexpensive procedures for percutaneous ablation of hepatocellular carcinoma. Ethanol injection was potentially curative for HCC, resulting in survival for more than 20 years (Department of Gastroenterology, University of Tokyo, 2012).
+## Gallbladder Cancer
+The most common cancer of the biliary tract. This type of cancer shows poor prognosis. The five-year survival rate for people with metastasized gallbladder cancer is 2%. Prognosis tends to be poor because this type of cancer is usually not diagnosed until it's advanced—only ~20% of gallbladder cancers are diagnosed in the early stages.
+1. **Risk Factors**: Female, >65 years old, cholelithiasis
+2. **Diagnostic Evaluation**: **imaging**—ultrasound, CT scan, endoscopic retrograde cholangiopancreatography (ERCP)
+3. **Treatment**: cholecystectomy
+4. **Nursing Management**:
+	- Low-fowler's position. This reduces pressure on the surgical site and facilitates bile drainage if a T-tube is in place.
+	- Morphine sulfate (drug of choice) for pain
+	- Exercises: splinting, deep breathing, coughing
+	- Soft, low-fat diet
+	- T-tube care: a t-tube is placed after gallbladder surgery to facilitate the drainage of produced bile while the gallbladder is healing. Patency should be well-maintained; sudden increases in drainage should be reported.
+		- Bile is a necessity for digestion; the T-tube is clamped before meals, but is unclamped if nausea and vomiting occur.
+	- Watch out for and report right upper abdominal pain, nausea and vomiting, clay-colored or pale stools, jaundice, dark urine, pruritus, and signs of inflammation.
 ## Liver Cirrhosis
 ___
 # Laryngeal Cancer
@@ -445,9 +516,21 @@ ___
 3. **Treatment**: 
 ___
 # Pancreatic Cancer
-1. **Risk Factors**: 
-2. **Signs and Symptoms**: 
-3. **Treatment**: 
+Pancreatic cancer is a rapid-growing cancer. While rare before the age of 45, it increases in incidence for 70 to 80 year old individuals. It is a cancer with poor prognosis, partly due to its often late detection and diagnosis.
+1. **Risk Factors**:
+	- Lifestyle: smoking, high-fat/meat diet, exposure to industrial chemicals/toxins, alcoholism
+	- Medical history: diabetes mellitus, gastrectomy, chronic pancreatitis
+	- Family history
+2. **Signs and Symptoms**:
+	- Abdominal pain, nausea and vomiting
+	- Blood sugar problems from endocrine dysfunction of the pancreas
+	- Rapid profound and progressive weight loss
+	- Clay-colored stool (acholic stool)
+3. **Diagnostic Evaluation**: Endoscopic Retrograde Cholangiopancreatography
+4. **Treatment**:
+	- **Whipple procedure** (pancreaticoduodonectomy), the removal of the gallbladder, common bile duct, part of the duodenum, and the head of the pancreas.
+	- **Total pancreatectomy**/**Pancreatic resection**
+5. **Nursing Management**: Pain management, improve fluid and nutritional requirements, and skin care required for pruritus.
 ___
 # Prostatic Cancer
 1. **Risk Factors**: 
@@ -460,9 +543,20 @@ ___
 3. **Treatment**: 
 ___
 # Skin Cancer
-1. **Risk Factors**: 
-2. **Signs and Symptoms**: 
-3. **Treatment**: 
+Skin cancer may be characterized by its symmetry, border, color, diameter, and elevation.
+1. **Risk Factors**: skin cancer is most common attributed to exposure to the sun.
+	- **Demographics**: fair-skinned, fair-haired, blue-eyed people, genetic factors
+	- **Lifestyle**: chronic sun exposure, exposure to chemical pollutants
+	- **History**: sunburns, sun-damaged skin (elderly), history of x-ray therapy, immunosuppression
+2. **Variants**:
+	- Basal cell carcinoma: most common; metastasis is rare.
+	- Squamous cell carcinoma: potential metastasis.
+	- Malignant melanoma: third most common type, and most deadly form. These often arise from birthmarks or moles in any place.
+3. **Treatment**: Ablative electrosurgery (application of electricity), cryosurgery (deep freezing tissue), or radiation therapy
+4. **Nursing Management**:
+	- Patient education of changing dressings, and observing for excessive bleeding, tight dressings, and other complications
+	- Application of emollient creams for reducing dryness
+	- Follow-up examinations every three months
 ___
 # Testicular Cancer
 1. **Risk Factors**: 
