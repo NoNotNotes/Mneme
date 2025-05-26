@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "others/oncology.md",
+                "file": "others/normal-psych.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "oncology"
+              "title": "normal-psych"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isoimm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -171,12 +171,17 @@
   },
   "active": "c94c607c1cb1d54f",
   "lastOpenFiles": [
+    "347a-conduct-disorder.md",
+    "321a-schizophrenia.md",
+    "others/normal-psych.md",
+    "Untitled.md",
+    "others/oncology.md",
+    "others/oncology2.md",
     "127a-isoimmunization.md",
     "208-216a-chd.md",
     "119a-pregnancy-estimates.md",
     "118a-pregnancy-signs.md",
     "120a-pregnancy-discomforts.md",
-    "others/oncology.md",
     "001a-eras.md",
     "125a-pih.md",
     "182-183a-essential-newborn-care.md",
@@ -194,15 +199,10 @@
     "742a-leadership-power-skills.md",
     "741a-leadership-theories-styles.md",
     "754a-nures-rrl.md",
-    "Home.md",
-    "259-268a-growth-and-development.md",
-    "144-145a-labor-stages.md",
     "attachments/teeth.png",
     "attachments/teeth_deciduous.png",
     "attachments/teeth_permanent.png",
     "attachments/normal-preschooler.png",
-    "547a-git-dx.md",
-    "576a-hepatitis.md",
     "attachments/normal-toddler.png",
     "attachments/ref/Maternal and Child Health Nursing (8th Ed., Joanne Flagg, 2017).pdf",
     "attachments/ref",

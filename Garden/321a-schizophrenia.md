@@ -99,22 +99,22 @@ Antipsychotics block dopamine, which results in **extrapyramidal side effects**.
 - **Convening support groups**: focus on daily problems and stress. Reduce suicide risk.
 - **Developing psychiatric rehabilitation strategies** e.g. occupational training, job placement, and social skills training
 
-|Side Effect|Nursing Action|
-|---|---|
-|**Dystonic Reactions**|Medications; Assurance|
-|**Tardive Dyskinesia**|Assess via [[05-2\|AIMS]]; report elevation|
-|**NMS**|Stop all antipsychotics; notify physician|
-|**Akathisia**|Medications|
-|**EPSs**|Medications|
-|**Seizures**|Stop medication; safety; assurance|
-|**Sedation**|Caution in activities requiring full alertness|
-|**Photosensitivity**|Caution for sun exposure; utilize sunscreen and clothing|
-|**Weight Gain**|Encourage balanced dieting; exercise|
-|**Dry Mouth**|Ice chips, hard candy|
-|**Blurred Vision**|Monitor; if unabated, notify physician|
-|**Constipation**|Increase fluid and dietary fiber; stool softener if unrelieved|
-|**Urinary Retention**|Advise to report frequency or dysuria; report if persistent|
-|**Orthostatic Hypotension**|Advise to rise slowly when sitting or lying|
+| Side Effect                 | Nursing Action                                                 |
+| --------------------------- | -------------------------------------------------------------- |
+| **Dystonic Reactions**      | Medications; Assurance                                         |
+| **Tardive Dyskinesia**      | Assess via AIMS; report elevation                              |
+| **NMS**                     | Stop all antipsychotics; notify physician                      |
+| **Akathisia**               | Medications                                                    |
+| **EPSs**                    | Medications                                                    |
+| **Seizures**                | Stop medication; safety; assurance                             |
+| **Sedation**                | Caution in activities requiring full alertness                 |
+| **Photosensitivity**        | Caution for sun exposure; utilize sunscreen and clothing       |
+| **Weight Gain**             | Encourage balanced dieting; exercise                           |
+| **Dry Mouth**               | Ice chips, hard candy                                          |
+| **Blurred Vision**          | Monitor; if unabated, notify physician                         |
+| **Constipation**            | Increase fluid and dietary fiber; stool softener if unrelieved |
+| **Urinary Retention**       | Advise to report frequency or dysuria; report if persistent    |
+| **Orthostatic Hypotension** | Advise to rise slowly when sitting or lying                    |
 
 |Medication|Action|
 |---|---|
