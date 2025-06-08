@@ -1,4 +1,4 @@
-**Reference**: Lectures (Wong, Luansing)
+**Reference**: Lecturers (Wong, Luansing)
 
 According to **Buenavista**, there are four periods in the history of nursing:
 1. **Intuitive** (Medieval) **Period** (Pre-17th century): nursing was based on **experience** and intuition. **No formal training**, mentorship systems, or exhaustive scientific bases were in place. **Compassion** and instinct were the core of nursing acts, mainly **performed by women**.

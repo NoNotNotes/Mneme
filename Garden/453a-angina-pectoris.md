@@ -75,16 +75,16 @@ ___
 In the assessment phase, the nurse gathers information about the patient's symptoms and activities, especially those that precede and precipitate attacks of angina pectoris. Risk factors for CAD are identified, along with how the patient (and their family) understands and responds to the diagnosis. If they are currently undergoing treatment, their adherence is also noted.
 
 A thorough assessment of the pain experienced by the patient is important:
-- "Where is the pain (or prodromal symptoms)? Can you point to it?"
-- "Can you feel the pain anywhere else?"
-- "How would you describe the pain?"
-- "Is it like the pain you had before?"
-- "Can you rate the pain on a 0–10 scale, with 10 being the most pain?"
-- "When did the pain begin?"
-- "How long does it last?"
-- "What brings on the pain?"
-- "What helps the pain go away?"
-- "Do you have any other symptoms with the pain?"
+- *"Where is the pain (or prodromal symptoms)? Can you point to it?"*
+- *"Can you feel the pain anywhere else?"*
+- *"How would you describe the pain?"*
+- *"Is it like the pain you had before?"*
+- *"Can you rate the pain on a 0–10 scale, with 10 being the most pain?"*
+- *"When did the pain begin?"*
+- *"How long does it last?"*
+- *"What brings on the pain?"*
+- *"What helps the pain go away?"*
+- *"Do you have any other symptoms with the pain?"*
 
 >[!EXAMPLE] Nursing Diagnoses
 >- Risk for impaired cardiac function
@@ -106,38 +106,27 @@ A thorough assessment of the pain experienced by the patient is important:
 	- Continuous monitoring for the patient is important. Watch out for respiratory distress, watch ECG readings for ST-segment and T-wave changes.
 	- Nitroglycerin is given sublingually and response is evaluated. Repetition of doses at 5-minute intervals is done up to three doses if the pain remains present. With each dose, vital signs assessment is done (pain, blood pressure, heart rate). If pain continues, the patient is further evaluated for acute MI and may be transferred to a higher-acuity nursing unit.
 	- Oxygen therapy is begun if saturation levels are decreased. Normally, oxygen at 2 L/min is given via nasal cannula even without evidence of desaturation, though this practice has not been shown to have a positive effect on patient outcome.
-
->[!TIP] Patient Outcome Evaluation Goals
->**Reports that pain is relieved promptly**
->	a. Recognizes symptoms
->	b. Takes immediate action
->	c. Seeks medical assistance if pain persists or changes in quality
-
+	- **Patient Outcome Evaluation Goals**: **Reports that pain is relieved promptly**
+		1. Recognizes symptoms
+		2. Takes immediate action
+		3. Seeks medical assistance if pain persists or changes in quality
 2. **Reducing Anxiety**: patients with angina fear the loss of roles within society and family, and MI or death. The nurse can explore the implications of the diagnosis with the patient by providing information about the illness, its treatment, and methods of preventing its progression.
 	- Various stress reduction methods such as guided imagery or music therapy can be explored with the patient.
 	- Spiritual needs are also addressed— these may also allay anxieties and fears.
-
->[!TIP] Patient Outcome Evaluation Goals
->**Reports decreased anxiety**
->	a. Expresses acceptance of diagnosis
->	b. Expresses control over choices within medical regimen
->	c. Does not exhibit signs and symptoms that indicate a high level of anxiety
-
+	- **Patient Outcome Evaluation Goals**: **Reports decreased anxiety**
+		1. Expresses acceptance of diagnosis
+		2. Expresses control over choices within medical regimen
+		3. Does not exhibit signs and symptoms that indicate a high level of anxiety
 3. **Preventing Pain**: the nurse must identify the level of activity that causes the patient's pain or prodromal symptoms, then plan activities accordingly. If pain appears frequently or with minimal activity, the nurse should alternate activities with rest periods. Balancing activity and rest is an important aspect of the educational plan for the patient and family.
-
->[!TIP] Patient Outcome Evaluation Goals
->**Understands ways to avoid complications and is free of complications**
->	a. Describes the process of angina
->	b. Explains reasons for measures to prevent complications
->	c. Exhibits stable ECG
->	d. Experiences no signs and symptoms of acute MI
-
+	- **Patient Outcome Evaluation Goals**: **Understands ways to avoid complications and is free of complications**
+		1. Describes the process of angina
+		2. Explains reasons for measures to prevent complications
+		3. Exhibits stable ECG
+		4. Experiences no signs and symptoms of acute MI
 4. **Promoting Home, Community-based, and Transitional Care**:
 	- Self-care requires understanding of the illness, identification of symptoms, knowledge of the actions to take when symptoms develop, and awareness of methods to prevent chest pain and the advancement of CAD.
 	- Continuing and Transitional Care is used for patients with special needs or disability. A home health or transitional care nurse can assist with scheduling, appointments, monitoring, and adherence.
-
->[!TIP] Patient Outcome Evaluation Goals
->**Adheres to self-care program**
->	a. Takes medications as prescribed
->	b. Keeps health care appointments
->	c. Implements plan to reduce risk factors
+	- **Patient Outcome Evaluation Goals**: **Adheres to self-care program**:
+		1. Takes medications as prescribed
+		2. Keeps health care appointments
+		3. Implements plan to reduce risk factors

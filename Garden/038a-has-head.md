@@ -2,7 +2,9 @@
 >Berman, A., Snyder, S., Frandsen, G. (2021). Health Assessment. In *Kozier & Erb's Fundamentals of Nursing Concepts, Process and Practice* (11th ed., pp. 570-650). Pearson Education
 
 During assessment of the head, the nurse inspects and palpates simultaneously and also auscultates. The nurse examines the skull, face, eyes, ears, nose, sinuses, mouth, and pharynx.
+
 ___
+
 # Skull and Face
 A normal skull can be of a multitude of forms. Normal head size ("normocephaly") is determined by being within a two standard deviations on the normal size chart based on age, sex, and race of the client.
 1. **Edema of the Eyelids**: kidney or cardiac disease
@@ -14,6 +16,7 @@ A normal skull can be of a multitude of forms. Normal head size ("normocephaly")
 ![[anatomy_skull-bones.png]]
 
 ___
+
 # Eyes and Vision
 To maintain optimum vision, people need to have their eyes examined regularly throughout life. It is recommended that people under age 30 have their eyes tested every 3 to 5 years, or more frequently if there is a family history of diabetes, hypertension, blood dyscrasia, or eye disease (e.g., glaucoma). After age 40, an eye examination is recommended every 2 years. Assessment includes examination of the:
 1. **External Structures**
@@ -44,9 +47,11 @@ Many people wear eyeglasses or contact lenses to correct common refractive error
 2. **Hyperopia**: farsightedness
 3. **Presbyopia**: age-related loss of elasticity of the lens and resultant farsightedness.
 4. **Astigmatism**: an uneven curvature of the cornea that prevents horizontal and vertical rays from focusing on the retina.
+
 ___
+
 # Ears and Hearing
-Assessment of the ear includes **direct inspection** and palpation of the external ear, **inspection of the internal parts of the ear by an otoscope**, and determination of **auditory acuity**. The process of "hearing" is a complex process. Sound can be detected by the ear through two mediums-- air (air conduction) and bone (bone conduction).
+Assessment of the ear includes **direct inspection** and palpation of the external ear, **inspection of the internal parts of the ear by an otoscope**, and determination of **auditory acuity**. The process of "hearing" is a complex process. Sound can be detected by the ear through two mediums—air (air conduction) and bone (bone conduction).
 - **Audiometric evaluations** (measurement of hearing at various decibels) are recommended for children and older adults.
 - **Conductive hearing loss**: interruption of transmission of sound waves through the outer and middle ear structures, such as in a perforated tympanum, impacted cerumen, swelling of the auditory canal, etc.
 - **Sensorineural hearing loss**: inability to detect sound due to damage to the inner ear, the auditory nerve, or the hearing center in the brain.
@@ -61,6 +66,7 @@ Hearing loss is the most common chronic health condition in the United States, a
 >4. **Older Adults**: sensorineural hearing loss occurs. A quiet place must be used for examination. Generalized hearing loss occurs across all frequencies, but it often begins with high-frequency sounds ("*f*", "*s*", "*sh*", "*ph*"). Conversation can become distorted and result in what appears to be inappropriate or confused behavior.
 
 ___
+
 # Nose and Sinuses
 The nurse can inspect the nasal passages very simply with a flashlight or penlight. Assessment of the nose includes inspection and palpation of the external nose (the upper third of the nose is bone; the remainder is cartilage) and patency of the nasal cavities.
 - Any reported problems with smell may warrant the nurse to test for the patient's sense of smell.
@@ -76,18 +82,19 @@ The nurse can inspect the nasal passages very simply with a flashlight or penlig
 
 >[!TIP] Lifespan Considerations
 >1. **Infants and Children**:
->	- Push the tip of the nose gently upward with the thumb and shine a light into the nares.
->	- Ethmoid and maxillary sinuses are present at birth; frontal sinuses begin to develop by 1 to 2 years of age; and sphenoid sinuses develop later in childhood. Infants and young children have fewer sinus problems than older children and adolescents.
->	- Ethmoid sinuses continue to develop until age 12.
->	- Cough and runny nose are the most common signs of sinusitis in preadolescent children. Adolescents with sinusitis may have headaches, facial tenderness, and swelling.
+>		- Push the tip of the nose gently upward with the thumb and shine a light into the nares.
+>		- Ethmoid and maxillary sinuses are present at birth; frontal sinuses begin to develop by 1 to 2 years of age; and sphenoid sinuses develop later in childhood. Infants and young children have fewer sinus problems than older children and adolescents.
+>		- Ethmoid sinuses continue to develop until age 12.
+>		- Cough and runny nose are the most common signs of sinusitis in preadolescent children. Adolescents with sinusitis may have headaches, facial tenderness, and swelling.
 >2. **Older Adults**: sense of smell becomes markedly diminished due to decreased number of and atrophy of olfactory nerve fibers.
->	- Nosebleeds may occur due to hypertensive disease or other arterial vessel changes.
+>		- Nosebleeds may occur due to hypertensive disease or other arterial vessel changes.
 
 ___
+
 # Mouth and Oropharynx
 The mouth and oropharynx are composed of a number of structures. Assessment is mainly done with inspection.
 1. **Dental Caries**
-2. **Periodontal Disease** (Pyorrhea) is characterized by **gingivitis**-- red, swollen gingiva, bleeding, receding gum lines, and the formation of pockets between the teeth and gums. 
+2. **Periodontal Disease** (Pyorrhea) is characterized by **gingivitis**—red, swollen gingiva, bleeding, receding gum lines, and the formation of pockets between the teeth and gums.
 3. **Plaque**: invisible soft film that adheres to the enamel surface of teeth; it consists of bacterial, molecules of saliva, and remnants of epithelial cells and leukocytes.
 4. **Tartar** (dental calculus): if plaque is left unchecked, tartar forms. It is a visible, hard deposit of plaque and dead bacterial that forms at the gum lines.
 5. **Glossitis**: inflammation of the tongue.
@@ -98,24 +105,22 @@ The mouth and oropharynx are composed of a number of structures. Assessment is m
 
 >[!TIP] Lifespan Considerations
 >1. **Infants**:
->	- Inspect the palate and uvula for a cleft. A bifid (forked) uvula may indicate an unsuspected cleft palate.
->	- Newborns may have pearly white nodules (epstein pearls) on their gums, which resolve without treatment.
->	- The first teeth erupt at about 6 to 7 months of age. Dental hygiene should be performed; assess adequate dental care by the parents. Cleansing of the infant's teeth should be done daily with a soft cloth or soft toothbrush.
->	- Fluoride supplements should be given by 6 months if the child's drinking water contains less than 0.3 parts per million (ppm) fluoride.
->	- Children should see a dentist by 1 year of age.
->1. **Children**:
->	- Tooth development should be appropriate for age.
->	- White spots on the teeth may indicate excessive fluoride ingestion.
->	- Drooling is common up to 2 years of age.
->	- The tonsils are normally larger in children than in adults and commonly extend beyond the palatine arch until the age of 11 or 12 years.
->1. **Older Adults**:
->	- Oral mucosa may be drier from decreased salivary gland activity or medications.
->	- Gum recession may occur, giving an appearance of increased toothiness.
->	- Taste sensations diminish due to taste bud atrophy and a decreased sense of smell, also related to decreased function of the fifth and seventh cranial nerves.
->	- Tiny purple or bluish black swollen areas under the tongue, known as *caviar spots*, are not uncommon. They are varicosities.
->	- Teeth may show signs of staining, erosion, chipping, and abrasions from loss of dentin. Older adults with limited income may delay or avoid professional dental care.
->	- Tooth loss occurs as a result of dental disease but is preventable with good dental hygiene.
->	- Check that full or removable dentures fit properly. Bone loss and weight loss or gain can change the way these prosthetics fit. Older adults may also fail to receive dental care (for both natural teeth and dentures) if they are homebound or in long-term care facilities.
->	- The gag response may be slightly sluggish.
-
-
+>		- Inspect the palate and uvula for a cleft. A bifid (forked) uvula may indicate an unsuspected cleft palate.
+>		- Newborns may have pearly white nodules (epstein pearls) on their gums, which resolve without treatment.
+>		- The first teeth erupt at about 6 to 7 months of age. Dental hygiene should be performed; assess adequate dental care by the parents. Cleansing of the infant's teeth should be done daily with a soft cloth or soft toothbrush.
+>		- Fluoride supplements should be given by 6 months if the child's drinking water contains less than 0.3 parts per million (ppm) fluoride.
+>		- Children should see a dentist by 1 year of age.
+>2. **Children**:
+>		- Tooth development should be appropriate for age.
+>		- White spots on the teeth may indicate excessive fluoride ingestion.
+>		- Drooling is common up to 2 years of age.
+>		- The tonsils are normally larger in children than in adults and commonly extend beyond the palatine arch until the age of 11 or 12 years.
+>3. **Older Adults**:
+>		- Oral mucosa may be drier from decreased salivary gland activity or medications.
+>		- Gum recession may occur, giving an appearance of increased toothiness.
+>		- Taste sensations diminish due to taste bud atrophy and a decreased sense of smell, also related to decreased function of the fifth and seventh cranial nerves.
+>		- Tiny purple or bluish black swollen areas under the tongue, known as *caviar spots*, are not uncommon. They are varicosities.
+>		- Teeth may show signs of staining, erosion, chipping, and abrasions from loss of dentin. Older adults with limited income may delay or avoid professional dental care.
+>		- Tooth loss occurs as a result of dental disease but is preventable with good dental hygiene.
+>		- Check that full or removable dentures fit properly. Bone loss and weight loss or gain can change the way these prosthetics fit. Older adults may also fail to receive dental care (for both natural teeth and dentures) if they are homebound or in long-term care facilities.
+>		- The gag response may be slightly sluggish.

@@ -2,7 +2,9 @@
 >Berman, A., Snyder, S., Frandsen, G. (2021). Health Assessment. In *Kozier & Erb's Fundamentals of Nursing Concepts, Process and Practice* (11th ed., pp. 570-650). Pearson Education
 
 The integument includes the skin, hair, and nails. The examination begins with a generalized inspection using a good source of lighting, preferably indirect natural daylight.
+
 ___
+
 # Skin
 **Skin**: inspection (sight, smell) and palpation.
 1. Pungent body odor related to poor hygiene, hyperhidrosis, or bromhidrosis.
@@ -15,37 +17,41 @@ ___
 8. **Skin lesions**: alterations in a client's normal skin appearance either as **primary lesions** (due to changes in the external or internal environment of the skin) or **secondary lesions** that result from chronicity, trauma, or infection of the primary lesion.
 	- Describe lesions in terms of location, distribution, configuration, color, shape, size, firmness, texture, and characteristics of individual lesions.
 
-| Lesion          | Group                 | Size         | Description                                                                                                                                                                        |
-| --------------- | --------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Macule          | Primary; Flat         | 1 mm to 1 cm | Flat, unelevated change in color. Circumscribed.                                                                                                                                   |
-| Patch           | Primary; Flat         | >1 cm        | Flat, unelevated change in color. May be irregular.                                                                                                                                |
-| Papule          | Primary; Elevated     | <1 cm        | Circumscribed, solid elevation of skin                                                                                                                                             |
-| Plaque          | Primary; Elevated     | >1 cm        | Solid elevation of skin.                                                                                                                                                           |
-| Nodule          | Primary; Elevated     | 0.5 - 2 cm   | Solid, hard mass that extends deeper into the dermis than a papule. Borders are circumscribed.                                                                                     |
-| Tumor           | Primary; Elevated     | >2 cm        | Solid, hard mass that extends deeper into the dermis than a papule. Borders may not be easily distinguishable.                                                                     |
-| Pustule         | Primary; Fluid-filled | Varies       | Vesicle or bulla filled with pus.                                                                                                                                                  |
-| Vesicle         | Primary; Fluid-filled | <0.5 cm      | Circumscribed, round or oral, thin translucent mass filled with serous fluid or blood.                                                                                             |
-| Bulla           | Primary; Fluid-filled | >0.5 cm      | Circumscribed, round or oral, thin translucent mass filled with serous fluid or blood.                                                                                             |
-| Cyst            | Primary; Fluid-filled | >1 cm        | Encapsulated, fluid-filled or semisolid mass arising from the subcutaneous tissue or dermis.                                                                                       |
-| Wheal           | Primary; Fluid-filled | Varies       | Reddened, localized collection of edema fluid; irregular in shape                                                                                                                  |
-| Atrophy         | Secondary             |              | Translucent, dry, paper-like, sometimes wrinkled skin surface resulting from thinning or wasting of the skin due to loss of collagen and elastin.                                  |
-| Erosion         | Secondary             |              | Wearing away of the superficial epidermis causing a moist, shallow depression.                                                                                                     |
-| Lichenification | Secondary             |              | Rough, thickened, hardened area of epidermis resulting from chronic irritation such as scratching or rubbing.                                                                      |
-| Scales          | Secondary             |              | Shedding flakes of greasy, keratinized skin tissue.                                                                                                                                |
-| Crust           | Secondary             |              | Dry blood, serum, or pus left on the skin surface when vesicles or pustules burst. Can be red-brown, orange, or yellow. If large crusts adhere to the skin, they are called scabs. |
-| Ulcer           | Secondary             |              | Deep, irregularly shaped area of skin loss extending into the dermis or subcutaneous tissue. May bleed. May leave scar.                                                            |
-| Fissure         | Secondary             |              | Linear crack with sharp edges, extending into the dermis.                                                                                                                          |
-| Scar            | Secondary             |              | Flat, irregular area of connective tissue left after a lesion or wound has healed. Color may appear red or purple for new scars, and silvery and white for old scars.              |
-| Keloid          | Secondary             |              | Elevated, irregular, darkened area of excess scar tissue caused by excessive collagen formation during healing, extending beyond the site of the original injury.                  |
-| Excoriation     | Secondary             |              | Linear erosion                                                                                                                                                                     |
+| Lesion              | Group                 | Size         | Description                                                                                                                                                                        |
+| ------------------- | --------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Macule**          | Primary; Flat         | 1 mm to 1 cm | Flat, unelevated change in color. Circumscribed.                                                                                                                                   |
+| **Patch**           | Primary; Flat         | >1 cm        | Flat, unelevated change in color. May be irregular.                                                                                                                                |
+| **Papule**          | Primary; Elevated     | <1 cm        | Circumscribed, solid elevation of skin                                                                                                                                             |
+| **Plaque**          | Primary; Elevated     | >1 cm        | Solid elevation of skin.                                                                                                                                                           |
+| **Nodule**          | Primary; Elevated     | 0.5 - 2 cm   | Solid, hard mass that extends deeper into the dermis than a papule. Borders are circumscribed.                                                                                     |
+| **Tumor**           | Primary; Elevated     | >2 cm        | Solid, hard mass that extends deeper into the dermis than a papule. Borders may not be easily distinguishable.                                                                     |
+| **Pustule**         | Primary; Fluid-filled | Varies       | Vesicle or bulla filled with pus.                                                                                                                                                  |
+| **Vesicle**         | Primary; Fluid-filled | <0.5 cm      | Circumscribed, round or oral, thin translucent mass filled with serous fluid or blood.                                                                                             |
+| **Bulla**           | Primary; Fluid-filled | >0.5 cm      | Circumscribed, round or oral, thin translucent mass filled with serous fluid or blood.                                                                                             |
+| **Cyst**            | Primary; Fluid-filled | >1 cm        | Encapsulated, fluid-filled or semisolid mass arising from the subcutaneous tissue or dermis.                                                                                       |
+| **Wheal**           | Primary; Fluid-filled | Varies       | Reddened, localized collection of edema fluid; irregular in shape                                                                                                                  |
+| **Atrophy**         | Secondary             |              | Translucent, dry, paper-like, sometimes wrinkled skin surface resulting from thinning or wasting of the skin due to loss of collagen and elastin.                                  |
+| **Erosion**         | Secondary             |              | Wearing away of the superficial epidermis causing a moist, shallow depression.                                                                                                     |
+| **Lichenification** | Secondary             |              | Rough, thickened, hardened area of epidermis resulting from chronic irritation such as scratching or rubbing.                                                                      |
+| **Scales**          | Secondary             |              | Shedding flakes of greasy, keratinized skin tissue.                                                                                                                                |
+| **Crust**           | Secondary             |              | Dry blood, serum, or pus left on the skin surface when vesicles or pustules burst. Can be red-brown, orange, or yellow. If large crusts adhere to the skin, they are called scabs. |
+| **Ulcer**           | Secondary             |              | Deep, irregularly shaped area of skin loss extending into the dermis or subcutaneous tissue. May bleed. May leave scar.                                                            |
+| **Fissure**         | Secondary             |              | Linear crack with sharp edges, extending into the dermis.                                                                                                                          |
+| **Scar**            | Secondary             |              | Flat, irregular area of connective tissue left after a lesion or wound has healed. Color may appear red or purple for new scars, and silvery and white for old scars.              |
+| **Keloid**          | Secondary             |              | Elevated, irregular, darkened area of excess scar tissue caused by excessive collagen formation during healing, extending beyond the site of the original injury.                  |
+| **Excoriation**     | Secondary             |              | Linear erosion                                                                                                                                                                     |
+
 ___
+
 # Hair
 Assessing a client's hair includes inspecting the hair, considering developmental changes and ethnic differences, and determining the individual's hair care practices and factors influencing them. Much of the information about hair can be obtained by questioning the client.
 1. Hair is normally **resilient** and **evenly distributed**.
 2. **Faded** or even **reddish or bleached** dry, coarse hair can result from severe protein deficiency (kwashiorkor).
 3. **Thin and brittle** hair can appear in hypothyroidism.
 4. **Alopecia** can occur in some therapies.
+
 ___
+
 # Nails
 Inspect for shape, angle between the fingernail and nail bed, nail texture, nail bed color, and the intactness of tissues around the nails. Nails are normally colorless and has a convex curve; the angle between the nail bed and fingernail is 160 degrees.
 1. **Koilonychia**: spoon-shaped nails, seen in patients with iron-deficiency anemia.

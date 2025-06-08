@@ -18,14 +18,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "nonotnotes.github.io/Mneme",
-    ignorePatterns: ["private", "templates", ".obsidian", "others", "q", "ref"],
-    defaultDateType: "modified",
+    ignorePatterns: ["private", "templates", ".obsidian", "others/", "q/", "ref/"],
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "Lora",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -90,7 +90,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),
     ],
   },
 }

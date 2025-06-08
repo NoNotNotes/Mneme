@@ -1,5 +1,7 @@
 Reference: Brunner-Suddarth's Medical-Surgical Nursing, Chapter 23
+
 ___
+
 The most prevalent type of cardiovascular disease in adults, most commonly caused by **atherosclerosis**, the abnormal accumulation of lipid, or fatty substances, and fibrous tissue in the lining of arterial blood vessel walls. These substances **block and narrow the coronary vessel in a way that reduces blood flow to the myocardium**. Atherosclerosis is a result of repetitious inflammatory response to injury of the artery wall and subsequent alteration in the structural and biochemical properties of the arterial walls.
 
 >[!Tip] Pathophysiology
@@ -12,11 +14,14 @@ The most prevalent type of cardiovascular disease in adults, most commonly cause
 >There can be other causes of disease of the coronary arteries besides atherosclerosis such as vasospasm and profound hypotension.
 
 ___
+
 # Clinical Manifestations
 Depending on the location and degree of narrowing of the arterial lumen, different symptoms and complications may arise. This makes for a large number of cases to be unattributed to coronary disease. In an epidemiologic study in Massachusetts, nearly 15% of men and women who had coronary events (unstable angina, MIs, sudden cardiac death) were asymptomatic prior to the coronary event. Patients may present with symptoms that do not include the classical angina pectoris attributed to myocardial ischemia. These include epigastric distress, pain that radiates to the jaw or left arm, shortness of breath (in patients with diabetes or heart failure), indigestion, nausea, palpitations, and numbness.
 
 Nonetheless, patients with coronary artery insufficiency will likely develop **angina pectoris**, the chest pain brought about by myocardial ischemia. This often appears once there is significant coronary atherosclerosis. Over time, irreversible damaged myocardium undergoes degeneration (scarring) and produce myocardial dysfunction. Decreased cardiac output and heart failure fails to supply the heart with the oxygen that it requires, which can eventually reach its threshold and abruptly stop beating. This is known as **sudden cardiac death**.
+
 ___
+
 # Risk Factors
 There are many circumstances that can increase the risk for coronary artery disease. There are two general categorizations of risk factors that can be applied in the healthcare setting: **modifiable** and **nonmodifiable** risk factors. Their names are self-explanatory; they denote whether a risk factor for an individual is something they are able to control, such as by changing their lifestyle, habits, or medications.
 1. **Nonmodifiable Risk Factors**:
@@ -52,6 +57,7 @@ There are many circumstances that can increase the risk for coronary artery dise
 >Menopause has also been implicated in CAD. Hormone therapy is not an effective method for primary or secondary prevention of CAD; contrarily, the use of estrogen in hormone therapy during menopause is linked to increased incidence of CAD, breast cancer, deep vein thrombosis, stroke, and pulmonary embolism.
 
 ___
+
 # Prevention
 A large focus is placed on four modifiable risk factors—cholesterol abnormalities, tobacco use, hypertension, and diabetes.
 ## Controlling Cholesterol Abnormalities
@@ -80,6 +86,7 @@ In individuals at risk, smoking must be ceased with any means possible; educatio
 - Medications such as nicotine patches, nicotine lozenges, nicotine gum, varenicline, or bupropion may assist with stopping the use of tobacco. However, these still retain the negative effects of nicotine: increased catecholamines and increased platelet adhesion. The lowest effective doses and shortest time possible is used for therapy.
 
 >[!WARNING] Second-hand smoke also increases the risk for CAD by 25% to 30% and for stroke by 20% to 30%.
+
 ## Managing Hypertension
 A blood pressure >130 mm Hg systolic and/or >80 mm Hg diastolic is considered as hypertension. A single reading is not adequate to make a diagnosis. Averaging two or three measurements obtained on two to three different occasions will provide a more accurate measurement.
 
