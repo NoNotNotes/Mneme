@@ -8,16 +8,17 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Mneme",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "nonotnotes.github.io/Mneme",
+    ignorePatterns: ["private", "templates", ".obsidian", "others", "q", "ref"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
