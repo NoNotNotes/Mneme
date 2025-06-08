@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "nonotnotes.github.io/Mneme",
-    ignorePatterns: ["private", "templates", ".obsidian", "others/", "q/", "ref/"],
+    ignorePatterns: ["private", "templates", ".obsidian", "others/", "q/", "ref/", "???[bc]-*"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
