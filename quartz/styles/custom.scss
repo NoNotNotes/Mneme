@@ -4,6 +4,10 @@
 
 // put your custom CSS here!
 
+@media all and (max-width: 469px) {
+    .icon-anchor { display: none; }
+}
+
 .page-title {
     & .icon-anchor{
         margin: 0 0 0 1em;
