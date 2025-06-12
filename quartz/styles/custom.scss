@@ -1,10 +1,35 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 @use "themes";
 
 // put your custom CSS here!
 
+.page-title {
+    & .icon-anchor{
+        margin: 0 0 0 1em;
+        height: 40px;
+        width: 40px;
+        margin: 0 1rem;
+    }
+
+    & .icon {
+        border-radius: 10px;
+        width: 40px;
+        height: 40px;
+        margin: 0;
+    } 
+}
+
 article.popover-hint {
-    margin: 0 3em; 
+    margin: 0 3em;
+
+    @media all and ($tablet) {
+        margin: 0 1em 0 0;
+    }
+
+    @media all and ($mobile) {
+        margin: 0;
+    }
 
     & p {
         text-align: justify;
@@ -24,5 +49,32 @@ article.popover-hint {
 
     & h4::before {
         content: "- "
+    }
+}
+
+// scrollbars
+
+html, .explorer-ul {
+    scrollbar-width: auto; /* "auto" or "thin" */
+    scrollbar-color: #888 transparent; /* thumb color and track color */
+
+    &::-webkit-scrollbar {
+        width: 8px; /* width of vertical scrollbar */
+        height: 8px; /* height of horizontal scrollbar */
+    }
+    &::-webkit-scrollbar-track {
+        background: transparent; /* scrollbar track background */
+        border-radius: 2px;
+    }
+    &::-webkit-scrollbar-thumb {
+        background-color: #888; /* scrollbar thumb color */
+        border-radius: 2px;
+        border: 2px solid transparent; /* space between thumb and track */
+    }
+    &[saved-theme="light"]::-webkit-scrollbar-thumb:hover {
+        background-color: #666;
+    }
+    &[saved-theme="dark"]::-webkit-scrollbar-thumb:hover {
+        background-color: #aaa;
     }
 }
