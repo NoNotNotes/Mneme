@@ -40,7 +40,10 @@ article.popover-hint {
     }
 
     & h1::before {
-        content: "→ "
+        content: "→ ";
+        vertical-align: text-top;
+        display: inline-block;
+        margin: 0 0.5rem 0 0;
     }
 
     & h2::before {

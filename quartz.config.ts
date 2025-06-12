@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: "",
     },
     locale: "en-US",
-    baseUrl: "nonotnotes.com/Mneme",
+    baseUrl: "mneme.info",
     ignorePatterns: ["private", "templates", ".obsidian", "others/", "q/", "ref/", "???[bc]-*"],
     defaultDateType: "created",
     theme: {
