@@ -1,0 +1,209 @@
+/* quartz/assets/custom-carousel.css */
+// Variables
+$button-bg: var(--background-primary); //from theme
+$button-bg-alt: var(--background-primary-alt); //from theme
+$icon-color: var(--text-normal); // from theme
+$button-size: 2rem;
+
+article .quartz-carousel {
+  position: relative;
+  width: 100%;
+  margin: 2rem 0;
+  overflow: hidden;
+  border-radius: 8px;
+  
+  .quartz-carousel-slides {
+    display: flex;
+    transition: transform 0.3s ease-in-out;
+    user-select: none;
+    
+    .quartz-carousel-slide {
+      flex: 0 0 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+        position: relative;
+
+      img {
+        max-width: 80%;
+        object-fit: contain;
+        display: block;
+        transition: filter 0.2s ease;
+        margin: 0;
+
+        &:hover {
+          filter: brightness(1.05);
+        }
+      }
+        
+      .quartz-carousel-caption {
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80%; // Match the image max-width
+        background: rgba(var(--background-primary-rgb), 0.5);
+        color: $icon-color;
+        padding: 0.3rem;
+        text-align: center;
+        font-family: Poppins, Lora, sans-serif;
+        font-weight: 400;
+      }
+    }
+  }
+  
+  .quartz-carousel-dots {
+    text-align: center;
+    margin-top: 1rem;
+    padding: 0.5rem 0;
+    
+    .dot {
+      width: 6px;
+      height: 6px;
+      margin: 0 5px;
+      background-color: #ddd;
+      border-radius: 50%;
+      display: inline-block;
+      transition: background-color 0.3s ease;
+      cursor: pointer;
+      
+      &.active {
+        background-color: #555;
+      }
+    }
+  }
+  
+  .quartz-carousel-prev,
+  .quartz-carousel-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: $button-bg;
+    border: none;
+    border-radius: 50%;
+    width: $button-size;
+    height: $button-size;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+    
+    svg {
+      width: 24px;
+      height: 24px;
+      fill: $icon-color;
+    }
+  }
+  
+  .quartz-carousel-prev {
+    left: 8px;
+  }
+  
+  .quartz-carousel-next {
+    right: 8px;
+  }
+}
+
+// Image Modal Styles
+.carousel-image-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  
+  .carousel-modal-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(5px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    box-sizing: border-box;
+  }
+  
+  .carousel-modal-content {
+    position: relative;
+    max-width: 90vw;
+    max-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .carousel-modal-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    margin: 0;
+  }
+  
+  .carousel-modal-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: $button-bg;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+    z-index: 10001;
+    
+    svg {
+      width: 24px;
+      height: 24px;
+      fill: $icon-color;
+    }
+    
+    &:hover {
+      background-color: $button-bg-alt;
+    }
+  }
+}
+
+// Dark mode adjustments
+html[saved-theme="dark"] article .quartz-carousel,
+html[saved-theme="dark"] .carousel-image-modal {
+  .quartz-carousel-prev,
+  .quartz-carousel-next {
+    background-color: $button-bg;
+    
+    svg {
+      fill: $icon-color;
+    }
+  }
+  
+  .dot {
+    background-color: #555;
+    
+    &.active {
+      background-color: #ddd;
+    }
+  }
+  
+  .carousel-modal-close {
+    background-color: $button-bg;
+    
+    svg {
+      fill: $icon-color;
+    }
+    
+    &:hover {
+      background-color: $button-bg-alt;
+    }
+  }
+}

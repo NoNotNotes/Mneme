@@ -1,6 +1,6 @@
 @use "./base.scss";
-@use "./variables.scss" as *;
 @use "themes";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
 
@@ -84,4 +84,9 @@ html, .explorer-ul {
     &[saved-theme="dark"]::-webkit-scrollbar-thumb:hover {
         background-color: #aaa;
     }
+}
+
+// cssclasses
+.wide-table {
+    width: 100%;
 }

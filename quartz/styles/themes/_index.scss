@@ -25,15 +25,25 @@
   );
   --color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
   --color-base-00: #1e1e1e;
+  --color-base-00-rgb: 30, 30, 30;
   --color-base-10: #242424;
+  --color-base-10-rgb: 36, 36, 36;
   --color-base-100: #dadada;
+  --color-base-100-rgb: 218, 218, 218;
   --color-base-20: #262626;
+  --color-base-20-rgb: 38, 38, 38;
   --color-base-25: #2a2a2a;
+  --color-base-25-rgb: 42, 42, 42;
   --color-base-30: #363636;
+  --color-base-30-rgb: 54, 54, 54;
   --color-base-35: #3f3f3f;
+  --color-base-35-rgb: 63, 63, 63;
   --color-base-40: #555555;
+  --color-base-40-rgb: 85, 85, 85;
   --color-base-50: #666666;
+  --color-base-50-rgb: 102, 102, 102;
   --color-base-70: #b3b3b3;
+  --color-base-70-rgb: 179, 179, 179;
   --color-blue: #027aff;
   --color-blue-rgb: 2, 122, 255;
   --color-cyan: #53dfdd;
@@ -82,15 +92,25 @@
   );
   --color-accent-hsl: var(--accent-h), var(--accent-s), var(--accent-l);
   --color-base-00: #ffffff;
+  --color-base-00-rgb: 255, 255, 255;
   --color-base-10: #fafafa;
+  --color-base-10-rgb: 250, 250, 250;
   --color-base-100: #222222;
+  --color-base-100-rgb: 34, 34, 34;
   --color-base-20: #f6f6f6;
+  --color-base-20-rgb: 246, 246, 246;
   --color-base-25: #e3e3e3;
+  --color-base-25-rgb: 227, 227, 227;
   --color-base-30: #e0e0e0;
+  --color-base-30-rgb: 224, 224, 224;
   --color-base-35: #d4d4d4;
+  --color-base-35-rgb: 212, 212, 212;
   --color-base-40: #bdbdbd;
+  --color-base-40-rgb: 189, 189, 189;
   --color-base-50: #ababab;
+  --color-base-50-rgb: 171, 171, 171;
   --color-base-70: #5c5c5c;
+  --color-base-70-rgb: 92, 92, 92;
   --color-blue: #086ddd;
   --color-blue-rgb: 8, 109, 221;
   --color-cyan: #00bfbc;
@@ -296,6 +316,24 @@
       format("woff");
 }
 
+/* Poppins - all weights (100-900, normal & italic) */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJfedw.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE0tCMPc.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
 :root {
 }
 body {
@@ -308,8 +346,11 @@ body {
   --background-modifier-form-field: var(--color-base-00);
   --background-modifier-hover: rgba(var(--mono-rgb-100), 0.067);
   --background-primary: var(--color-base-00);
+  --background-primary-rgb: var(--color-base-00-rgb);
   --background-primary-alt: var(--color-base-10);
+  --background-primary-alt-rgb: var(--color-base-10-rgb);
   --background-secondary: var(--color-base-20);
+  --background-secondary-rgb: var(--color-base-20-rgb);
   --bold-color: var(--color-pink);
   --bold-modifier: 300;
   --bold-weight: calc(var(--font-weight) + var(--bold-modifier));
