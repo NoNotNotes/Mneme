@@ -14,17 +14,17 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-      tagId: "",
+      tagId: "G-LMSBV0DKQM",
     },
     locale: "en-US",
     baseUrl: "mneme.info",
-    ignorePatterns: ["private", "templates", ".obsidian", "others/", "q/", "ref/", "???[bc]-*"],
+    ignorePatterns: ["private", "templates", ".obsidian", "others/", "q/", "ref/", "*/???[bc]-*"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Poppins",
         body: "Lora",
         code: "IBM Plex Mono",
       },
@@ -73,6 +73,8 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Carousel({ showDots: false }),
+      
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
