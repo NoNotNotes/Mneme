@@ -548,7 +548,7 @@ body {
   --text-muted: var(--color-base-70);
   --text-normal: var(--color-base-100);
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-  -webkit-user-select: none;
+  -webkit-user-select: text; // "none" overridden 
   background-color: var(--background-primary);
   caret-color: var(--caret-color);
   color: var(--text-normal);
@@ -564,7 +564,7 @@ body {
   padding: 0;
   padding-top: 0;
   text-rendering: optimizeLegibility;
-  user-select: none;
+  user-select: text; // "none" overridden ;
   width: 100%;
 }
 /* START DARK */
@@ -1606,9 +1606,6 @@ body {
     font-family: var(--font-text, var(--font-default));
     hyphens: none;
   }
-  /* override user-select */
-  user-select: text;
-  -webkit-user-select: text;
 }
 :root[saved-theme="light"] {
   button.darkmode {

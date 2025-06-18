@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "mneme.info",
     ignorePatterns: ["private", "templates", ".obsidian", "others/", "q/", "ref/", "*/???[bc]-*"],
-    defaultDateType: "created",
+    defaultDateType: "modified", // "created"
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

@@ -68,7 +68,7 @@ export const BuildArgv = {
   },
   serve: {
     boolean: true,
-    default: false,
+    default: true, // false in prod
     describe: "run a local server to live-preview your Quartz",
   },
   watch: {
