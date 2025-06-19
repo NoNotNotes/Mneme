@@ -1,6 +1,6 @@
 ---
 title: The Garden 🌿
-image: quartz/static/og-image.png
+image: og-image.png
 ---
 
 >[!CITE] Richard Holmes

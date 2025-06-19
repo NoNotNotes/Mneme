@@ -8,7 +8,7 @@ aliases:
   - CHN
   - PHN
   - community
-image: quartz/static/og-image.png
+image: og-image.png
 ---
 
 >[!WARNING] Content within this domain may only be applicable to the Philippines!

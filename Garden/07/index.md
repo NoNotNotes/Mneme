@@ -7,7 +7,7 @@ publish: true
 aliases:
   - palmer
   - palmr
-image: quartz/static/og-image.png
+image: og-image.png
 ---
 # Professional Adjustment, Leadership and Management, Ethics, and Research
 

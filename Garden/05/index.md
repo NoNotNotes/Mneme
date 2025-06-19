@@ -1,5 +1,5 @@
 ---
-image: quartz/static/og-image.png
+image: og-image.png
 title: Medical-Surgical Nursing
 tags:
   - MS

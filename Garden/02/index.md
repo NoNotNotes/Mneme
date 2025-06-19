@@ -8,7 +8,7 @@ aliases:
   - mcn
   - ob
   - pedia
-image: quartz/static/og-image.png
+image: og-image.png
 ---
 **Maternal and Child Health Nursing** (MCHN) is found in NP2 of the PNLE. I've taken the liberty to include both normal and abnormal pediatrics under this folder for brevity. By far, obstetrics is one of the more *complete* parts of this knowledgebase due to my head professor's proclivities with obstetrics. I can't say the same for pediatrics, but I'm on it.
 

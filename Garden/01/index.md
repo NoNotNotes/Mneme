@@ -7,7 +7,7 @@ publish: true
 aliases:
   - FUNDA
   - funda
-image: quartz/static/og-image.png
+image: og-image.png
 ---
 The Fundamentals of Nursing tackle components of nursing that are pervasive in every other field and application of nursing. Questions relating to topics found in this domain can be found in all parts of the [[pnle|PNLE]]. This also contains a portion of the [[07/index|PALMER]] domain, e.g., history, legal aspects, values, communication, etc. It also contains topics on care across the lifespan ([[259-268a-growth-and-development|growth and development]]) (though these aren't quite finished yet).
 
