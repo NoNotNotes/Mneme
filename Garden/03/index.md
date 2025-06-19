@@ -11,6 +11,11 @@ aliases:
 image: quartz/static/og-image.png
 ---
 
+>[!WARNING] Content within this domain may only be applicable to the Philippines!
+>Many of the topics tackled within CHN is tailor-made to reflect the programs and protocols promulgated by the Department of Health in the Philippines, which many not be in-line with those found in other countries, despite its basis in the World Health Organization.
+
+**Community Health Nursing** is a nursing occupation that primarily takes place outside of the hospital setting. It's found in NP1, the very first part of the [[pnle|PNLE]]. It tackles the provision of healthcare services, preventive care, and most importantly health promotion with health education in a community-based setting. It's not exactly the dream occupation of many nurses, but its value is well-recognized and vital in promoting community-level wellness.
+
 >[!TIP] Ratings?
 >**Ratings** are based on a very limited sample size of lecturers (four!) who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5). I'll keep asking around for more input from reviewers!
 

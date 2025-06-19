@@ -10,6 +10,12 @@ aliases:
   - pedia
 image: quartz/static/og-image.png
 ---
+**Maternal and Child Health Nursing** (MCHN) is found in NP2 of the PNLE. I've taken the liberty to include both normal and abnormal pediatrics under this folder for brevity. By far, obstetrics is one of the more *complete* parts of this knowledgebase due to my head professor's proclivities with obstetrics. I can't say the same for pediatrics, but I'm on it.
+
+As mentioned, MCHN makes up 20% of the board exam. Not only that, but family and child health is also one of the largest delegations of nurse work (~25% of nurses in the U.S.). Being knowledgeable about this field, especially for health education regarding care of well and sick children, is highly serviceable knowledge to carry into your professional life.
+
+>[!TIP] Ratings?
+>**Ratings** are based on a very limited sample size of lecturers (four!) who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5). I'll keep asking around for more input from reviewers!
 
 | Chapter                                     | Topic                                                   | Rating | Status |
 | ------------------------------------------- | ------------------------------------------------------- | :----: | :----: |
