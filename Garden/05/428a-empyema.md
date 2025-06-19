@@ -5,7 +5,7 @@ tags:
   - MS
   - Respirology
   - NA
-description: A pleural effusion is the accumulation of fluids (clear, exudative, purulent, blood) in the pleural cavity.
+description: Empyema is an accumulation of thick, purulent fluid within the pleural space, often with fibrin development and a loculated (walled-off) area where infection is located.
 todo:
   - Add reference pages
 ---
@@ -14,7 +14,7 @@ todo:
 
 ___
 
-A pleural effusion is a collection of fluid in the pleural space, usually secondary to other diseases (heart failure, tuberculosis, pneumonia, pulmonary infections, nephrotic syndrome, connective tissue disease, pulmonary embolism, and neoplastic tumors). Normally, the pleural space contains a small amount of fluid (5 to 15 mL), which acts as a lubricant that allows the pleural spaces to move without friction.
+Empyema is an accumulation of thick, purulent fluid within the pleural space, often with fibrin development and a loculated (walled-off) area where infection is located.
 
 >[!ERROR] Pathophysiology
 >In certain disorders, fluids may accumulate in the pleural space to a point at which it becomes clinically evident. This almost always has a pathologic significance.

@@ -3,7 +3,7 @@ publish: true
 title: Chronic Obstructive Pulmonary Disease
 tags:
   - MS
-  - Respiratory
+  - Respirology
   - NA
 description: COPD is a group of progressive respiratory disorders characterized by airflow limitation that is not fully reversible—chronic bronchitis and emphysema.
 ---

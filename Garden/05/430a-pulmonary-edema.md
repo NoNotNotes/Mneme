@@ -3,7 +3,7 @@ publish: true
 title: Pulmonary Edema
 tags:
   - MS
-  - Respiratory
+  - Respirology
   - NA
 description: Pulmonary edema is the accumulation of fluids within the lung's alveoli, decreasing perfusion and resulting in systematic hypoxia, tachypnea, and foamy sputum.
 ---

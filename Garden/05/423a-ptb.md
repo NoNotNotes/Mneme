@@ -3,15 +3,16 @@ publish: true
 title: Pulmonary Tuberculosis
 tags:
   - MS
-  - Respiratory
+  - Respirology
   - CD
-  - NA
+  - TB
 description: PTB is one of the most prevalent communicable diseases in the modern day, caused by the agent Mycobacterium tuberculosis.
 ---
 **References**:
 1. **Brunner & Suddarth's Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 19, pp. \[ebook] 1576–1588)
-2. [About GeneXpert](https://www.cdc.gov/tb/php/laboratory-information/xpert-mtb-rif-assay.html) by the CDC (2024)
+2. [About GeneXpert](https://www.cdc.gov/tb/php/laboratory-information/xpert-mtb-rif-assay.html) (CDC, 2024)
 3. Shi, J., Dong, W., Ma, Y., Liang, Q., Shang, Y., Wang, F., Huang, H., & Pang, Y. (2018). GeneXpert MTB/RIF Outperforms Mycobacterial Culture in Detecting *Mycobacterium tuberculosis* from Salivary Sputum. *BioMed research international*, *2018*, 1514381. https://doi.org/10.1155/2018/1514381
+4. [About Streptomycin](https://www.ncbi.nlm.nih.gov/books/NBK555886/) (Waters, Tadi, 2023)
 
 ___
 
@@ -109,14 +110,98 @@ A **sputum specimen** may be used to **screen** for TB. A culture takes **2 to 6
 
 ___
 
-#
+# Gerontologic Considerations
+TB may have atypical manifestations in older adult patients, whose symptoms may include **unusual behavior and altered mental status**, **fever**, **anorexia**, and **weight loss**. In many older adult patients, the tuberculin skin test produces no reaction due to a **loss of immunologic memory** or delayed reactivity for up to 1 week (*recall phenomenon*). A second skin test is performed in 1 to 2 weeks. Older adults who live in long-term care facilities (i.e., are institutionalized) are at increased risk for primary and reactivated TB as compared to those in the community.
 
 ___
 
-# B
-Most commonly caused by the *Mycobacterium tuberculosis*, it may spread to any part of the body. It is a communicable disease.
-- **Clinical Manifestations**: low-grade fever, cough (persistent for two weeks, hemoptysis), night sweats, fatigue, and weight loss.
-- **Diagnostics**: Gene-Xpert sputum culture testing, TB Skin Test, CXR
-- **Medical Management**: Antituberculosis agents for 6 to 12 months
-- **Pharmacologic Therapy**: First-line include Isonizaid (In; Nydrazid, often taken with Vitamin B \[Pyridoxine]), Rifampin (Rifadin), Pyrazinamide, and Ethambutol (Myambutol) daily for 8 weeks and continuing for up to 4 to 7 months. Second-line include Capreomycin (Capastat), Ethionamid (Trecator), Para aminosalicylate Sodium, and Cycloserine (Seromycin)
-- **Nursing Interventions**: Encourage increased fluid intake and postural drainage for the patient. Advocate for drug therapy adherence and compliance. Advise on prevention of spreading TB.
+# Medical Management
+Pulmonary TB is treated primarily with anti-TB agents for 6 to 12 months. A prolonged treatment duration is necessary to ensure eradication of the organisms and to prevent relapse.
+
+>[!WARNING] Drug Resistance
+>**Drug resistance**, continuing and increasing worldwide concern, must be considered when planning effective therapy.
+>1. **Multidrug resistance** (MDR TB): Resistance to two agents, isoniazid and rifampin. The populations at greatest risk for multidrug resistance are those who are HIV positive, institutionalized, or homeless.
+>2. **Extensively drug resistance** (XDR TB): Resistance to isoniazid and rifampin, in addition to any fluoroquinolone, and at least one of the three injectable second-line agents (i.e., amikacin, kanamycin, or capreomycin). The populations at greatest risk are those with HIV infection or other immunocompromised conditions.
+>
+>The increasing prevalence of drug resistance points out the need to begin TB treatment with four or more medications, to ensure completion of therapy, and to develop and evaluate new anti-TB medications. MDR TB is difficult to treat. Treatment is **guided by sputum specimen culture and sensitivity testing** as the patient typically is resistant to isoniazid and rifampin.
+
+| Commonly Used Agents        | Most Common Side Effects                                                            | Nursing Considerations                                                                                                                              |
+| --------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Isoniazid**               | **Peripheral neuritis**, hepatic enzyme elevation, hepatitis, hypersensitivity      | Bactericidal<br>Pyridoxine (Vitamin B₆) is used as prophylaxis for **neuritis**.                                                                    |
+| **Rifampin,<br>Rifampicin** | Hepatitis, febrile reaction, purpura (rare), nausea, vomiting                       | Bactericidal<br>**Orange urine and other body secretions**<br>**Discoloring of contact lenses**<br>Monitor AST and ALT                              |
+| **Rifabutin**               |                                                                                     | Avoid protease inhibitors                                                                                                                           |
+| **Rifapentine**             | Hepatotoxicity, thrombocytopenia                                                    | **Orange-red coloration of body secretions, contact lenses, dentures**<br>Use with caution in adults or those with renal disease                    |
+| **Pyrazinamide**            | **Hyperuricemia**, hepatotoxicity, skin rash, arthralgia, GI distress               | Bactericidal<br>Monitor uric acid, AST, and ALT                                                                                                     |
+| **Ethambutol**              | **Optic neuritis** (which may lead to blindness but is rare at 15 mg/kg), skin rash | Bacteriostatic<br>Use with caution with renal disease or when eye testing is not feasible.<br>Monitor **visual acuity, color, and discrimination**. |
+
+In current TB therapy, four first-line medications ("*RIPE therapy*") are used:
+1. **Isoniazid**
+2. **Rifampin**/**Rifampicin** (same drug, different spelling)
+3. **Pyrazinamide**
+4. **Ethambutol**
+
+Combination medications, such as isoniazid and rifampin or isoniazid, pyrazinamide, and rifampin and medications given twice a week (e.g., rifapentine) are available to help improve patient adherence. However, these medications are more costly.
+
+>[!DRUG] Streptomycin
+>**Streptomycin** was historically a first-line treatment, even considered the most effective treatment for TB at one point, but is now reserved for multidrug-resistant TB and as a second-line treatment regimen in combination with other drugs. This is because of rising resistance and the availability of more effective and less toxic alternatives. it is known to have ototoxic, nephrotoxic, and teratogenic effects. It has also been linked to leukopenia, neutropenia, and pancytopenia.
+
+Recommended treatment guidelines for newly diagnosed cases (by WHO, 2019) consists of two phases:
+1. **Initial Phase**: multiple-medication regimen of isoniazid, rifampin, pyrazinamide, and ethambutol plus vitamin V₆ 50 mg. All are taken once a day and are oral medications. This **intensive-treatment regimen** is given daily for 8 weeks.
+2. **Continuation Phase**: after the initial phase, options for the continuation phase of treatment include **isoniazid and rifampin** or **isoniazid and rifapentine**. This continued for 4 months in most patients.
+	- Therapy is indicated to **continue for up to 7 months** in patients with:
+		- **Cavitary pulmonary TB whose sputum culture whose sputum culture is positive** at the end of the initial phase of treatment.
+		- Those whose **initial phase of treatment did not include pyrazinamide**.
+		- Those being **treated once weekly with isoniazid and rifapentine whose sputum culture is positive** at the end of the initial phase of treatment.
+
+People are considered **noninfectious after 2 to 3 weeks of continuous medication therapy**. The total number of doses taken, not simply the duration of treatment, more accurately determines whether a course of therapy has been completed.
+
+>[!DRUG] Isoniazid as Prophylaxis
+>Isoniazid may also be used as a **prophylactic** (**preventive**) **measure** for people who are **at risk for significant disease**, including:
+>- Household family members of patients with active disease
+>- Patients with HIV infection who have a PPD test reaction with 5 mm of induration or more
+>- Patients with fibrotic lesions suggestive of old TB detected on a chest x-ray and a PPD reaction with 5 mm of induration or more
+>- Patients whose current PPD test results show a change from former test results, suggesting recent exposure to TB and possible infection (skin test converters)
+>- Patients who use IV/injection drugs who have PPD test results with 10 mm of induration or more
+>- Patients who high-risk comorbid conditions and a PPD result with 10 mm of induration or more
+>- 35 years or younger who have PPD test results with 10 mm of induration or more and one of the following criteria:
+>	- Foreign-born form countries with a high prevalence of TB
+>	- Populations that are high-risk and medically underserved
+>	- Patients living in institutions
+>
+>Prophylactic isoniazid treatment involves taking **daily doses for 6 to 12 months**. Liver enzymes, blood urea nitrogen (BUN), and creatinine levels are monitored **monthly**. **Sputum culture** results are monitored for AFB to evaluate the effectiveness of treatment and the patient’s adherence to the treatment regimen.
+
+___
+
+# Nursing Management
+Nursing management includes promoting **airway clearance**, advocating **adherence to the treatment regimen**, promoting **activity and nutrition**, and **preventing transmission**.
+## Promoting Airway Clearance
+Copious secretions obstruct the airways in many patients with TB and interfere with adequate gas exchange.
+1. **Increasing fluid intake** promotes systemic hydration and serves as an effective expectorant.
+2. **Correct positioning** to facilitate airway drainage (postural drainage) is taught to the patient. This utilizes gravity to assist in the removal of bronchial secretions.
+## Promoting Adherence to Treatment Regimen
+The major reason treatment fails is that **patients do not take their medications regularly and for the prescribed duration**, potentially due to side effects or complexity of the treatment regimen. Risk factors for nonadherence include previous failure to complete therapy; patients who are physically, emotionally, mentally, or financially challenged; patients with substance use problems; and patients who do not understand the importance of treatment.
+1. **Education** on the medications, schedule, and side effects is important. Emphasize that TB is a communicable disease and that taking medications is the most effective means of preventing transmission.
+2. **Taking medications**:
+	- Medications are taken either **on an empty stomach or at least 1 hour before meals**, because food interferes with medication absorption. However, this may result in gastrointestinal upset.
+	- People taking **isoniazid** should avoid foods that contain **tyramine** and **histamine**—tuna, aged cheese, red wine, soy sauce, yeast extracts—because eating them while taking isoniazid may result in headache, flushing, hypotension, lightheadedness, palpitations, and diaphoresis. People should also avoid **alcohol** because of the high potential for hepatotoxic effects.
+	- **Rifampin** can alter the metabolism of certain other medications, making them less effective. These medications include beta-blockers, oral anticoagulants (e.g., warfarin), digoxin, quinidine, corticosteroids, oral hypoglycemic agents, oral contraceptives, theophylline, and verapamil.
+	- **Rifampin** can also **discolor contact lenses** as secretions (urine, saliva, sputum, sweat, teeth, and tears) become reddish-orange or reddish-brown. The patient may be advised to **wear eyeglasses** while taking this medication.
+3. **Side effects**: the nurse should monitor for other side effects of anti-TB medications, including hepatitis, neurologic changes (hearing loss, neuritis), and rash. Liver enzymes, BUN, and serum creatinine levels are monitored to detect changes in liver and kidney function. Sputum culture results are monitored for AFB to evaluate the effectiveness of treatment regimen and adherence to therapy.
+4. **Drug resistance**: the nurse educates the patient about the risk of drug resistance if the medication regimen is not strictly and continuously followed.
+5. **Monitoring**: the nurse carefully monitors vital signs and observes for spikes in temperature or changes in clinical status. Monitoring of temperature and respiratory status should also be taught to non-hospitalized patients with active TB. Any alteration is reported to the primary provider.
+6. **DOT**: directly observed therapy is used in the community setting to enhance adherence. A health care provider or other responsible person directly observes that the patient ingests the prescribed medications. Although highly successful, this is a resource intensive program.
+7. **Case management**: each patient with TB is assigned a case manager who coordinates all aspects of the patient's care to ensure completion of therapy.
+## Promoting Activity and Adequate Nutrition
+The prolonged chronic illness combined with impaired nutritional status often result in debilitation of patients with TB. Anorexia, weight loss, and malnutrition are common in patients with TB. The patient's willingness to eat may be altered by fatigue from excessive coughing; sputum production; chest pain; generalized debilitated state; or cost, if the patient has few resources.
+1. A **progressive activity schedule** planned to focus on *increasing activity tolerance* and *muscle strength* is made by the nurse.
+2. **Identifying facilities** (e.g., shelters, soup kitchens, Meals on Wheels) that provide meals in the patient's neighborhood may increase the likelihood that the patient with limited resources and energy will have access to a more nutritious intake.
+3. A **nutritional plan** that allows for **small, frequent meals** may be required.
+4. **Liquid nutritional supplements** may assist in meeting basic caloric requirements.
+## Preventing Transmission of Tuberculosis Infection
+1. **Education** about hygiene measures, including mouth care, covering the mouth and nose when coughing and sneezing, proper disposal of tissues, and hand hygiene.
+2. **Contact tracing** to determine who have been in contact with the affected patient during the infectious stage so they can undergo screening and possible treatment if indicated.
+3. **Monitoring for the occurrence of military TB**. Military TB, TB migrating to other parts of the body, is a result of invasion of the bloodstream by the tubercle bacillus. It is a very serious form of TB. These disseminate throughout all tissues, with tiny military tubercules developing in the lungs, spleen, liver, kidneys, meninges, and other organs.
+	- Clinically, manifestations can vary from an acute, rapid progression with high fever to a slowly developing process with low-grade fever, anemia, and debilitation. There may be no localizing signs except an enlarged spleen and a reduced number of leukocytes.
+	- Within a few weeks, the **chest x-ray** reveals small densities scattered diffusely throughout both lung fields; these are the military tubercules, which gradually grow.
+	- The nurse monitors vital signs and **observes for spikes in temperature** as well as **changes in renal and cognitive function**. Few physical signs may be elicited on a physical examination of the chest, but at this stage, the patient has a **severe cough and dyspnea**.
+	- Treatment of military TB is the same as for pulmonary TB.

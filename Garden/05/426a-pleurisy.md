@@ -3,7 +3,7 @@ publish: true
 title: Pleurisy
 tags:
   - MS
-  - Respiratory
+  - Respirology
   - TB
 description: Inflammation of the visceral and parietal pleurae.
 ---

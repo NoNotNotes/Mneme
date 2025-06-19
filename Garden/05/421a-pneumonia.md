@@ -3,8 +3,9 @@ publish: true
 title: Pneumonia
 tags:
   - MS
-  - Respiratory
-  - NA
+  - Respirology
+  - TB
+  - INC
 description: Pneumonia is an infection of the lungs that can be caused by bacteria, viruses, fungi, foreign bodies, and chemicals. It may be classified as acute, chronic, community-acquired, or hospital-acquired.
 ---
 **References**:

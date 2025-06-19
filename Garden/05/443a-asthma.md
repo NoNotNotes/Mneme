@@ -3,7 +3,7 @@ publish: true
 title: Asthma
 tags:
   - MS
-  - Respiratory
+  - Respirology
   - NA
 description: A hypersensitive response of the airways to various stimuli, leading to inflammation, bronchoconstriction, and reversible airflow obstruction.
 ---

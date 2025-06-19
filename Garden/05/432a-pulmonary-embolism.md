@@ -3,7 +3,7 @@ publish: true
 title: Pulmonary Embolism
 tags:
   - MS
-  - Respiratory
+  - Respirology
   - NA
 description: A pulmonary embolism occurs when a formed thrombus becomes dislodged and makes its way to one of the arteries of the lungs.
 ---

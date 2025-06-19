@@ -3,7 +3,7 @@ publish: true
 title: Cystic Fibrosis
 tags:
   - MS
-  - Respiratory
+  - Respirology
   - PEDIA
   - NA
 description: Cystic fibrosis (CF) is a condition characterized by exocrine (mucus-producing) gland dysfunction that produces multisystem involvement. Abnormal transport of sodium and chloride across epithelium leads to increased viscosity of airway mucus, abnormal mucociliary clearance, and lung disease.

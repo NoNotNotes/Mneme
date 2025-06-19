@@ -3,7 +3,7 @@ publish: true
 title: Pneumothorax
 tags:
   - MS
-  - Respiratory
+  - Respirology
   - NA
 description: The accumulation of the atmospheric air in the pleural cavity. It may be simple (breach in the pleura) or tension-type pneumothorax (laceration or hole in the lungs)
 ---
