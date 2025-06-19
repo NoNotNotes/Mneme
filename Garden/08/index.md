@@ -8,10 +8,11 @@ aliases:
   - pharmacology
   - pharma
   - pharm
+image: quartz/static/og-image.png
 ---
 Pharmacology, as review material, is delegated to being an adjunct topic to [[05/index|Medical-Surgical Nursing]]. Most of the medications that will appear on licensure exams are placed within the context of a disease or indication, which is likely going to be discussed on their respective pages. For that reason, this set of notes is low on my priority list. I might focus on the basic principles of pharmacology, but don't expect completion any time soon!
 
->[!TIP] What are Ratings?
+>[!TIP] Ratings?
 >**Ratings** are based on a very limited sample size of lecturers (four!) who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5). I'll keep asking around for more input from reviewers!
 
 | Chapter                           | Topic                                                         | Rating | Status |
@@ -103,3 +104,7 @@ Pharmacology, as review material, is delegated to being an adjunct topic to [[05
 | Miscellaneous                     | **Antigout**                                                  |  4.0   |        |
 | Miscellaneous                     | **Disease Modifying Anti Rheumatic Drugs**                    |  4.0   |        |
 | Miscellaneous                     | **Bisphophonates**                                            |  3.0   |        |
+
+___
+
+# Contents

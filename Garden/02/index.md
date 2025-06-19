@@ -8,6 +8,7 @@ aliases:
   - mcn
   - ob
   - pedia
+image: quartz/static/og-image.png
 ---
 
 | Chapter                                     | Topic                                                   | Rating | Status |
@@ -173,3 +174,7 @@ aliases:
 | Growth and Development                      | Play Types                                              |  5.0   |        |
 | Growth and Development                      | Discipline                                              |  2.3   |        |
 | Growth and Development                      | Promoting Optimum Health                                |  2.3   |        |
+
+___
+
+# Contents

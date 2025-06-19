@@ -7,6 +7,7 @@ publish: true
 aliases:
   - palmer
   - palmr
+image: quartz/static/og-image.png
 ---
 # Professional Adjustment, Leadership and Management, Ethics, and Research
 
@@ -14,7 +15,7 @@ aliases:
 
 **PALMER** is arguably the most important nursing concept for the board exam. Historically, it's made up anywhere **between 20% to 40% of the PNLE's contents** (100 to 200 items) or even more. It's a set of simple topics, but many are often overlooked. The set of topics I have at the moment can still be expanded, but I'm having a hard time finding reliable references for board-sensitive topics. At the moment, my notes on research are lackluster. Notes are mainly based on Atty. Glenn R. Luansing's reviewer outline.
 
->[!TIP] What are Ratings?
+>[!TIP] Ratings?
 >**Ratings** are based on a very limited sample size of lecturers (four!) who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5). I'll keep asking around for more input from reviewers!
 
 | Chapter                   | Topic                                       | Rating | Status |
@@ -43,3 +44,7 @@ aliases:
 | Research                  | **Data Collection Tools**                       |  5.0   |   ✅    |
 | Research                  | **Data Analysis Methods**                       |  4.0   |        |
 | Research                  | **Ethical Considerations**                      |  3.0   |   ✅    |
+
+___
+
+# Contents

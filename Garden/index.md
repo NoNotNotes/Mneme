@@ -15,12 +15,13 @@ All roads lead here. I've done my best to collect and collate references from ma
 >I'm based in the **Philippines**, and am currently following the curriculum set for this country. Some notes, especially those related to professional practice (PALMER) and community health nursing, are not entirely applicable internationally. I'll be making a subdomain specifically for NCLEX content at some point.
 
 This page just recently began being prepared for publication (`June 9, 2025`), making many parts unfinished and unpolished. Here are the following broad changes that are still being implemented:
-1. **Format page titles**; set note names. Might be removing the indexing system or at least revamping it.
-2. Add **page metadata**: title, description, date, permalink, content tags (completion and reference status), and publication status.
-3. **Fix references**. No need for APA, but I do need to standardize the book names and add a dedicated master list of references somewhere.
-4. Become **mobile friendly**. At the moment the site is basically only tailored to desktops and tablets, with mobile users only having a good view when on Desktop Mode.
-5. **Mnemonics**? After all, the website is named after its root word—Mneme. I don't like forcing mnemonics on things, but I do include some that seem relevant to me. Perhaps I'll leave it as an exercise to the reader to make their own.
-6. **Find more content reviewers**! My eyes alone feel inadequate as a measure of completeness and clarity for everything I write. I want at least one other person to take a very granular look at these notes and help me make the pages better.`
+1. ~~**Format page titles**; set note names. Might be removing the indexing system or at least revamping it.~~
+2. ~~Add **page metadata**: title, description, date, permalink, content tags (completion and reference status), and publication status.~~
+3. ~~**Fix references**. No need for APA, but I do need to standardize the book names and add a dedicated master list of references somewhere.~~
+4. **Re-order notes** according to chapter rather than simply alphabetically. I'm not quite sure how to feel about making too many subdirectories, but I'll figure it out.
+5. Become **mobile friendly**. At the moment the site is basically only tailored to desktops and tablets, with mobile users only having a good view when on Desktop Mode.
+6. **Mnemonics**? After all, the website is named after its root word—Mneme. I don't like forcing mnemonics on things, but I do include some that seem relevant to me. Perhaps I'll leave it as an exercise to the reader to make their own. I could also use other memory tools.
+7. **Find more content reviewers**! My eyes alone feel inadequate as a measure of completeness and clarity for everything I write. I want at least one other person to take a very granular look at these notes and help me make the pages better.
 
 ___
 

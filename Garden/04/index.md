@@ -6,6 +6,7 @@ tags:
 publish: true
 aliases:
   - psych
+image: quartz/static/og-image.png
 ---
 Psychiatric Nursing is found in Nursing Practice V—Care of Clients with Physiologic and Psychosocial Alterations (Part C), covering topics of maladaptive behaviors, age-related alterations in thought and perception, depression, mania, suicide, stress, anxiety, maladaptive personality patterns, and substance abuse ([Board of Nursing Resolution No. 11, 2017](https://www.prc.gov.ph/uploaded/documents/PRB_BON_Reso2017-11.pdf)).
 
@@ -57,3 +58,7 @@ Psychiatric Nursing is found in Nursing Practice V—Care of Clients with Physio
 | Disruptive Behavior Disorders              | Conduct Disorder                                       |  2.0   |   ✅    |
 | Cognitive Disorders                        | Delirium                                               |  4.0   |        |
 | Cognitive Disorders                        | Dementia                                               |  4.0   |        |
+
+___
+
+# Contents

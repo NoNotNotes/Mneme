@@ -52,13 +52,22 @@ export function byDateAndAlphabeticalFolderFirst(cfg: GlobalConfiguration): Sort
   }
 }
 
+export function alphabeticalOnly(): SortFn {
+  return (f1, f2) => {
+    const f1Title = f1.frontmatter?.title?.toLowerCase() ?? ""
+    const f2Title = f2.frontmatter?.title?.toLowerCase() ?? ""
+    return f1Title.localeCompare(f2Title)
+  }
+}
+
 type Props = {
   limit?: number
   sort?: SortFn
 } & QuartzComponentProps
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
-  const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
+  // const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
+  const sorter = sort ?? alphabeticalOnly()
   let list = allFiles.sort(sorter)
   if (limit) {
     list = list.slice(0, limit)

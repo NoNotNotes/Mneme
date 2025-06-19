@@ -8,7 +8,11 @@ aliases:
   - CHN
   - PHN
   - community
+image: quartz/static/og-image.png
 ---
+
+>[!TIP] Ratings?
+>**Ratings** are based on a very limited sample size of lecturers (four!) who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5). I'll keep asking around for more input from reviewers!
 
 | Chapter                                            | Topic                                                       | Rating | Status |
 | -------------------------------------------------- | ----------------------------------------------------------- | :----: | :----: |
@@ -47,3 +51,7 @@ aliases:
 | Community Health Nursing Skills                    | Benedict's Test                                             |  2.3   |        |
 | COPAR                                              | Community Organizing                                        |  4.3   |        |
 | COPAR                                              | Participatory Action Research                               |  4.3   |        |
+
+___
+
+# Contents

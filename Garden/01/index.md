@@ -7,7 +7,14 @@ publish: true
 aliases:
   - FUNDA
   - funda
+image: quartz/static/og-image.png
 ---
+The Fundamentals of Nursing tackle components of nursing that are pervasive in every other field and application of nursing. Questions relating to topics found in this domain can be found in all parts of the [[pnle|PNLE]]. This also contains a portion of the [[07/index|PALMER]] domain, e.g., history, legal aspects, values, communication, etc. It also contains topics on care across the lifespan ([[259-268a-growth-and-development|growth and development]]) (though these aren't quite finished yet).
+
+Learning the fundamentals basically a highly recommended prerequisite to learning the other domains of nursing, although not learning about these will not preclude you from prioritizing those topics first—it is highly relevant and providential in improving your knowledge of nursing management.
+
+>[!TIP] Ratings?
+>**Ratings** are based on a very limited sample size of lecturers (four!) who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5). I'll keep asking around for more input from reviewers!
 
 | Chapter                                      | Topic                                                | Rating | Status |
 | -------------------------------------------- | ---------------------------------------------------- | :----: | :----: |
@@ -118,3 +125,7 @@ aliases:
 | Nursing Skills                               | Inserting a Catheter                                 |  5.0   |        |
 | Nursing Skills                               | Performing an Enema                                  |  4.5   |        |
 | Nursing Skills                               | Suctioning                                           |  5.0   |        |
+
+___
+
+# Contents

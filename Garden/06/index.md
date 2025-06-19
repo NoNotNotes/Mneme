@@ -6,10 +6,11 @@ tags:
 publish: true
 aliases:
   - cd
+image: quartz/static/og-image.png
 ---
 Communicable diseases can be separated into its own category, but is often included in [[03/index|Community Health Nursing]] and some parts of [[05/index|Medical-Surgical Nursing]]. Specifically for the PNLE, communicable diseases are often limited to endemic diseases and other diseases prevalent within the Philippines. It's always been a blind spot of mine, so I haven't made many notes on these, but I'll work on it. Right now the list of topics is missing content on the basic principles of communicable diseases—those will be added later on.
 
->[!TIP] What are Ratings?
+>[!TIP] Ratings?
 >**Ratings** are based on a very limited sample size of lecturers (four!) who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5). I'll keep asking around for more input from reviewers!
 
 | Chapter                                       | Topic                              | Rating | Status |

@@ -1,5 +1,5 @@
 ---
-description: 
+image: quartz/static/og-image.png
 title: Medical-Surgical Nursing
 tags:
   - MS
@@ -7,9 +7,11 @@ publish: true
 aliases:
   - medsurg
 ---
-The list of topics included in this list is primarily based on Brunner and Suddarth's Textbook of Medical-Surgical Nursing. I've removed some topics I personally don't believe will be appearing on the board exam, but I'll check other content outlines to determine if I have any missing topics.
+**Medical-Surgical Nursing** makes up the largest bulk of nursing education, and the [[pnle|PNLE]] and NCLEX-RN. These are topics surrounding **physiological integrity**, **physiology and pathophysiology of all body systems**, **perioperative nursing**, and **emergency nursing**.
 
->[!TIP] What are Ratings?
+The list of topics included in this list is primarily based on **Brunner and Suddarth's Textbook of Medical-Surgical Nursing**. Given the sheer volume of information regarding this field, there are many notes yet to be completed. Many notes are published but remain lackluster, with only superficial-level details provided. I'll be updating all of them in time.
+
+>[!TIP] Ratings?
 >**Ratings** are based on a very limited sample size of lecturers (four!) who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5). I'll keep asking around for more input from reviewers!
 
 | Chapter                                                | Topic                                                   | Rating | Status |
@@ -352,3 +354,7 @@ The list of topics included in this list is primarily based on Brunner and Sudda
 | Emergency Nursing                                      | Disaster Planning                                       |  5.0   |        |
 | Emergency Nursing                                      | Preparedness and Response                               |  5.0   |        |
 | Emergency Nursing                                      | Outbreaks, Epidemics, and Pandemics                     |  3.0   |        |
+
+___
+
+# Contents
