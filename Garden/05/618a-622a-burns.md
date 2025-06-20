@@ -39,13 +39,13 @@ ___
 >**Age** of the patient; **depth** of the burn; amount of **surface area** of the body burned; the presence of **inhalation injury**; presence of other injuries; **location** of the injury in areas such as the face, the perineum, hands, or feet; and the presence of **comorbid conditions**.
 >1. **Surface area and age**: In adults, a %TBSA of ≥20%–25% may be considered a large or extensive burn. In children, a large or extensive burn is ≥10%. (*Saunders*)
 >2. **Burn location**: (*Saunders*)
->	- Burns of the head, neck, and chest are associated with **pulmonary complications**.
->	- Burns of the face are associated with **corneal abrasion**.
->	- Burns of the ear are associated with **auricular chondritis**.
->	- Burns of the hands and joints require intensive therapy to **prevent disability**.
->	- Burns of the perineal area is prone to **autocontamination** by urine and feces.
->	- Circumferential burns of the extremities can **produce a tourniquet-like effect and lead to vascular compromise** (**compartment syndrome**).
->	- Circumferential thorax burns leads to **inadequate chest wall expansion** and **pulmonary insufficiency**.
+>		- Burns of the head, neck, and chest are associated with **pulmonary complications**.
+>		- Burns of the face are associated with **corneal abrasion**.
+>		- Burns of the ear are associated with **auricular chondritis**.
+>		- Burns of the hands and joints require intensive therapy to **prevent disability**.
+>		- Burns of the perineal area is prone to **autocontamination** by urine and feces.
+>		- Circumferential burns of the extremities can **produce a tourniquet-like effect and lead to vascular compromise** (**compartment syndrome**).
+>		- Circumferential thorax burns leads to **inadequate chest wall expansion** and **pulmonary insufficiency**.
 
 A burn can be classified according to the depth of tissue involved:
 1. **First Degree Burn**: superficial to partial thickness burns that burn the epidermis, resulting in **erythema** (pink to red) and mild to moderate pain. The most common type of first degree burn is a sunburn.
@@ -415,10 +415,10 @@ There are four types of grafts, based on the origin of the graft:
 
 >[!SUCCESS] Care of the Graft and Donor Sites
 >1. **Graft Site**: protection and immobility are key; occlusive dressings encased in bulky gauze wraps are commonly used for optimal healing. Splints may immobilize joints for newly grafted areas. Fragile grafts can be combined with homografts, xenografts, or synthetic dressings.
->	- The first dressing change is usually performed 3 to 5 days after surgery, or earlier if clinical signs of infection or bleeding are present.
->	- Position patients carefully to avoid disturbing the graft.
->		- Grafts on extremities should be elevated to reduce edema.
->		- The grafted area can be exercised 5 to 7 days after surgery. This may vary with individual protocols.
+>		- The first dressing change is usually performed 3 to 5 days after surgery, or earlier if clinical signs of infection or bleeding are present.
+>		- Position patients carefully to avoid disturbing the graft.
+>			- Grafts on extremities should be elevated to reduce edema.
+>			- The grafted area can be exercised 5 to 7 days after surgery. This may vary with individual protocols.
 >2. **Donor Site**: the donor site is a clean, usually superficial wound in a surgical environment. A hemostatic agent is applied to promote hemostasis. Dressings are applied until the donor site heals spontaneously within 7 to 14 days in an adult who was previously healthy and nonsmoking. The site (usually a partial-thickness wound) is very painful, prone to infection, and very susceptible to pressure injury.
 
 2. **Homografts** (or allografts) and **Xenografts** are also referred to as **biologic dressings** and are intended as **temporary wound coverage** until autografting is possible. Homografts are obtained from recently decreased or living humans other than the patient. Xenografts consist of skin taken from animals (usually pigs). Because of this, the body's immune response will eventually reject either of them as a foreign tissue.
@@ -525,18 +525,18 @@ The major goals for the patient include **increased mobility and participation i
 
 >[!EXAMPLE] Nursing Diagnoses, Goals, and Interventions
 >1. **Activity intolerance** associated with pain with exercise, limited joint mobility, muscle wasting, and limited endurance. Goal: **Increased mobility and participation in ADLs**.
->	- Rehabilitation can be painful and challenging. **Strategies to maintain motivation and participation** may be beneficial during this critical phase.
->	- The patient’s activity tolerance, strength, and endurance gradually increase if activity occurs over **increasingly longer periods**. Monitoring of fatigue and pain tolerance will assist with determining the amount of activity to be encouraged on a daily basis.
->	- The nurse must schedule care in such a way that the patient has **periods of rest and uninterrupted sleep**. A good time for planned patient rest is *after the stress of dressing changes and exercise*, while pain interventions and sedatives are still effective. Family members and other care providers are informed of this plan to prevent disturbances. In patients with insomnia related to frequent nightmares about the burn injury or other fears and anxieties, the nurse may **provide reassurance and agents**, as prescribed, to promote sleep.
->	- **Reducing metabolic stress** by **relieving pain, preventing chilling or fever, and promoting the physical integrity of all body systems** helps the patient conserve energy for therapeutic activities and wound healing.
+>		- Rehabilitation can be painful and challenging. **Strategies to maintain motivation and participation** may be beneficial during this critical phase.
+>		- The patient’s activity tolerance, strength, and endurance gradually increase if activity occurs over **increasingly longer periods**. Monitoring of fatigue and pain tolerance will assist with determining the amount of activity to be encouraged on a daily basis.
+>		- The nurse must schedule care in such a way that the patient has **periods of rest and uninterrupted sleep**. A good time for planned patient rest is *after the stress of dressing changes and exercise*, while pain interventions and sedatives are still effective. Family members and other care providers are informed of this plan to prevent disturbances. In patients with insomnia related to frequent nightmares about the burn injury or other fears and anxieties, the nurse may **provide reassurance and agents**, as prescribed, to promote sleep.
+>		- **Reducing metabolic stress** by **relieving pain, preventing chilling or fever, and promoting the physical integrity of all body systems** helps the patient conserve energy for therapeutic activities and wound healing.
 >2. **Disturbed body image** associated with altered physical appearance and self-concept. Goals: **Adaptation and adjustment to alterations in body image**, self-concept, and lifestyle.
->	- The healthcare team must **actively promote a healthy body image and self-concept** in patients with burn injuries so that they can accept or challenge others’ perceptions of those who are disfigured or disabled. **Survivors themselves must show others who they are, how they function, and how they want to be treated**.
+>		- The healthcare team must **actively promote a healthy body image and self-concept** in patients with burn injuries so that they can accept or challenge others’ perceptions of those who are disfigured or disabled. **Survivors themselves must show others who they are, how they function, and how they want to be treated**.
 >3. **Impaired mobility** due to contractures or hypertrophic scarring. Goal: **Increased mobility**.
->	- **Early and aggressive physical and occupational therapy** makes contractures or hypertrophic scars a rare long-term complication.
->	- **Surgical intervention** is indicated if full range of motion in the patient with burns is not achieved.
+>		- **Early and aggressive physical and occupational therapy** makes contractures or hypertrophic scars a rare long-term complication.
+>		- **Surgical intervention** is indicated if full range of motion in the patient with burns is not achieved.
 >4. **Lack of knowledge** about postdischarge home care and recovery needs. Goal: **Increased understanding and knowledge of the injury, treatment, and planned follow-up care**
 >5. (Collaborative) **Inadequate psychological adaptation** to burn injury. Goal: **Absence from complications**.
->	- **Psychological counseling** or **psychiatric referral** may be made to assess the patient’s emotional status, to help the patient develop coping skills, and to intervene if major psychological issues or ineffective coping is identified.
+>		- **Psychological counseling** or **psychiatric referral** may be made to assess the patient’s emotional status, to help the patient develop coping skills, and to intervene if major psychological issues or ineffective coping is identified.
 
 ___
 

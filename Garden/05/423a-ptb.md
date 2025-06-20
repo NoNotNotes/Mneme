@@ -164,9 +164,9 @@ People are considered **noninfectious after 2 to 3 weeks of continuous medicatio
 >- Patients who use IV/injection drugs who have PPD test results with 10 mm of induration or more
 >- Patients who high-risk comorbid conditions and a PPD result with 10 mm of induration or more
 >- 35 years or younger who have PPD test results with 10 mm of induration or more and one of the following criteria:
->	- Foreign-born form countries with a high prevalence of TB
->	- Populations that are high-risk and medically underserved
->	- Patients living in institutions
+>		- Foreign-born form countries with a high prevalence of TB
+>		- Populations that are high-risk and medically underserved
+>		- Patients living in institutions
 >
 >Prophylactic isoniazid treatment involves taking **daily doses for 6 to 12 months**. Liver enzymes, blood urea nitrogen (BUN), and creatinine levels are monitored **monthly**. **Sputum culture** results are monitored for AFB to evaluate the effectiveness of treatment and the patient’s adherence to the treatment regimen.
 

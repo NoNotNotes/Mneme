@@ -7,6 +7,7 @@ tags:
   - MS
   - Neurology
   - TB
+  - INC
 description: Cerebral palsy (CP) has been defined as a disorder of posture and movement from static brain injury perinatally or postnatally, which limits activity. In addition to motor disorders, the condition often involves disturbances of sensation, perception, communication, cognition, and behavior; secondary musculoskeletal problems; and epilepsy.
 ---
 **References**:

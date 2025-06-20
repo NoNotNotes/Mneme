@@ -26,7 +26,7 @@ An **ultrasound** is a non-invasive diagnostic procedure **utilizing high-freque
 >2. **Do not void** prior to the procedure.
 >3. **Prepare transmission gel** to be spread over the abdomen.
 >4. **Provide psychological support** to both mother and father. Explain the reason, risks, benefits, and preparations required for the procedure. Explain that no known risk to the mother and fetus is associated with infrequent exposure to high-frequency sound waves.
->	- Encourage verbalization of fears and concerns. Explain that the procedure is noninvasive, safe, requires no confinement, has no need for dye or contrast, and takes a short period (about 30 minutes) to accomplish.
+>		- Encourage verbalization of fears and concerns. Explain that the procedure is noninvasive, safe, requires no confinement, has no need for dye or contrast, and takes a short period (about 30 minutes) to accomplish.
 
 ___
 

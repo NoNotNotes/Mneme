@@ -55,10 +55,10 @@ Respirations may be characterized by **rate**, **depth**, **rhythm**, **quality*
 >3. **Rhythm** refers to the regularity of the expirations and inspirations. These are normally evenly spaced, but can become irregular.
 >4. **Quality or Character**: aspects of breathing that are different from normal, effortless breathing. Two common aspects to consider is the amount of effort required (e.g., labored breathing) and breath sounds (e.g., wheezes).
 >5. **Sound of Breathing**: normal breathing is silent, but a number of abnormal sounds such as a wheeze are obvious to the nurse's ear. Many sounds occur as a result of the presence of fluid in the lungs and are most clearly heard with a stethoscope. The following are breath sounds that are audible without amplification:
->	- **Stridor**: a shrill, harsh inspiratory sound due to laryngeal obstruction.
->	- **Stertor**: snoring or sonorous respiration, usually due to a partial obstruction of the upper airway.
->	- **Wheeze**: a continuous, high-pitched "musical" squeak or whistling expiratory sound.
->	- **Bubbles**: gurgling sounds heard as air passes through moist secretions in the respiratory tract.
+>		- **Stridor**: a shrill, harsh inspiratory sound due to laryngeal obstruction.
+>		- **Stertor**: snoring or sonorous respiration, usually due to a partial obstruction of the upper airway.
+>		- **Wheeze**: a continuous, high-pitched "musical" squeak or whistling expiratory sound.
+>		- **Bubbles**: gurgling sounds heard as air passes through moist secretions in the respiratory tract.
 
 >[!TIP] Changes in Respirations Across the Lifespan
 >1. **Infants and Children**: crying and anxiety will alter the respiratory rate.

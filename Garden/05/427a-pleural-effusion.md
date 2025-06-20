@@ -19,8 +19,8 @@ A pleural effusion is a collection of fluid in the pleural space, usually second
 >[!ERROR] Pathophysiology
 >In certain disorders, fluids may accumulate in the pleural space to a point at which it becomes clinically evident. This almost always has a pathologic significance.
 >1. The effusion can be (a) a **relatively clear fluid**—**transudate** (filtrate of plasma that moves across intact capillary walls) or (b) an **exudate** (extravasation of fluid into tissues or a cavity).
->	- Transudates may be due to pathologies in the formation and reabsorption of pleural fluid, usually by an imbalance in hydrostatic or oncotic pressures. Transudative pleural effusions are most commonly due to heart failure.
->	- Exudates usually result from inflammation by bacterial products or tumors involving the pleural surfaces. The most common malignancy associated with a pleural effusion is a bronchogenic carcinoma.
+>		- Transudates may be due to pathologies in the formation and reabsorption of pleural fluid, usually by an imbalance in hydrostatic or oncotic pressures. Transudative pleural effusions are most commonly due to heart failure.
+>		- Exudates usually result from inflammation by bacterial products or tumors involving the pleural surfaces. The most common malignancy associated with a pleural effusion is a bronchogenic carcinoma.
 >2. The effusion can also be **bloody** or **purulent**.
 
 ___

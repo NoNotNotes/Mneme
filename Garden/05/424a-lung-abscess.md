@@ -18,9 +18,9 @@ A **lung abscess** is a localized collection of pus caused by microbial infectio
 >Most lung abscesses are a **complication of bacterial pneumonia** or are caused by **aspiration of oral anaerobes** into the lung. Aerobic organisms may be involved as well. Abscesses also may occur secondary to **mechanical or functional obstruction of the bronchi** by a tumor, foreign body, or bronchial stenosis, or from necrotizing pneumonias, TB, pulmonary embolism (PE), or chest trauma.
 >- **Location**: most lung abscesses are found in areas of the lung that may be affected by aspiration, and is related to gravity—determined by position. For patients confined to bed, the posterior segment of an upper lobe and the superior segment of the lower lobe are the most common areas. However, atypical presentations may occur, depending on the position of the patient when the aspiration occurred.
 >- **Communication**: the abscess initially may or may not extend directly into a bronchus. Eventually, the abscess becomes surrounded (encapsulated) by a wall of fibrous tissue. The necrotic process may extend until it reaches the lumen of a bronchus or the pleural cavity, or both.
->	- If the abscess reaches the **bronchus**, purulent contents spill into the bronchus and are expectorated continuously in the form of mucopurulent/purulent sputum.
->	- If the abscess reaches the **pleura**, the abscess results in **empyema**.
->	- If the abscess reaches both, a **bronchopleural fistula** is formed.
+>		- If the abscess reaches the **bronchus**, purulent contents spill into the bronchus and are expectorated continuously in the form of mucopurulent/purulent sputum.
+>		- If the abscess reaches the **pleura**, the abscess results in **empyema**.
+>		- If the abscess reaches both, a **bronchopleural fistula** is formed.
 
 ___
 

@@ -8,7 +8,7 @@ tags:
 description: Otherwise known as choking. This is most commonly caused by food in adults and small toys in children.
 ---
 **References**:
-1. Lecturer ()
+1. Lecturer (Coprade)
 
 ___
 

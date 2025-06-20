@@ -107,22 +107,22 @@ Anemia caused by an inadequate supply or loss of iron is the most prevalent nutr
 >[!ERROR] Causes of Iron Deficiency Anemia
 >**Inadequate Supply of Iron**:
 >- Deficient dietary intake
->	- Rapid growth rate
->	- Excessive milk intake, delayed addition of solid foods
->	- Poor general eating habits
->	- Exclusive breastfeeding of infant after 6 months of age
+>		- Rapid growth rate
+>		- Excessive milk intake, delayed addition of solid foods
+>		- Poor general eating habits
+>		- Exclusive breastfeeding of infant after 6 months of age
 >- Inadequate iron stores at birth
->	- Low birth weight, prematurity, multiple births
->	- Severe iron deficiency in mother (hemoglobin level <9 g/dl)
->	- Fetal blood loss at or before delivery
+>		- Low birth weight, prematurity, multiple births
+>		- Severe iron deficiency in mother (hemoglobin level <9 g/dl)
+>		- Fetal blood loss at or before delivery
 >
 >**Impaired Iron Absorption**
 >- Presence of iron inhibitors
->	- Phytates, phosphates, or oxalates
->	- Gastric alkalinity
+>		- Phytates, phosphates, or oxalates
+>		- Gastric alkalinity
 >- Malabsorption disorders
->	- Lactose intolerance
->	- Inflammatory bowel disease
+>		- Lactose intolerance
+>		- Inflammatory bowel disease
 >- Chronic diarrhea
 >
 >**Blood Loss**
@@ -209,19 +209,19 @@ The clinical manifestations of SCA are primarily the result of (1) **obstruction
 >**Vasoocclusive Crisis**
 >- Pain in area(s) of involvement
 >- Manifestations related to ischemia of involved areas:
->	- Extremities—Painful swelling of hands and feet (sickle cell dactylitis, or hand-foot syndrome), painful joints
->	- Abdomen—Severe pain resembling acute surgical condition
->	- Cerebrum—Stroke, visual disturbances
->	- Chest—Symptoms resembling pneumonia, protracted episodes of pulmonary disease
->	- Liver—Obstructive jaundice, hepatic coma
->	- Kidney—Hematuria
->	- Genitals—Priapism (painful penile erection)
+>		- Extremities—Painful swelling of hands and feet (sickle cell dactylitis, or hand-foot syndrome), painful joints
+>		- Abdomen—Severe pain resembling acute surgical condition
+>		- Cerebrum—Stroke, visual disturbances
+>		- Chest—Symptoms resembling pneumonia, protracted episodes of pulmonary disease
+>		- Liver—Obstructive jaundice, hepatic coma
+>		- Kidney—Hematuria
+>		- Genitals—Priapism (painful penile erection)
 >
 >**Sequestration Crisis**
 >- Pooling of large amounts of blood
->	- Hepatomegaly
->	- Splenomegaly
->	- Circulatory collapse
+>		- Hepatomegaly
+>		- Splenomegaly
+>		- Circulatory collapse
 >
 >**Effects of Chronic Vasoocclusive Phenomena**
 >- Heart—Cardiomegaly, systolic murmurs

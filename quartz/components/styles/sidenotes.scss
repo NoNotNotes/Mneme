@@ -1,0 +1,52 @@
+.sidenotes {
+    left: -400px;
+  & > ol {
+    padding-inline-start: 0;
+  }
+
+  & .sidenote-element {
+    position: absolute;
+    transition: opacity 0.2s ease-in-out;
+    opacity: 0;
+    display: block;
+    margin-bottom: 1rem;
+    counter-increment: sidenote-counter;
+    left: 28px;
+
+    &::before {
+      content: counter(sidenote-counter);
+      background-color: var(--light);
+      font-size: 0.8em;
+      font-weight: bold;
+      position: absolute;
+      left: -28px;
+      padding: 1px 10px;
+      border-right: 1px solid var(--gray);
+      height: 100%;
+    }
+
+    &.in-view {
+      opacity: 1;
+    }
+
+    & .sidenote-inner {
+      max-height: 300px;
+      overflow-y: auto;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 0.2rem 1rem;
+      > p {
+          margin: 0.5rem 0;
+          font-size: 0.8rem;
+          line-height: 1.4rem;
+      }
+    }
+  }
+}
+
+[reader-mode="on"] {
+    .sidenotes{
+        left: 10px;
+        transition: left 0.1s ease-out;
+    }
+}
