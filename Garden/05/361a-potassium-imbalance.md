@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Sodium Imbalances
+title: Potassium Imbalances
 tags:
   - MS
   - F/E
