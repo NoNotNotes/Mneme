@@ -30,12 +30,13 @@ ___
 1. **Brunner & Suddarth's Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh
 2. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile
 3. **Fundamentals of Nursing**, 3rd Australian Edition, ISBN 978-0-17-045912-9, by Sue C. DeLaune, Patricia K. Ladner, Lauren McTier, and Joanne Tollefson. *This is the Australian edition made last 2024, based on the original 4th edition made last 2010.*
-4. **Kozier & Erb’s Fundamentals of Nursing: Concepts, Process, and Practice**, 11th Edition, ISBN 978-0-13-542873-3, by Audrey Berman, Shirlee J. Snyder, and Geralyn Frandsen
-5. **Maternal & Child Health Nursing: Care of the childbearing & childrearing family**, 8th Edition, ISBN 978-1-4963-4813-5, by JoAnne Silbert-Flagg and Adele Pillitteri
-6. **Mosby's Comprehensive Review of Nursing for the NCLEX-RN Examination**, 20th Edition, ISBN 978-0-323-07895-5, by Patricia M. Nugent, Judith S. Green, Mary Ann Hellmer Saul, and Phyllis K. Pelikan.
-7. **Psychiatric-Mental Health Nursing**, 8th Edition, 978-1-975116-37-8, by Sheila L. Videbeck
-8. **Saunders Comprehensive Review for the NCLEX-RN Examination**, 9th Edition, ISBN 978-032-37-9530-2, by Linda Anne Silvestri, Angela E. Silvestri, and Jessica Grimm. *This is technically review material, but it's textbook-level content.*
-9. **Wong's Nursing Care of Infants and Children**, 11th Edition, ISBN 978-0-323-54939-4, by Marilyn J. Hockenberry, David Wilson, and Cheryl C. Rodgers
+4. **Global Infectious Diseases and Epidemiology Online Network: Infectious Diseases of the Philippines**, 2013 eBook Edition, ISBN 978-1-61755-582-4, by Stephen Berger. *This edition is available [here](https://internationalmedicalrelief.org/wp-content/uploads/2019/07/PHILIPPINES-Infectious-Diseases-of-the-Philippines-by-GIDEON.pdf). There's a more recent edition ([2024](https://www.gideononline.com/ebooks/infectious-diseases-of-the-philippines/)) but is not publicly available.*
+5. **Kozier & Erb’s Fundamentals of Nursing: Concepts, Process, and Practice**, 11th Edition, ISBN 978-0-13-542873-3, by Audrey Berman, Shirlee J. Snyder, and Geralyn Frandsen
+6. **Maternal & Child Health Nursing: Care of the childbearing & childrearing family**, 8th Edition, ISBN 978-1-4963-4813-5, by JoAnne Silbert-Flagg and Adele Pillitteri
+7. **Mosby's Comprehensive Review of Nursing for the NCLEX-RN Examination**, 20th Edition, ISBN 978-0-323-07895-5, by Patricia M. Nugent, Judith S. Green, Mary Ann Hellmer Saul, and Phyllis K. Pelikan.
+8. **Psychiatric-Mental Health Nursing**, 8th Edition, 978-1-975116-37-8, by Sheila L. Videbeck
+9. **Saunders Comprehensive Review for the NCLEX-RN Examination**, 9th Edition, ISBN 978-032-37-9530-2, by Linda Anne Silvestri, Angela E. Silvestri, and Jessica Grimm. *This is technically review material, but it's textbook-level content.*
+10. **Wong's Nursing Care of Infants and Children**, 11th Edition, ISBN 978-0-323-54939-4, by Marilyn J. Hockenberry, David Wilson, and Cheryl C. Rodgers
 ## Review Books
 1. **Comprehensive Nursing Licensure Review Book: Local and International Test Prep**, Volumes 1 and 2, ISBN 978-971-51-3383-8, by Josie Quiambao-Udan
 2. **Dr. RPS Maternal and Newborn Care: A Comprehensive Guide and Source Book for Teaching and Learning**, 2nd Edition, ISBN 978-971-98-2265-3, by Rosalinda Parado Salustiano
