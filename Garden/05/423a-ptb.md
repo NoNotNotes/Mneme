@@ -14,6 +14,9 @@ description: PTB is one of the most prevalent communicable diseases in the moder
 3. Shi, J., Dong, W., Ma, Y., Liang, Q., Shang, Y., Wang, F., Huang, H., & Pang, Y. (2018). GeneXpert MTB/RIF Outperforms Mycobacterial Culture in Detecting *Mycobacterium tuberculosis* from Salivary Sputum. *BioMed research international*, *2018*, 1514381. https://doi.org/10.1155/2018/1514381
 4. [About Streptomycin](https://www.ncbi.nlm.nih.gov/books/NBK555886/) (Waters, Tadi, 2023)
 
+>[!INFO] Also Read
+>1. [[06/tuberculosis|Tuberculosis]]
+
 ___
 
 **Tuberculosis** (TB) is an infectious disease that primarily affects the lung parenchyma. It may also be transmitted to other parts of the body (extrapulmonary tuberculosis), including the meninges, kidneys, bones, and lymph nodes. The primary infectious agent, *M. tuberculosis*, is an acid-fast aerobic rod that grows slowly and is sensitive to heat and ultraviolet light. *Mycobacterium bovis* and *Mycobacterium avium* have rarely been associated with the development of a TB infection.
