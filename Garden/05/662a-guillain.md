@@ -4,9 +4,14 @@ title: Guillain–Barré Syndrome
 tags:
   - MS
   - Neurology
-  - NA
+  - TB
 description: GBS is an autoimmune attack on the peripheral nerve myelin, resulting in acute, rapid segmental demyelination of peripheral nerves and some cranial nerves, producing symmetrical ascending weakness (classical) with dyskinesia, hyporeflexia, and paresthesias.
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 64, \[ebook] pp. 5547–5556)
+
+___
+
 **GBS** is an autoimmune attack on the **peripheral nerve myelin**, resulting in acute, rapid segmental demyelination of peripheral nerves and some cranial nerves, producing symmetrical ascending weakness (classical) with dyskinesia, hyporeflexia, and paresthesias. **An antecedent event**, most commonly from viral infection, result in the clinical presentation of 60% to 70% of GBS cases.
 - *Campylobacter jejuni* is implicated in 40% of cases. Cytomegalovirus, Epstein-Barr virus, *Mycoplasma pneumoniae*, *H. influenzae*
 - Men and women are equally affected at around 1 to 2 in 100,000 people.

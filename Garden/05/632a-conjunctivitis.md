@@ -7,6 +7,11 @@ tags:
   - TB
 description: "An inflammation of the conjunctiva. It is a common ocular disorder worldwide, characterized by a pink appearance (hence its name 'pink eye') because of subconjunctival blood vessel congestion."
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 58, \[ebook] pp. 5116–5122)
+
+___
+
 An inflammation of the conjunctiva. It is a common ocular disorder worldwide, characterized by a **pink appearance** (hence its name "*pink eye*") because of subconjunctival blood vessel congestion.
 
 ___

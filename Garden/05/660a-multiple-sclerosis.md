@@ -8,7 +8,7 @@ tags:
 description: MS is an immune-mediated, progressive demyelinating disease of the CNS. Demyelination is the destruction or loss of the myelin, a fatty and protein material that surrounds certain nerve fibers in the brain and spinal cord, resulting in impaired nerve impulse transmission.
 ---
 **References**:
-1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 64, \[ebook] pp. 5523–5540)
 
 ___
 

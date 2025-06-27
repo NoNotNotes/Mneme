@@ -4,9 +4,14 @@ title: Huntington's Disease
 tags:
   - MS
   - Neurology
-  - NA
+  - TB
 description: HD is a chronic, progressive, hereditary disease of the nervous system resulting in progressive involuntary choreiform movement and dementia.
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 65, \[ebook] pp. 5615–5621)
+
+___
+
 A chronic, progressive, hereditary disease of the nervous system resulting in **progressive involuntary choreiform movement** and dementia.
 - Affects 1 in 10,000 individuals at midlife, equally between men, women, and races.
 - All individuals have the gene for Huntington, but the disease requires inheritance of the expansion of the gene. **Huntington is transmitted through an autosomal dominant gene**, having a **50% risk of inheriting the disorder from a parent**.
@@ -44,7 +49,7 @@ The disease progresses through three general stages: (1) **onset of neurologic o
 
 ___
 
-# Diagnostic Examination
+# Assessment and Diagnostic Findings
 - Diagnosis is based on **characteristic symptoms** (motor dysfunction, cognitive impairment, and behavioral features), **positive family history**, and **presence of genetic marker CAG repeating on the Huntington (HTT) gene**.
 - **CT or MRI imaging** shows bilateral striatal atrophy of the basal ganglia before motor symptoms appear.
 

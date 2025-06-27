@@ -7,6 +7,11 @@ tags:
   - TB
 description: Retinal detachment is the separation of the retinal pigment epithelium from the neurosensory layer due to (a) tearing, (b) trauma, (c) traction, or (d) exudate formation.
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 58, \[ebook] pp. 5098–5101)
+
+___
+
 The **separation of the retinal pigment epithelium** (RPE) **from the neurosensory layer**. There are four types:
 1. **Rhegmatogenous Retinal Detachment**: the most common form, where **a hole or tear develops in the sensory retina, allowing liquid vitreous to seep through and detach the RPE**. People at risk for this form include those with high myopia or are aphakic. **Trauma** may also play a role. Between 5% to 10% of this form are from **proliferative retinopathy**, which is associated with **diabetic neovascularization**.
 2. **Traction Retinal Detachment**: a tension or pulling force physically detaches the RPE from the neurosensory layer. In general, patients with this type have developed **fibrous scar tissue** that exert a pulling force on the delicate retina. This tissue may form in diabetic retinopathy, vitreous hemorrhage, or retinopathy of prematurity. All the **scars or bands of fibrous material providing traction are released**.

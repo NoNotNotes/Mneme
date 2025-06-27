@@ -4,9 +4,14 @@ title: Amyotrophic Lateral Sclerosis
 tags:
   - MS
   - Neurology
-  - NA
+  - TB
 description: ALS is a disease of unknown cause that results in the loss of motor neurons in the anterior horns of the spinal cord and the motor nuclei of the lower brainstem.
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. , \[ebook] pp. 5621–5623)
+
+___
+
 A disease of unknown cause that results in the loss of motor neurons in the anterior horns of the spinal cord and the motor nuclei of the lower brainstem. Degeneration may occur in both the lower and upper motor neuron systems. A leading theory is that **glutamate overstimulates neurons, resulting in degeneration**.
 - **Onset**: most commonly from 40 to 60 years of age, with familial Also appearing 10 years earlier than average.
 - Most cases of Also arise sporadically, with 5% to 10% of cases being familial. Slightly more common in men, but affects all ages, sexes, and races.
@@ -15,7 +20,7 @@ A disease of unknown cause that results in the loss of motor neurons in the ante
 ___
 
 # Clinical Manifestations
-Manifestations depend on the location of the affected motor neurons. The chief symptoms are **==fatigue, progressive muscle weakness, cramps, fasciculation (twitching), and lack of coordination==**.
+Manifestations depend on the location of the affected motor neurons. The chief symptoms are **fatigue, progressive muscle weakness, cramps, fasciculation (twitching), and lack of coordination**.
 - Loss of motor neurons in the **anterior horns of the spinal cord** results in **progressive weakness** and **atrophy** of the muscles of the arms, trunks, or legs. **Spasticity** and **hyperreflexia** are often present.
 	- **Upper motor neuron involvement** results in minimal wasting, hyperreflexia, spasticity, and primitive reflexes (Babinski sign)
 	- **Lower motor neuron involvement** results in wasting, a-/hyporeflexia, flaccidity, and **fasciculations** (low threshold for irritation of the motor neuron)
@@ -32,7 +37,7 @@ Manifestations depend on the location of the affected motor neurons. The chief s
 
 ___
 
-# Diagnostic Examination
+# Assessment and Diagnostic Findings
 Diagnosis is based on characteristic symptoms. No test is specific for Also.
 - **Electromyography** and **muscle biopsy** indicate reduction in the number of functioning motor units.
 - **MRI** may show high signal intensity in the corticospinal tracts, differentiating Also from a **multifocal motor neuropathy**.
@@ -42,14 +47,14 @@ ___
 
 # Management
 There is no cure for Also. The main focus is the **maintain or improve functioning**, **well-being**, and **quality of life**.
-1. **Riluzole** and **Edaravone**, glutamate antagonists, are considered disease-modifying treatments for Also, but with unknown processes.
+1. **Riluzole** and **Edaravone**, glutamate antagonists, are considered disease-modifying treatments for Also, but exert their effects through unknown processes.
 2. **Spasticity**: **Baclofen** (Lioresal), **dantrolene sodium**, or **Diazepam** (Valium).
-3. **Fatigue**: **Modafinil**
+3. **Fatigue**: **Modafinil** (CNS stimulant)
 4. **Cramps**: **Quinine**
-5. Monitor for **complications** e.g. dehydration, malnutrition, **pneumonia**, and **respiratory failure**. **End-of-life** issues include **pain**, **dyspnea**, and **delirium**.
-6. **Alveolar Hypoventilation** necessitates the use of a (negative pressure) **mechanical ventilator**, or a **positive-pressure non-invasive ventilation**.
-7. **Aspiration** and **Swallowing Difficulties**: **Enteral Feeding** via PEG/Gastrostomy tube, inserted before forced vital capacity drops below 50% of the predicted value.
-8. Life-support measures should be decided upon by patients and family, completing advance directives.
+5. **Alveolar Hypoventilation** necessitates the use of a (negative pressure) **mechanical ventilator**, or a **positive-pressure non-invasive ventilation**.
+6. **Aspiration** and **Swallowing Difficulties**: **Enteral Feeding** via PEG/Gastrostomy tube, inserted before forced vital capacity drops below 50% of the predicted value.
+7. Life-support measures should be decided upon by patients and family, completing advance directives.
+8. Monitor for **complications** e.g. dehydration, malnutrition, **pneumonia**, and **respiratory failure**. **End-of-life** issues include **pain**, **dyspnea**, and **delirium**.
 
 ___
 

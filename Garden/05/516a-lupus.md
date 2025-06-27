@@ -4,9 +4,14 @@ title: Systemic Lupus Erythematosus
 tags:
   - MS
   - Musculoskeletal
-  - NA
+  - TB
 description: SLE is an inflammatory autoimmune disorder that affects nearly every organ in the body.
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 34, \[ebook] pp. 2960–2968)
+
+___
+
 SLE is **an inflammatory autoimmune disorder that affects nearly every organ in the body** (systemic). The overall incidence is estimated to be 1.8 to 7.6 per 100,000 people, occurring 4 to 12 times more in women than men. It is more common in African Americans, Hispanics/Latino Americans, Asians, and American Indians/Alaska Natives, compared to White Americans. Other forms of lupus also exist, including **subacute cutaneous or discoid lupus erythematosus**, and **drug-induced lupus**.
 
 ___
@@ -31,11 +36,11 @@ SLE is an autoimmune, systemic disease that can affect any body system. Chronic 
 
 ___
 
-# Diagnostic Examination
+# Assessment and Diagnostic Examination
 Diagnosis is based on **complete history**, **physical examination**, and **blood tests**. Assessment for known or suspected SLE has special features:
 - (Skin) **Erythematous rashes**, plaques, hyperpigmentation or depigmentation, and other skin changes. Question the patient about **sensitivity to sunlight or artificial ultraviolet light**.
 - (Cardiovascular) **Auscultate for pericardial friction rub**, possible associated with myocarditis and accompanying **pleural effusions**, reflecting respiratory insufficiency. These manifest as abnormal lung sounds. **Papular**, **erythematous**, and **purpuric lesions** on the fingertips, elbows, toes, and extensor surfaces of the forearms or lateral sides of the hand that may become necrotic suggest **vascular involvement**.
-- **Joint swelling, tenderness, warmth, pain on movement, stiffness, and edema** may be detected on physical examination. These are often symmetric and are similar to [[Rheumatoid Arthritis|RA]].
+- **Joint swelling, tenderness, warmth, pain on movement, stiffness, and edema** may be detected on physical examination. These are often symmetric and are similar to [[05/515a-rheumatoid-arthritis|RA]].
 - (Neurologic) Identify and describe any **CNS changes**: **behavioral changes**, including manifestations of **neurosis** or **psychosis**. Signs of **depression** are noted, as are reports of seizures, chorea, or other CNS manifestations.
 - The **ANA** test is positive in more than 95% of patients with SLE, indicating exceptional specificity. Other tests include anti-DNA (antibody against the patient's own DNA), anti-ds DNA (anti-DNA specific to SLE), and anti-Sm (antibody against protein in nucleus).
 - **CBC** reveals **anemia, thrombocytopenia, leukocytosis, and leukopenia**.

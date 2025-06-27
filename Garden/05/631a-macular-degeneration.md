@@ -7,6 +7,11 @@ tags:
   - TB
 description: Macular degeneration, the leading cause of blindness and visual impairment in the world, is characterized by the accumulation of drusen beneath the retina.
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 58, \[ebook] pp. 5103–5106)
+
+___
+
 The **leading cause of irreversible blindness and visual impairment in the world**. AMD is characterized by **drusen** (clusters of debris or waste material) **beneath the retina**. A wide range of visual loss is experienced. Only a small portion experience **total blindness**. Most patients **retain peripheral vision**. There are two types of AMD:
 1. **Dry Type AMD** makes up 85% to 90% of people with AMD. The outer layers of the retina slowly break down, with the breakdown forming drusen. If this drusen forms outside of the macular area, no symptoms generally occur. If it does, however, there is a **gradual blurring of vision** that patients may notice when they try to read.
 2. **Wet Type AMD**: the **neovascular** or **exudative** type. These have **abrupt onsets** and are **more damaging to vision**. Patients report that **straight lines appear crooked and distorted**, or **letters in words appear broken**. This is a result of proliferation of abnormal blood vessels growing under the retina, within the choroid layer (choroidal neovascularization). The affected vessels can **leak fluid and blood**, elevating the retina.

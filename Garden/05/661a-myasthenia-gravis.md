@@ -4,9 +4,14 @@ title: Myasthenia Gravis
 tags:
   - MS
   - Neurology
-  - L1
+  - TB
 description: MG is an autoimmune disorder affecting the myoneural junction, characterized by varying degrees of weakness of the voluntary muscles.
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 64, \[ebook] pp. 5540–5547)
+
+___
+
 **MG** is an autoimmune disorder affecting the myoneural junction, characterized by varying degrees of weakness of the voluntary muscles. It is uncommon, being found between 9 to 30 cases in 1,000,000 people in the United States. It is more common in women during the second and third decades of life, but becomes more common in men after the fifth decade of life.
 
 ___

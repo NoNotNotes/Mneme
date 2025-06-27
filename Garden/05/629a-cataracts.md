@@ -7,6 +7,11 @@ tags:
   - TB
 description: A cataract is a lens opacity or cloudiness that result in visual disability, being a leading cause of blindness in the world. By 80 years of age, over half of all Americans have cataracts.
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 58, \[ebook] pp. 5065–5091)
+
+___
+
 A **cataract** is a lens opacity or cloudiness that result in visual disability, being a leading cause of blindness in the world. By 80 years of age, over half of all Americans have cataracts. (Prevent Blindness America, 2020)
 
 ___

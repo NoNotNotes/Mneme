@@ -7,6 +7,11 @@ tags:
   - TB
 description: Glaucoma is a term to denote any ocular condition characterized by elevated IOP, which, if left untreated, damages the optic nerve and nerve fiber layer to varying degrees. Damage from IOP is caused by congestion of aqueous humor in the eye. A range of IOP may be normal, but these may be associated with vision loss in some patients.
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 58, \[ebook] pp. 5065–5080)
+
+___
+
 **Glaucoma** is a term to denote any ocular condition characterized by **elevated IOP**, which, if left untreated, damages the optic nerve and nerve fiber layer to varying degrees. Damage from IOP is caused by congestion of aqueous humor in the eye. A range of IOP may be normal, but these may be associated with vision loss in some patients. Glaucoma is more prevalent in people older than 30 years old, and is the third most common age-related eye disease (in the U.S.). **There is no cure for Glaucoma**, but the disease can be controlled. Some risk factors include:
 - Black of Asian race
 - Cardiovascular disease
@@ -26,7 +31,7 @@ ___
 **Aqueous humor** flows between the iris and the lens, nourishing the cornea and lens. Most (90%) of the fluid then flows out of the anterior chamber, draining through the spongy trabecular meshwork into the canal of Schlemm and the episcleral veins. About 10% of the aqueous fluid exits through the ciliary body into the suprachondrial space and then drains into the venous circulation of the ciliary body, choroid, and sclera.
 - **Unimpeded outflow of aqueous fluid** depends on **intact drainage system** and an **open angle** (~45°) between the iris and the cornea. A narrower angle places the iris closer to the trabecular meshwork, diminishing the angle.
 - **Age, diabetes, and inflammatory ocular conditions** tend to diminish the amount of aqueous humor produced.
-- **IOP** is determined by the **rate of aqueous production**, **the resistance encountered by the aqueous humor as it flows out of the passages**, and the **venous pressure of the episcleral veins** that drain into the anterior ciliary vein. When balanced, **==IOP is maintained around 10 to 21 mmHg==**.
+- **IOP** is determined by the **rate of aqueous production**, **the resistance encountered by the aqueous humor as it flows out of the passages**, and the **venous pressure of the episcleral veins** that drain into the anterior ciliary vein. When balanced, **IOP is maintained around 10 to 21 mmHg**.
 - Fluctuations in IOP occur with time of day, exertion, diet, and medications. It **increases** with **blinking, tight lid squeezing, and upward gazing**. Systemic conditions such as **diabetes** and intraocular conditions such as **uveitis** and **retinal detachment** have been associated with elevated IOP.
 - **Thin corneas may result in false low IOP readings** during tonometry.
 
@@ -46,7 +51,7 @@ ___
 		- If medical management is unsuccessful, **laser trabeculoplasty** (LT) can decrease IOP by 20%. If optic nerve damage continues, **glaucoma filtering surgery** may be used.
 	- **Ocular Hypertension**: elevated IOP with possible ocular pain or headache. Ideal management is unestablished. The goal is to lower IOP by at least 30%.
 2. **Narrow-angle Glaucoma**: **partial closure of the angle from the forward shift of the peripheral iris to the trabecula**, resulting in increased IOP.
-	- **Acute Angle-closure Glaucoma**: rapidly progressing visual impairment, periocular pain, **reduced central visual acuity**, severely elevated IOP, corneal edema, **vertically oval appearance of the pupil** fixed in a **semidilated** position, unreactive to light and accommodation. This is an **==ocular emergency==**.
+	- **Acute Angle-closure Glaucoma**: rapidly progressing visual impairment, periocular pain, **reduced central visual acuity**, severely elevated IOP, corneal edema, **vertically oval appearance of the pupil** fixed in a **semidilated** position, unreactive to light and accommodation. This is an **ocular emergency**.
 		- **Administration of hyperosmotics, acetazolamide, and topical ocular hypotensive agents** is done.
 		- **Possible laser iridotomy** to release blocked aqueous and reduce IOP.
 		- The unaffected eye is treated with **pilocarpine eye drops and/or surgical management** to avoid a similar spontaneous attack.
@@ -56,6 +61,12 @@ ___
 		- **Laser iridotomy** and **medication**.
 3. **Congenital Glaucoma**
 4. **Glaucoma Associated with Other Conditions** such as developmental anomalies or the use of corticosteroids.
+
+<carousel>
+	<img src="aqueous-flow-normal.png" alt="Normal aqueous flow"/>
+	<img src="aqueous-flow-wide.png" alt="Wide-angle glaucoma; blockage of aqueous humor at the trabecular meshwork"/>
+	<img src="aqueous-flow-narrow.png" alt="Narrow-angle glaucoma; resistance of flow through the pupil"/>
+</carousel>
 
 ___
 
@@ -76,19 +87,21 @@ The purpose of a glaucoma workup is to establish the diagnostic category, assess
 ___
 
 # Medical Management
-The aim of all glaucoma treatment is to **prevent optic nerve damage**. Achieve the **greatest benefit at the least risk, cost, and inconvenience** to the patient. **Maintain an IOP within a range unlikely to cause further damage**. **Initial goals for IOP reduction** in patients with ocular hypertension and low-tension glaucoma associated with progressive visual field loss is **==30% less than initial findings==**. With the lack of a cure, **treatment is life-long**. **Pharmacologic therapy**, **laser procedures**, **surgery**, or a combination of these approaches, all of which have potential complications, is used.
-1. **Pharmacologic Therapy**: systemic and topical ocular medications that lower IOP. **Disease monitoring and treatment evaluation** is essential. The patient is typically started on the **lowest dose of topical medication** and then advanced until desired IOP level is reached and maintained. If IOP elevation is unilateral, **one eye is treated first, to allow the untreated eye to remain as a control variable**. Treatment is started on the other eye once efficacy has been established (lowered IOP, stable optic nerve head, maintained visual field). If unsatisfactory, a new medication is used.
-	- **Beta-blockers** (Timolol, Maleate) decrease aqueous humor production and are the preferred initial topical medication.
-	- **Alpha-adrenergic Agonists** (Apraclonidine, Brimonidine) decrease aqueous humor production.
-	- **Cholinergics**, functioning as **miotics** (Pilocarpine, Carbachol Intraocular), increase aqueous fluid outflow by **contracting the ciliary muscle**, and causing miosis and opening of trabecular meshwork.
-	- **Carbonic Anhydrate Inhibitors** (Acetazolamide, Dorzolamide) decrease aqueous humor production.
-	- **Prostaglandin Analogues** (Latanoprost, Bimatoprost) increase uveoscleral outflow.
-2. **Surgical Management**: reserved for patients in whom pharmacologic treatment has not been effective. Minimally invasive procedures have been specifically designed to improve drainage to balance IOP.
-	- **Trabeculectomy** is performed through a small incision and does not require the creation of a permanent hole in the eye wall or an external filtering bleb or an implant.
-	- **Laser Trabeculoplasty** (LT) applies a laser beam into the inner surface of the trabecular meshwork to **open the intratrabecular spaces and widen the canal of Schlemm**, promoting outflow of aqueous humor. This is contraindicated if a **narrow angle obstructs full visualization of the trabecular meshwork**.
-	- **Peripheral** (Laser) **Iridotomy** is a procedure for **pupillary block glaucoma**. An opening in the iris is made to eliminate the blockage. This is contraindicated in patients with **corneal edema**, which interferes with laser targeting and intensity. Complications include burns on the cornea, lens, or retina; transient elevated IOP; closure of the iridotomy; uveitis; and blurring.
-	- **Filtering Procedures** for glaucoma are used to **create an opening or fistula in the trabecular meshwork** to drain aqueous humor from the anterior chamber to the subconjunctival space into a bleb (fluid collection outside of the eye), bypassing the usual drainage structures. A common form of this is a **trabeculectomy**. Complications include hemorrhaging, extremely low (hypotonic) or extremely elevated IOP, uveitis, cataracts, bleb failure, bleb leakage, and **endophthalmitis** (an intraocular infection).
-	- **Drainage implants** or **shunts** are tubes implanted in the anterior chamber to shunt aqueous humor to the episcleral plate in the conjunctival space. Implants are used when failure has occurs with one or more trabeculectomies in which antifibrotic agents were used.
+The aim of all glaucoma treatment is to **prevent optic nerve damage**. Achieve the **greatest benefit at the least risk, cost, and inconvenience** to the patient. **Maintain an IOP within a range unlikely to cause further damage**. **Initial goals for IOP reduction** in patients with ocular hypertension and low-tension glaucoma associated with progressive visual field loss is **30% less than initial findings**. With the lack of a cure, **treatment is life-long**. **Pharmacologic therapy**, **laser procedures**, **surgery**, or a combination of these approaches, all of which have potential complications, is used.
+## Pharmacologic Therapy
+Systemic and topical ocular medications that lower IOP are given. **Disease monitoring and treatment evaluation** is essential. The patient is typically started on the **lowest dose of topical medication** and then advanced until desired IOP level is reached and maintained. If IOP elevation is unilateral, **one eye is treated first, to allow the untreated eye to remain as a control variable**. Treatment is started on the other eye once efficacy has been established (lowered IOP, stable optic nerve head, maintained visual field). If unsatisfactory, a new medication is used.
+1. **Beta-blockers** (Timolol, Maleate) decrease aqueous humor production and are the preferred initial topical medication.
+2. **Alpha-adrenergic Agonists** (Apraclonidine, Brimonidine) decrease aqueous humor production.
+3. **Cholinergics**, functioning as **miotics** (Pilocarpine, Carbachol Intraocular), increase aqueous fluid outflow by **contracting the ciliary muscle**, and causing miosis and opening of trabecular meshwork.
+4. **Carbonic Anhydrate Inhibitors** (Acetazolamide, Dorzolamide) decrease aqueous humor production.
+5. **Prostaglandin Analogues** (Latanoprost, Bimatoprost) increase uveoscleral outflow.
+## Surgical Management
+Surgical management is reserved for patients in whom pharmacologic treatment has not been effective. Minimally invasive procedures have been specifically designed to improve drainage to balance IOP.
+1. **Trabeculectomy** is performed through a small incision and does not require the creation of a permanent hole in the eye wall or an external filtering bleb or an implant.
+2. **Laser Trabeculoplasty** (LT) applies a laser beam into the inner surface of the trabecular meshwork to **open the intratrabecular spaces and widen the canal of Schlemm**, promoting outflow of aqueous humor. This is contraindicated if a **narrow angle obstructs full visualization of the trabecular meshwork**.
+3. **Peripheral** (Laser) **Iridotomy** is a procedure for **pupillary block glaucoma**. An opening in the iris is made to eliminate the blockage. This is contraindicated in patients with **corneal edema**, which interferes with laser targeting and intensity. Complications include burns on the cornea, lens, or retina; transient elevated IOP; closure of the iridotomy; uveitis; and blurring.
+4. **Filtering Procedures** for glaucoma are used to **create an opening or fistula in the trabecular meshwork** to drain aqueous humor from the anterior chamber to the subconjunctival space into a bleb (fluid collection outside of the eye), bypassing the usual drainage structures. A common form of this is a **trabeculectomy**. Complications include hemorrhaging, extremely low (hypotonic) or extremely elevated IOP, uveitis, cataracts, bleb failure, bleb leakage, and **endophthalmitis** (an intraocular infection).
+5. **Drainage implants** or **shunts** are tubes implanted in the anterior chamber to shunt aqueous humor to the episcleral plate in the conjunctival space. Implants are used when failure has occurs with one or more trabeculectomies in which antifibrotic agents were used.
 
 ___
 

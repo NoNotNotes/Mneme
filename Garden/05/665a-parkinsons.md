@@ -4,9 +4,14 @@ title: Parkinson's Disease
 tags:
   - MS
   - Neurology
-  - NA
+  - TB
 description: PD is a slowly progressing neurologic movement disorder that eventually leads to disability. Most cases have unknown etiology.
 ---
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 65, \[ebook] pp. 5598–5615)
+
+___
+
 **PD** is a slowly progressing neurologic movement disorder that eventually leads to disability. It affects men more than women, usually appearing in the fifth decade of life. PD may be idiopathic or degenerative (primary), but can also take a secondary form with a known or suspected cause. Most cases have unknown etiologies, but are suggested to stem from a multifactorial combination of age, environment, and heredity.
 
 ___
@@ -20,7 +25,7 @@ ___
 ___
 
 # Clinical Manifestations
-PD features a gradual onset, progressing slowly over a chronic, prolonged course. Its **cardinal signs** are ==**tremors, rigidity, bradykinesia/akinesia, and postural instability**==. Two major subtypes are determined from the types of manifestation: **tremor dominant**, where most of the other symptoms are absent, and **non-tremor dominant**, featuring akinesia, rigidity, and postural instability.
+PD features a gradual onset, progressing slowly over a chronic, prolonged course. Its **cardinal signs** are **tremors, rigidity, bradykinesia/akinesia, and postural instability**. Two major subtypes are determined from the types of manifestation: **tremor dominant**, where most of the other symptoms are absent, and **non-tremor dominant**, featuring akinesia, rigidity, and postural instability.
 1. **Tremor**: a **slow, unilateral resting tremor** is present in the majority of patients at the time of diagnosis.
 2. **Rigidity**: **resistance to passive limb movement** characterizes muscle rigidity. Passive movement may also result in jerky increments, referred to as **lead-pipe** or **cog-wheel movements**.
 3. **Bradykinesia**: overall **slowing of active movement**. Activities take longer to finish, and initiation of movement (rising from sitting position, turning in bed) is difficult.

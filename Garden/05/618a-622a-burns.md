@@ -105,7 +105,7 @@ Burn injury is the result of a chemical exposure or heat transfer from one site 
 >1. Burns affecting **deep tissues** involve the release of local mediators, changes in blood flow, tissue edema, and infection, causing progression in severity of the initial burn injury.
 >2. **Radiation exposure** resulting in burns causes damage by two means: thermal exposure and damage to the cellular deoxyribonucleic acid (DNA), which may be localized or affect the whole body. Depending on the dose received, this may result in further morbidity or mortality.
 
-*The following slides are all products of [The Calgary Guide to Understanding Disease](https://calgaryguide.ucalgary.ca/), a free resource.*
+*The following slides are all content of [The Calgary Guide to Understanding Disease](https://calgaryguide.ucalgary.ca/), a free resource.*
 
 <carousel>
 	<img src="https://calgaryguide.ucalgary.ca/wp-content/uploads/2014/10/Types-of-Burns-Summary-of-Causes-and-Clinical-Findings.jpg" alt="">
