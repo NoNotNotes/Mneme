@@ -1,6 +1,6 @@
 ---
 description: 
-title: Communicable Disease Nursing
+title: Communicable Disease Nursing (WIP)
 tags:
   - CD
 publish: true

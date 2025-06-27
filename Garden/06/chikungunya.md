@@ -1,0 +1,17 @@
+**References**:
+1. **Global Infectious Diseases and Epidemiology Online Network: Infectious Diseases of the Philippines**, 2013 eBook Edition, ISBN 978-1-61755-582-4, by Stephen Berger. Accessed [here](https://internationalmedicalrelief.org/wp-content/uploads/2019/07/PHILIPPINES-Infectious-Diseases-of-the-Philippines-by-GIDEON.pdf).
+
+___
+
+|                               |                                                                                                                                                                                                                              |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Agent**                     | VIRUS - RNA. Togaviridae, Alphavirus: Chikungunya virus. Related Semliki Forest and Me Tri viruses<br>are found in Africa & Asia                                                                                             |
+| **Reservoir**                 | Non-human primate                                                                                                                                                                                                            |
+| **Vector**                    | Mosquito (Aedes spp.; Ae. furcifer-tylori group in Africa)                                                                                                                                                                   |
+| **Vehicle**                   | None                                                                                                                                                                                                                         |
+| **Incubation Period**         | 2 to 12 days                                                                                                                                                                                                                 |
+| **Diagnostic Tests**          | Viral culture (blood). Serology. Nucleic acid amplification. Biosafety level 3.                                                                                                                                              |
+| **Typical Adult Therapy**     | Supportive                                                                                                                                                                                                                   |
+| **Typical Pediatric Therapy** | As for adult                                                                                                                                                                                                                 |
+| **Clinical Hints**            | Abrupt fever, leukopenia, myalgia and prominent bilateral joint pain; maculopapular rash appears on<br>2nd to 5th days in greater than 50% of cases; fever resolves within 7 days, but joint pain may<br>persist for months. |
+| **Synonyms**                  | Buggy Creek, Getah, Knuckle fever, Me Tri, Semliki Forest.                                                                                                                                                                   |
