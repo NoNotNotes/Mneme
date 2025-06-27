@@ -254,7 +254,7 @@ Delegation is a tool that allows the delegator to focus on tasks that cannot be 
 The nurse **defines the task**, **determines who can perform the task**, **describes the expectation**, **seeking agreement**, **monitoring performance**, and **providing feedback** to the delegatee regarding performance. Registered nurses delegate components of nursing care to other members of the nursing team:
 1. **Other Registered Nurses** (RN)
 2. **Licensed Vocational or Practical Nurses** (LVN/LPN)
-3. **Assistive Personnel** (AP) may be identified by a variety of titles, including certified nursing aides or assistants (CNA), home health aides, medication assistants, patient care technicians, orderlies, or surgical technicians. They have had diverse degrees of training and experience. They are employees and do not include family members or friends who provide some client care.
+3. **Assistive Personnel** (AP) may be identified by a variety of titles, including certified nursing aides or assistants (Can), home health aides, medication assistants, patient care technicians, orderlies, or surgical technicians. They have had diverse degrees of training and experience. They are employees and do not include family members or friends who provide some client care.
 
 The **model state nursing practice act** authored by the NCSBN states that both the RN and LVN/LPN may assign or delegate nursing interventions to implement the plan of care. The NCSBN also published five "**rights**" of delegation:
 1. **Right Task**
