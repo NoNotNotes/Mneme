@@ -12,6 +12,9 @@ description: Leukemia is a broad term given to a group of malignant diseases of 
 **References**:
 1. **Wong’s Nursing Care of Infants and Children**, 11th Edition, ISBN 978-0-323-54939-4, by Marilyn J. Hockenberry, David Wilson, and Cheryl C. Rodgers (pp. 1085–1088)
 
+>[!NOTE] Also Read
+>1. [[05/502a-leukemia|Leukemia]]
+
 ___
 
 **Leukemia** is a broad term given to a group of malignant diseases of the bone marrow, blood, and lymphatic system. In healthy children, the bone marrow makes blood stem cells that mature to become lymphoid or myeloid stem cells. Myeloid cells differentiate into red blood cells, platelets, and white blood cells. Lymphoid stem cells become lymphoblasts that differentiate into B lymphocytes, T lymphocytes, and natural killer cells. In acute leukemias, immature cells predominate that cannot function effectively. Two types of leukemia are seen most often in children: acute lymphoblastic leukemia (ALL) and acute myeloid leukemia (AML).
