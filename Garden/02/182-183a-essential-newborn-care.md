@@ -1,17 +1,17 @@
 ---
 publish: true
-title: "Induction and Augmentation of Labor"
+title: Essential Newborn Care
 tags:
   - MCN
   - PEDIA
   - L2
-description: "Essential newborn care (ENC) is a protocol promoted by the World Health Organization as an effort to improve neonatal outcomes."
+description: Essential newborn care (ENC) is a protocol promoted by the World Health Organization as an effort to improve neonatal outcomes.
 todo:
-  - "Add unit 4 content from Dr. RPS"
-  - "Add CHN guideliens if any"
+  - Add unit 4 content from Dr. RPS
+  - Add CHN guideliens if any
 ---
 **References**:
-1. **Dr. RPS Maternal and Newborn Care: A Comprehensive Guide and Source Book for Teaching and Learning**, 2nd Edition, ISBN 978-971-98-2265-3, by Rosalinda Parado Salustiano (2nd ed., pp. 222–261)
+1. **Dr. RPS Maternal and Newborn Care: A Comprehensive Guide and Source Book for Teaching and Learning**, 2nd Edition, ISBN 978-971-98-2265-3, by Rosalinda Parado Salustiano (2nd ed., pp. 222–261), *not fully adapted as of yet*
 2. Lecturer (V)
 
 ___
