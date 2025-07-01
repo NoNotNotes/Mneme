@@ -6,8 +6,6 @@ tags:
 >[!EXAMPLE] Situation
 >Kyuti Bato, a 12-year-old, joined their annual school field trip together with friends Bata, Bati, and Batu. On their way home at 9:02 PM, a car crashed into their school bus, causing a mass casualty incident.
 
-<br><br><br><br><br>
-
 1. Kyuti Bato suffered a traumatic brain injury leading to brain herniation, manifesting as respiratory problems, rigid extension of extremities, and dilated unreactive pupils. As a nurse receiving Kyuti Bato, who would you likely refer this case to?
 <ol style="list-style-type: lower-alpha">
 	<li>Tere, a pediatrician</li>
@@ -1047,4 +1045,4 @@ tags:
 	<li>Contact the family to get information about the client</li>
 	<li>Obtain an order for the determination of blood alcohol level</li>
 </ol>
->[!FAQ] Rationalization
+<br><br><br><br><br>
