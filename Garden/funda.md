@@ -43,10 +43,10 @@ tags:
 <br><br><br><br><br>
 
 5. Nurses are often change agents, that is, individuals who initiate, motivate, and implement change. Characteristics of change agents include which of the following? Select all that apply.
-\1. Skilled in problem-solving
-\2. Skilled in teaching
-\3. Respected by those involved in change
-\4. Have a broad base of knowledge
+<br>\1. Skilled in problem-solving
+<br>\2. Skilled in teaching
+<br>\3. Respected by those involved in change
+<br>\4. Have a broad base of knowledge
 
 <ol style="list-style-type: lower-alpha">
 	<li>1, 2, 3, 4</li>
@@ -54,11 +54,10 @@ tags:
 	<li>2, 3, 4</li>
 	<li>1, 2, 4</li>
 </ol>
+<br><br><br><br><br>
 
 >[!EXAMPLE] Situation 2
 >Nurses play a crucial role in assessing a patient's respiratory status, implementing interventions to optimize oxygen delivery, and monitoring the effectiveness of these therapies. Ensuring proper oxygenation is fundamental to preventing hypoxia and supporting essential physiological functions across various patient populations and healthcare settings.
-
-<br><br><br><br><br>
 
 6. Which of the following is not an appropriate nursing action when managing a patient using a nasal cannula?
 <ol style="list-style-type: lower-alpha">
@@ -88,12 +87,12 @@ tags:
 <br><br><br><br><br>
 
 9. A nurse is teaching a client, who is 24 hours post-abdominal surgery, how to use an incentive spirometer. Which instructions should the nurse include in the teaching? Select all that apply.
-\1. Inhale slowly and deeply through the mouth
-\2. Seal lips tightly around mouthpiece
-\3. After inhaling, hold breath for 2 to 3 seconds
-\4. Sit with head of bed down and bed almost flat
-\5. Splint incision with pillows
-\6. Exhale forcefully, fast, and hard
+<br>\1. Inhale slowly and deeply through the mouth
+<br>\2. Seal lips tightly around mouthpiece
+<br>\3. After inhaling, hold breath for 2 to 3 seconds
+<br>\4. Sit with head of bed down and bed almost flat
+<br>\5. Splint incision with pillows
+<br>\6. Exhale forcefully, fast, and hard
 
 <ol style="list-style-type: lower-alpha">
 	<li>1, 2, 3, 5</li>
@@ -110,11 +109,10 @@ tags:
 	<li>Prevents a chemical reaction between the tubing and oxygen</li>
 	<li>Prevents contamination with environmental gases</li>
 </ol>
+<br><br><br><br><br>
 
 >[!EXAMPLE] Situation 3
 >Tracheostomy care in nursing encompasses a range of interventions aimed at maintaining the patency and integrity of the artificial airway, preventing complications, and promoting patient comfort. This includes meticulous stoma site cleaning, inner cannula care or replacement, suctioning of secretions, and ensuring securement of the tracheostomy tube. Nurses also educate patients and caregivers on proper tracheostomy management to facilitate safe and effective care in various settings.
-
-<br><br><br><br><br>
 
 11. All of the following are indications for tracheostomy suctioning except:
 <ol style="list-style-type: lower-alpha">
@@ -153,15 +151,16 @@ tags:
 <br><br><br><br><br>
 
 15. The nurse is teaching a patient's family about tracheostomy care. Which statement by the family indicates a need for further teaching?
-A. “We should use sterile saline to clean around the stoma"
-B. “Suctioning should be done only when secretions are present”
-C. “The obturator should be kept by the bedside for emergencies”
-D. “We can reuse the inner cannula without cleaning it"
+<ol style="list-style-type: lower-alpha">
+	<li>“We should use sterile saline to clean around the stoma"</li>
+	<li>“Suctioning should be done only when secretions are present”</li>
+	<li>“The obturator should be kept by the bedside for emergencies”</li>
+	<li>“We can reuse the inner cannula without cleaning it"</li>
+</ol>
+<br><br><br><br><br>
 
 >[!EXAMPLE] Situation 4
 > Zion, a 42-year-old patient is admitted to the trauma unit following a motor vehicle accident that resulted in a pneumothorax. A chest tube thoracostomy is performed to evacuate air from the pleural space. Nurse Gil is responsible for monitoring the chest tube system, assessing for complications, and providing patient education to ensure optimal recovery.
-
-<br><br><br><br><br>
 
 16. Which of the following is not a component of a properly functioning chest tube drainage system?
 <ol style="list-style-type: lower-alpha">
@@ -206,11 +205,10 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>Return of normal breath sounds on the affected side</li>
 	<li>Continuous large-volume air bubbling in the water seal chamber</li>
 </ol>
+<br><br><br><br><br>
 
 >[!EXAMPLE] Situation 5
 >Fluid imbalance in nursing refers to a state where the body’s fluid intake and output are not in equilibrium, potentially leading to dehydration or fluid overload. Intravenous (IV) therapy is a common nursing intervention used to correct these imbalances by directly administering fluids, electrolytes, and medications into the bloodstream. Nurses are responsible for accurately assessing fluid status, calculating and administering IV fluids according to physician orders, and monitoring patients for therapeutic effects and potential complications.
-
-<br><br><br><br><br>
 
 21. The nurse is educating a patient about preventing fluid imbalances. Which statement by the person indicates a need for further teaching?
 <ol style="list-style-type: lower-alpha">
@@ -255,11 +253,10 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>Check the client's serum potassium level</li>
 	<li>Replace 0.9% NaCl with the ordered solution</li>
 </ol>
+<br><br><br><br><br>
 
 >[!EXAMPLE] Situation 6
 >IV reactions or complications refer to adverse systemic or local responses that can occur during or after the administration of intravenous fluids or medications. Nurses are vigilant in monitoring for signs such as infiltration, extravasation, phlebitis, infection, or systemic allergic reactions. Prompt recognition and appropriate intervention, including discontinuing the infusion, managing symptoms, and documenting the event, are crucial nursing responsibilities to ensure patient safety and prevent further harm.
-
-<br><br><br><br><br>
 
 26. All of the following are appropriate nursing actions for managing an IV infusion except:
 <ol style="list-style-type: lower-alpha">
@@ -310,11 +307,10 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>A little redness around the IV site is normal and not a concern</li>
 	<li>I should let the nurse know if I feel short of breath during the infusion</li>
 </ol>
+<br><br><br><br><br>
 
 >[!EXAMPLE] Situation 7
 >Acid-base imbalance in nursing denotes a physiological state where the body's normal pH range is disrupted due to an excess or deficit of acids or bases. Nurses play a vital role in recognizing the signs and symptoms of these imbalances through assessment and interpretation of arterial blood gas results.
-
-<br><br><br><br><br>
 
 31. The nurse reviews the arterial blood gas results of a client and notes the following: pH 7.45, PaCO₂ 30 mm Hg, and HCO₃<sup>-</sup> 20 mEq/L (20 mmol/L). The nurse analyzes these results as indicating which condition?
 <ol style="list-style-type: lower-alpha">
@@ -335,12 +331,12 @@ D. “We can reuse the inner cannula without cleaning it"
 <br><br><br><br><br>
 
 33. The nurse notes that a client's arterial blood gas (ABG) results reveal a pH of 7.50 and a PaCO₂ of 30 mm Hg. The nurse monitors the client for which clinical manifestations associated with these ABG results? Select all that apply.
-\1. Nausea
-\2. Confusion
-\3. Bradypnea
-\4. Tachycardia
-\5. Hyperkalemia
-\6. Lightheadedness
+<br>\1. Nausea
+<br>\2. Confusion
+<br>\3. Bradypnea
+<br>\4. Tachycardia
+<br>\5. Hyperkalemia
+<br>\6. Lightheadedness
 
 <ol style="list-style-type: lower-alpha">
 	<li>1, 2, 4, 5</li>
@@ -360,11 +356,11 @@ D. “We can reuse the inner cannula without cleaning it"
 <br><br><br><br><br>
 
 35. Which statement by the client indicates that discharge teaching for respiratory alkalosis is not understood?
-\1. “I will not take so many antacids anymore.”
-\2. “I will take a stress management class.”
-\3. “I will not take my furosemide without taking my potassium supplement.”
-\4. “I will tell the doctor the next time I have diarrhea for so long.”
-\5. “I am more aware of how my breathing changes when I get nervous.”
+<br>\1. “I will not take so many antacids anymore.”
+<br>\2. “I will take a stress management class.”
+<br>\3. “I will not take my furosemide without taking my potassium supplement.”
+<br>\4. “I will tell the doctor the next time I have diarrhea for so long.”
+<br>\5. “I am more aware of how my breathing changes when I get nervous.”
 
 <ol style="list-style-type: lower-alpha">
 	<li>2, 4</li>
@@ -372,11 +368,10 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>3, 5</li>
 	<li>4, 2, 3, 5</li>
 </ol>
+<br><br><br><br><br>
 
 >[!EXAMPLE] Situation 8
 >Nurses are responsible for monitoring electrolyte levels through laboratory results and recognizing associated clinical manifestations, which can range from subtle to life-threatening. Prompt identification and appropriate interventions, often involving the administration of specific electrolytes or medications and dietary modifications, are crucial to restoring physiological balance and preventing adverse patient outcomes.
-
-<br><br><br><br><br>
 
 36. The nurse is assessing a client with a lactose intolerance disorder for a suspected diagnosis of hypocalcemia. Which clinical manifestation would the nurse expect to note in the client?
 <ol style="list-style-type: lower-alpha">
@@ -388,11 +383,11 @@ D. “We can reuse the inner cannula without cleaning it"
 <br><br><br><br><br>
 
 37. The nurse reviews a client’s electrolyte laboratory report and notes that the potassium level is 2.5 mEq/L (2.5 mmol/L). Which patterns should the nurse watch for on the electrocardiogram? Select all that apply.
-\1. U waves
-\2. Absent P
-\3. Inverted T
-\4. Depressed ST
-\5. Widened QRS
+<br>\1. U waves
+<br>\2. Absent P
+<br>\3. Inverted T
+<br>\4. Depressed ST
+<br>\5. Widened QRS
 
 <ol style="list-style-type: lower-alpha">
 	<li>1, 4, 5</li>
@@ -403,12 +398,12 @@ D. “We can reuse the inner cannula without cleaning it"
 <br><br><br><br><br>
 
 38. Potassium chloride intravenously is prescribed for a client with heart failure experiencing hypokalemia. Which actions should the nurse take to plan for preparation and administration of the potassium? Select all that apply.
-\1. Obtain an intravenous (IV) infusion pump
-\2. Monitor urine output during administration
-\3. Prepare the medication for bolus administration
-\4. Monitor the IV site for signs of infiltration or phlebitis
-\5. Ensure that the medication is diluted in the appropriate volume of fluid
-\6. Ensure that the bag is labeled so that it reads the volume of potassium in the solution
+<br>\1. Obtain an intravenous (IV) infusion pump
+<br>\2. Monitor urine output during administration
+<br>\3. Prepare the medication for bolus administration
+<br>\4. Monitor the IV site for signs of infiltration or phlebitis
+<br>\5. Ensure that the medication is diluted in the appropriate volume of fluid
+<br>\6. Ensure that the bag is labeled so that it reads the volume of potassium in the solution
 
 <ol style="list-style-type: lower-alpha">
 	<li>1, 4, 6</li>
@@ -434,18 +429,17 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>5% dextrose in water solution</li>
 	<li>Lactulose</li>
 </ol>
+<br><br><br><br><br>
 
 >[!EXAMPLE] Situation 9
 >Blood transfusion involves the administration of blood components, such as red blood cells, platelets, or plasma, to a patient to restore blood volume, improve oxygen-carrying capacity, or correct clotting deficiencies. Nurses are responsible for ensuring blood product compatibility through meticulous verification processes, initiating and monitoring the transfusion closely for any adverse reactions, and documenting the procedure according to established protocols. Safe and effective blood transfusion practices are paramount to preventing complications and optimizing patient outcomes.
 
-<br><br><br><br><br>
-
 41. A nurse has received a report on a client being admitted with anemia who requires a blood transfusion. The nurse will anticipate which assessment findings? Select all that apply.
-\1. Tachycardia
-\2. Hypertension
-\3. Headache
-\4. Diaphoresis
-\5. Bounding peripheral pulses
+<br>\1. Tachycardia
+<br>\2. Hypertension
+<br>\3. Headache
+<br>\4. Diaphoresis
+<br>\5. Bounding peripheral pulses
 
 <ol style="list-style-type: lower-alpha">
 	<li>2, 3</li>
@@ -483,11 +477,11 @@ D. “We can reuse the inner cannula without cleaning it"
 <br><br><br><br><br>
 
 45. The nurse determines that a client receiving a unit of packed red blood cells (PRBCs) is experiencing a transfusion reaction. After stopping the blood transfusion, what actions should the nurse promptly take next? Select all that apply.
-\1. The healthcare provider should be notified.
-\2. Obtain a white blood cell count.
-\3. Run normal saline at keep vein open (KVO) rate.
-\4. Infuse a normal saline bolus.
-\5. Obtain vital signs every 5 minutes
+<br>\1. The healthcare provider should be notified.
+<br>\2. Obtain a white blood cell count.
+<br>\3. Run normal saline at keep vein open (KVO) rate.
+<br>\4. Infuse a normal saline bolus.
+<br>\5. Obtain vital signs every 5 minutes
 <ol style="list-style-type: lower-alpha">
 	<li>1, 3, 5</li>
 	<li>2, 4, 5</li>
@@ -497,8 +491,6 @@ D. “We can reuse the inner cannula without cleaning it"
 
 >[!EXAMPLE] Situation 10
 >Medication administration is a fundamental responsibility that requires adherence to the “rights” of medication administration to ensure patient safety and therapeutic effectiveness. Nurses utilize various routes of administration and must possess a comprehensive understanding of pharmacology and potential drug interactions to deliver medications safely and effectively across diverse patient populations and healthcare settings.
-
-<br><br><br><br><br>
 
 46. A nurse is evaluating whether a client on multiple oral medications is taking the medications correctly. Which finding should be most concerning to the nurse because the absorption rate of medications can be increased?
 <ol style="list-style-type: lower-alpha">
@@ -510,13 +502,13 @@ D. “We can reuse the inner cannula without cleaning it"
 <br><br><br><br><br>
 
 47. A nurse is administering oral medications to a client. Which steps should be taken by the nurse to safely administer oral medications? Prioritize the nurse’s actions by placing each step in the correct order.
-\1. Document administering the medication
-\2. Check the label after preparing the medication
-\3. Check the client's name band and another identifier
-\4. Review the medication order on the administration medication record (MAR)
-\5. Check the label on the medication against the MAR
-\6. Give the medication to the client with a glass of water
-\7. Check the medication at the bedside
+<br>\1. Document administering the medication
+<br>\2. Check the label after preparing the medication
+<br>\3. Check the client's name band and another identifier
+<br>\4. Review the medication order on the administration medication record (MAR)
+<br>\5. Check the label on the medication against the MAR
+<br>\6. Give the medication to the client with a glass of water
+<br>\7. Check the medication at the bedside
 
 <ol style="list-style-type: lower-alpha">
 	<li>4, 5, 3, 7, 2, 6, 1</li>
@@ -551,11 +543,10 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>“Maybe the doctor ordered a different medication.”</li>
 	<li>“I'll leave the pill here while I check with the doctor.”</li>
 </ol>
+<br><br><br><br><br>
 
 >[!EXAMPLE] Situation 11
 >Nurses are responsible for safe preparation, administration, and monitoring of total parenteral nutrition (TPN), adhering to strict aseptic techniques to prevent infection. Vigilant assessment for complications such as electrolyte imbalances, hyperglycemia, and catheter-related issues is crucial, along administration protocol.
-
-<br><br><br><br><br>
 
 51. Which of the following is not a component of standard total parenteral nutrition?
 <ol style="list-style-type: lower-alpha">
@@ -576,11 +567,11 @@ D. “We can reuse the inner cannula without cleaning it"
 <br><br><br><br><br>
 
 53. What nursing responsibilities will be included while caring for a client receiving total parenteral nutrition (TPN)? Select all that apply.
-\1. Covering blood glucose levels with.a sliding scale of regular insulin
-\2. Inspecting solution to ensure ‘layering’ of contents is absent
-\3. Adjusting rate of solution to the client's output every shift
-\4. Changing injection caps on the intravenous tubing every shift
-\5. Monitoring of liver function test results
+<br>\1. Covering blood glucose levels with.a sliding scale of regular insulin
+<br>\2. Inspecting solution to ensure ‘layering’ of contents is absent
+<br>\3. Adjusting rate of solution to the client's output every shift
+<br>\4. Changing injection caps on the intravenous tubing every shift
+<br>\5. Monitoring of liver function test results
 
 <ol style="list-style-type: lower-alpha">
 	<li>1, 2, 3</li>
@@ -606,11 +597,10 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>Serum triglyceride levels exceeding 400 mg/dL</li>
 	<li>Weight gain of 0.5 kg in one week</li>
 </ol>
+<br><br><br><br><br>
 
 >[!EXAMPLE] Situation 12
 >Nasogastric tube (NGT) management in nursing involves the insertion, maintenance, and removal of a flexible tube passed through the nose into the stomach or duodenum, ensuring proper placement, patency, and skin integrity around the insertion site, along with education patients and caregivers, are key aspects of effective NGT care.
-
-<br><br><br><br><br>
 
 56. The nurse is correct when she states the best indication of proper placement of a nasogastric tube in the stomach is?
 <ol style="list-style-type: lower-alpha">
