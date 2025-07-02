@@ -54,6 +54,7 @@ tags:
 	<li>2, 3, 4</li>
 	<li>1, 2, 4</li>
 </ol>
+
 >[!EXAMPLE] Situation 2
 >Nurses play a crucial role in assessing a patient's respiratory status, implementing interventions to optimize oxygen delivery, and monitoring the effectiveness of these therapies. Ensuring proper oxygenation is fundamental to preventing hypoxia and supporting essential physiological functions across various patient populations and healthcare settings.
 
@@ -109,6 +110,7 @@ tags:
 	<li>Prevents a chemical reaction between the tubing and oxygen</li>
 	<li>Prevents contamination with environmental gases</li>
 </ol>
+
 >[!EXAMPLE] Situation 3
 >Tracheostomy care in nursing encompasses a range of interventions aimed at maintaining the patency and integrity of the artificial airway, preventing complications, and promoting patient comfort. This includes meticulous stoma site cleaning, inner cannula care or replacement, suctioning of secretions, and ensuring securement of the tracheostomy tube. Nurses also educate patients and caregivers on proper tracheostomy management to facilitate safe and effective care in various settings.
 
@@ -204,6 +206,7 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>Return of normal breath sounds on the affected side</li>
 	<li>Continuous large-volume air bubbling in the water seal chamber</li>
 </ol>
+
 >[!EXAMPLE] Situation 5
 >Fluid imbalance in nursing refers to a state where the body’s fluid intake and output are not in equilibrium, potentially leading to dehydration or fluid overload. Intravenous (IV) therapy is a common nursing intervention used to correct these imbalances by directly administering fluids, electrolytes, and medications into the bloodstream. Nurses are responsible for accurately assessing fluid status, calculating and administering IV fluids according to physician orders, and monitoring patients for therapeutic effects and potential complications.
 
@@ -252,6 +255,7 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>Check the client's serum potassium level</li>
 	<li>Replace 0.9% NaCl with the ordered solution</li>
 </ol>
+
 >[!EXAMPLE] Situation 6
 >IV reactions or complications refer to adverse systemic or local responses that can occur during or after the administration of intravenous fluids or medications. Nurses are vigilant in monitoring for signs such as infiltration, extravasation, phlebitis, infection, or systemic allergic reactions. Prompt recognition and appropriate intervention, including discontinuing the infusion, managing symptoms, and documenting the event, are crucial nursing responsibilities to ensure patient safety and prevent further harm.
 
@@ -306,6 +310,7 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>A little redness around the IV site is normal and not a concern</li>
 	<li>I should let the nurse know if I feel short of breath during the infusion</li>
 </ol>
+
 >[!EXAMPLE] Situation 7
 >Acid-base imbalance in nursing denotes a physiological state where the body's normal pH range is disrupted due to an excess or deficit of acids or bases. Nurses play a vital role in recognizing the signs and symptoms of these imbalances through assessment and interpretation of arterial blood gas results.
 
@@ -367,6 +372,7 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>3, 5</li>
 	<li>4, 2, 3, 5</li>
 </ol>
+
 >[!EXAMPLE] Situation 8
 >Nurses are responsible for monitoring electrolyte levels through laboratory results and recognizing associated clinical manifestations, which can range from subtle to life-threatening. Prompt identification and appropriate interventions, often involving the administration of specific electrolytes or medications and dietary modifications, are crucial to restoring physiological balance and preventing adverse patient outcomes.
 
@@ -428,6 +434,7 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>5% dextrose in water solution</li>
 	<li>Lactulose</li>
 </ol>
+
 >[!EXAMPLE] Situation 9
 >Blood transfusion involves the administration of blood components, such as red blood cells, platelets, or plasma, to a patient to restore blood volume, improve oxygen-carrying capacity, or correct clotting deficiencies. Nurses are responsible for ensuring blood product compatibility through meticulous verification processes, initiating and monitoring the transfusion closely for any adverse reactions, and documenting the procedure according to established protocols. Safe and effective blood transfusion practices are paramount to preventing complications and optimizing patient outcomes.
 
@@ -487,6 +494,7 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>1, 2, 3</li>
 	<li>1, 2, 4</li>
 </ol>
+
 >[!EXAMPLE] Situation 10
 >Medication administration is a fundamental responsibility that requires adherence to the “rights” of medication administration to ensure patient safety and therapeutic effectiveness. Nurses utilize various routes of administration and must possess a comprehensive understanding of pharmacology and potential drug interactions to deliver medications safely and effectively across diverse patient populations and healthcare settings.
 
@@ -543,6 +551,7 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>“Maybe the doctor ordered a different medication.”</li>
 	<li>“I'll leave the pill here while I check with the doctor.”</li>
 </ol>
+
 >[!EXAMPLE] Situation 11
 >Nurses are responsible for safe preparation, administration, and monitoring of total parenteral nutrition (TPN), adhering to strict aseptic techniques to prevent infection. Vigilant assessment for complications such as electrolyte imbalances, hyperglycemia, and catheter-related issues is crucial, along administration protocol.
 
@@ -597,6 +606,7 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>Serum triglyceride levels exceeding 400 mg/dL</li>
 	<li>Weight gain of 0.5 kg in one week</li>
 </ol>
+
 >[!EXAMPLE] Situation 12
 >Nasogastric tube (NGT) management in nursing involves the insertion, maintenance, and removal of a flexible tube passed through the nose into the stomach or duodenum, ensuring proper placement, patency, and skin integrity around the insertion site, along with education patients and caregivers, are key aspects of effective NGT care.
 
@@ -653,6 +663,7 @@ D. “We can reuse the inner cannula without cleaning it"
 	<li>Respiratory acidosis</li>
 	<li>Respiratory alkalosis</li>
 </ol>
+
 >[!EXAMPLE] Situation 13
 >Diet progression in nursing refers to the gradual advancement of a patient's oral intake, typically following surgery, illness, or a period of bowel rest. Nurses play a key role in implementing the prescribed dietary stages, starting with clear liquids and advancing through full liquids, pureed foods, mechanical soft, up to a regular diet as tolerated.
 
@@ -710,6 +721,7 @@ allowed to be consumed on this diet? Select all that apply.
 	<li>The patient experiences diarrhea after eating a soft diet meal</li>
 	<li>The patient sips water between bites to aid swallowing</li>
 </ol>
+
 >[!EXAMPLE] Situation 14
 >Diet modification in nursing involves tailoring a patient's nutritional intake to accommodate specific health conditions, allergies, intolerances, or preferences. Ongoing assessment of the patient's adherence, tolerance, and nutritional status is crucial for the effective management of dietary restrictions and the promotion of overall well-being.
 
@@ -765,6 +777,7 @@ allowed to be consumed on this diet? Select all that apply.
 	<li>3, 5, 6</li>
 	<li>2, 3, 4, 5</li>
 </ol>
+
 >[!EXAMPLE] Situation 15
 >Sleep in nursing care encompasses the assessment and promotion of restorative rest for patients to support healing, physiological function, and overall weil-being. Nurses evaluate patients’ sleep patterns, identify factors that may disrupt sleep, and implement interventions to optimize their sleep environment and routines.
 
@@ -813,6 +826,7 @@ D. “Encourage him to consume coffee or some other caffeinated beverage at lunc
 	<li>Alcohol intake interferes with one’s ability to fall asleep</li>
 	<li>Bedtime routines are associated with an expectation of sleep</li>
 </ol>
+
 >[!EXAMPLE] Situation 16
 >Nurses are responsible for maintaining clear, concise, and timely records that facilitate communication among the healthcare team, ensure continuity of care, and serve as a legal and professional account of the patient's journey. Thorough and precise documentation is essential for patient safety, quality improvement, and adherence to regulatory standards within the healthcare system.
 
@@ -861,6 +875,7 @@ D. “Encourage him to consume coffee or some other caffeinated beverage at lunc
 	<li>I need to include the time and date for every entry I make.</li>
 	<li>I should use objective terms like "patient reports" instead of "patient feels"</li>
 </ol>
+
 >[!EXAMPLE] Situation 17
 >Activity and exercise in nursing care focus on promoting and supporting patients’ physical mobility and functional independence. Nurses assess patients’ current activity levels, identify any limitations, and collaborate with physical and occupational therapists to develop tailored exercise programs.
 
@@ -871,7 +886,7 @@ D. “Encourage him to consume coffee or some other caffeinated beverage at lunc
 	<li>Has elbows bent at a 30-degree angle</li>
 	<li>Is bent over the walker</li>
 	<li>Lifts the walker while walking; holding it about 2 inches above the floor</li>
-	<li>Was a walker that has four wheels | in place</li>
+	<li>Was a walker that has four wheels in place</li>
 </ol>
 <br><br><br><br><br>
 
@@ -909,6 +924,7 @@ D. “Encourage him to consume coffee or some other caffeinated beverage at lunc
 	<li>Performs each series of exercises once a day.</li>
 	<li>Uses the same sequence during each exercise session.</li>
 </ol>
+
 >[!EXAMPLE] Situation 18
 >Nurses monitor urinary output, characteristics, and patterns to identify any alterations in function. Interventions may include promoting adequate hydration, assisting with toileting, managing urinary catheters, and educating patients on bladder health to maintain proper kidney function and prevent complications related to urinary retention or incontinence.
 
@@ -964,6 +980,7 @@ D. “Encourage him to consume coffee or some other caffeinated beverage at lunc
 	<li>Removes the catheter and redirects it to the urinary meatus.</li>
 	<li>Removes the catheter, wipes it with a sterile gauze, and redirects it to the urinary meatus.</li>
 </ol>
+
 >[!EXAMPLE] Situation 19
 >Nurses provide essential care, including meticulous skin care around the stoma to prevent irritation and infection, proper application and emptying of the ostomy appliance, and patient eduction on self-care techniques and lifestyle adjustments. Promoting the patient's comfort, confidence, and independence in managing their colostomy is a central focus of nursing care.
 
@@ -1019,6 +1036,7 @@ D. “Encourage him to consume coffee or some other caffeinated beverage at lunc
 	<li>1, 5, 6</li>
 	<li>2, 4, 6</li>
 </ol>
+
 >[!EXAMPLE] Situation 20
 >Enema administration involves the instillation of a solution into the rectum and sigmoid colon to promote bowel evacuation. Nurses perform this procedure to relieve constipation, cleanse the bowel prior to diagnostic tests or surgery, or administer certain medications. Careful technique, patient positioning, and monitoring for patient comfort and potential adverse effects are essential nursing responsibilities during enema administration.
 
