@@ -43,11 +43,11 @@ tags:
 <br><br><br><br><br>
 
 5. Two weeks post-op, Kyuti Bato is returned with dizziness, nausea, and blurred vision. A sponge is found at the incision site. With the doctrine of *res ipsa loquitur* and captain-of-the-ship, who is to blame? Select all that apply.
-\1. Anesthesiologist
-\2. Surgeon
-\3. Scrub nurse
-\4. Circulating nurse
-\5. Porter
+<br>\1. Anesthesiologist
+<br>\2. Surgeon
+<br>\3. Scrub nurse
+<br>\4. Circulating nurse
+<br>\5. Porter
 
 <ol style="list-style-type: lower-alpha">
 	<li>2,3</li>
@@ -55,19 +55,19 @@ tags:
 	<li>1,2,3,4</li>
 	<li>1,2,3,4,5</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation
 >Mrs. Pham, a 62-year-old hypertensive patient, is scheduled for CABG. During her preoperative assessment, the nurse checks her vital signs, labs (CBC, urinalysis, blood chemistry), ECG, and ensures her chest X‑ray is updated before surgery.
 
-<br><br><br><br><br>
-
 6. Packed RBCs of type O+ are prepared. After reviewing the chart, which findings should you report to the physician? Select all that apply.
-\1. Hemoglobin: 14 g/dL, Hematocrit: 42%
-\2. WBC count: 4,500/μL
-\3. ABG: pH 7.40, pCO₂ 35 mmHg, HCO₃ 24 mEq/L
-\4. Platelet count < 150,000/μL
-\5. Platelet count > 450,000/μL
-\6. Mrs. Pham has O– blood type
-\7. Antibiotic prophylaxis scheduled 30 min before skin incision
+<br>\1. Hemoglobin: 14 g/dL, Hematocrit: 42%
+<br>\2. WBC count: 4,500/μL
+<br>\3. ABG: pH 7.40, pCO₂ 35 mmHg, HCO₃ 24 mEq/L
+<br>\4. Platelet count < 150,000/μL
+<br>\5. Platelet count > 450,000/μL
+<br>\6. Mrs. Pham has O– blood type
+<br>\7. Antibiotic prophylaxis scheduled 30 min before skin incision
 
 <ol style="list-style-type: lower-alpha">
 	<li>1, 3, 5</li>
@@ -105,11 +105,11 @@ tags:
 <br><br><br><br><br>
 
 10. Five days post‑laparotomy, Dani coughs forcefully and feels a sharp “let go” at the incision. Which interventions were done after she was rushed to the ED? Select all that apply.
-\1. Notify the healthcare provider
-\2. Open the dressing to view the problem
-\3. Apply pressure over the site
-\4. Use sterile dressing and saline to keep incision moist
-\5. Sit client upright in bed
+<br>\1. Notify the healthcare provider
+<br>\2. Open the dressing to view the problem
+<br>\3. Apply pressure over the site
+<br>\4. Use sterile dressing and saline to keep incision moist
+<br>\5. Sit client upright in bed
 
 <ol style="list-style-type: lower-alpha">
 	<li>2,3</li>
@@ -117,10 +117,10 @@ tags:
 	<li>1,2,4</li>
 	<li>2,3,4,5</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation
 >Nurse Krea is working on a surgical ward and is responsible for ensuring informed consent is properly obtained.
-
-<br><br><br><br><br>
 
 11. A 45‑year‑old for appendectomy signed consent but says, “I didn't really understand what the doctor said.” What should the nurse do next?
 <ol style="list-style-type: lower-alpha">
@@ -141,11 +141,11 @@ tags:
 <br><br><br><br><br>
 
 13. In telephone consent, what is required for validity? Select all that apply.
-\1. At least 1 nurse present
-\2. At least 2 nurses present
-\3. Thoroughly documented chart
-\4. Ordering person must sign when present
-\5. Signature within 2 days
+<br>\1. At least 1 nurse present
+<br>\2. At least 2 nurses present
+<br>\3. Thoroughly documented chart
+<br>\4. Ordering person must sign when present
+<br>\5. Signature within 2 days
 
 <ol style="list-style-type: lower-alpha">
 	<li>2,3,4</li>
@@ -165,31 +165,30 @@ tags:
 <br><br><br><br><br>
 
 15. Patient is unconscious and needs surgery consent. Arrange decision-makers in order:
-\1. Patient
-\2. Spouse
-\3. Adult child
-\4. Parents
-\5. Legal guardian
-\6. Adult siblings
-\7. Social worker
+<br>\1. Patient
+<br>\2. Spouse
+<br>\3. Adult child
+<br>\4. Parents
+<br>\5. Legal guardian
+<br>\6. Adult siblings
+<br>\7. Social worker
 
 <ol style="list-style-type: lower-alpha">
 	<li>1,4,2,3,5,6,7</li>
 	<li>4,2,3,5,6,7</li>
 	<li>2,3,4,5,6,7</li>
 	<li>1,2,3,4,5,6,7</li>
-</ol>
+</ol><br><br><br><br><br>
+
 >[!EXAMPLE] Situation
 >Preoperative teaching educates patients before surgery to reduce anxiety, increase understanding, and promote recovery.
 
-<br><br><br><br><br>
-
 16. The nurse taught deep‐breathing and coughing exercises. Client still does which, indicating need for further teaching? Select all that apply.
-\1. Sitting upright before breathing/coughing
-\2. Taking deep breaths before coughing
-\3. Placing hands vertically on either side of incision
-\4. Using a pillow to splint during coughing
-\5. Gentle coughs sounding like throat clearing
+<br>\1. Sitting upright before breathing/coughing
+<br>\2. Taking deep breaths before coughing
+<br>\3. Placing hands vertically on either side of incision
+<br>\4. Using a pillow to splint during coughing
+<br>\5. Gentle coughs sounding like throat clearing
 
 <ol style="list-style-type: lower-alpha">
 	<li>3,5</li>
@@ -233,10 +232,10 @@ tags:
 	<li>Exact procedure undecided</li>
 	<li>Procedure relieves pain but won’t cure the problem</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 5
 >Nurse Minji, an OR Nurse of NJZ Hospital, assesses multiple clients that are scheduled for surgery. Currently, there are 5 patients Nurse Minji needs to assess and each of these patients raises a concern. As a professional nurse, Nurse Minji must provide accurate, fact-based information to ease their concern.
-
-<br><br><br><br><br>
 
 21. Nurse Minji started her shift by checking Haerin, a 3-year-old child who has not had surgery before, who is being prepared for tympanoplasty. Haerin’s mother expresses concern about the child’s psychological adaptation to surgery. While planning for postoperative care, the nurse recognizes that the child is likely to have which greatest concern based on age?
 <ol style="list-style-type: lower-alpha">
@@ -281,10 +280,10 @@ tags:
 	<li>Maki, client who has mild anxiety</li>
 	<li>Earl, a client who has had previous surgeries</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 6
 >Minji, Dani, and Hanni are all OR nurses of NJZ Hospital. It is a toxic day for them since there are multiple surgeries scheduled in their shift where they would scrub in. After Nurse Minji assessed the patients during their preoperative phase, their patients are now undergoing surgery.
-
-<br><br><br><br><br>
 
 26. It was Haerin’s operation today when Nurse Hanni, the circulating nurse, notices that the surgeon's gown has touched the surgical light, but she is unsure of it because she was dizzy and tired due to her 24-hour shift. What is the best action Nurse Hanni should do?
 <ol style="list-style-type: lower-alpha">
@@ -329,10 +328,10 @@ tags:
 	<li>Consider the item contaminated and replace it</li>
 	<li>Expose the item under a heat lamp for a few minutes before use</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 7
 >After assisting in several procedures throughout the shift, Nurse Dani and Nurse Hanni proceeds to the Post-Anesthesia Care Unit (PACU) to follow up on the recovery of the five surgical patients she previously assessed. She closely monitors each patient's vital signs, level of consciousness, surgical site, and pain level.
-
-<br><br><br><br><br>
 
 31. Teodoro, 71 years old, with Diabetes Mellitus is now admitted to the RR after a colon cancer surgery. Nurse Minji should do what appropriate nursing intervention to prevent common complication related to this case?
 <ol style="list-style-type: lower-alpha">
@@ -383,10 +382,10 @@ tags:
 	<li>2, 3, 5</li>
 	<li>1, 2, 3, 4, 5</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 8
 >Anesthesia is the use of medications to prevent pain and discomfort during surgical procedures. It allows the patient to undergo surgery safely, comfortably, and without awareness of the procedure. The type of anesthesia used depends on the surgical site, procedure type, patient condition, and preferences of the surgical team.
-
-<br><br><br><br><br>
 
 36. A patient is scheduled for an open abdominal surgery under general anesthesia. Which of the following statements best describes general anesthesia?
 <ol style="list-style-type: lower-alpha">
@@ -431,10 +430,10 @@ tags:
 	<li>Spinal anesthesia is commonly used in labor and delivery, while epidural anesthesia is used only for major surgeries.</li>
 	<li>Epidural anesthesia causes total unconsciousness, while spinal anesthesia does not.</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 9
 >The postoperative period is a critical phase in a patient's surgical experience, where vigilant nursing assessment and intervention are essential to detect and prevent complications. Despite advances in surgical techniques and anesthesia, patients remain at risk for a variety of postoperative complications that can affect recovery, prolong hospital stay, and increase morbidity.
-
-<br><br><br><br><br>
 
 41. A 68-year-old female patient underwent a laparoscopic cholecystectomy 6 hours ago. She reports feeling abdominal fullness and the urge to void, but has not been able to pass any urine since the surgery. The nurse's assessment reveals a distended bladder upon palpation. Which of the following nursing interventions is the most appropriate initial action?
 <ol style="list-style-type: lower-alpha">
@@ -479,10 +478,10 @@ tags:
 	<li>Place the patient in a low Fowler's position with knees bent</li>
 	<li>Notify the surgeon immediately and cover the wound with a sterile, moist dressing</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 10
 >Renzel, a new OR staff nurse, was hired in St. Louis Medical Center. Renzel is undergoing orientation and was first in charge with postoperative care. Her tasks involve monitoring vital signs, complications, and positioning her patients appropriately depending on each patient’s case. To determine if Renzel can now be left alone to handle patients in the PACU, her senior OR Nurse Denver created a quiz with the following questions:
-
-<br><br><br><br><br>
 
 46. A 24-year-old female is in the post-anesthesia care unit (PACU) after undergoing an open appendectomy for non-perforated appendicitis. The nurse prepares to position the patient to promote comfort and reduce tension on the surgical site and abdominal organs.
 <ol style="list-style-type: lower-alpha">
@@ -527,10 +526,10 @@ tags:
 	<li>Placing the patient in a prone position</li>
 	<li>Keeping the residual limb flat on the bed</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 11
 >Emergency trauma cases involve severe, life-threatening injuries requiring immediate medical intervention. These injuries, often resulting from accidents, violence, or disasters, demand rapid assessment, resuscitation, and treatment to minimize disability and prevent death. Key priorities include stabilizing the patient, controlling bleeding, maintaining airway and breathing, and addressing shock. Effective trauma care relies on a coordinated team approach and swift action.
-
-<br><br><br><br><br>
 
 51. The ER nurse is attending to a patient who has sustained a blunt injury to the chest wall. Which finding supports the diagnosis of a closed pneumothorax in this client?
 <ol style="list-style-type: lower-alpha">
@@ -575,16 +574,16 @@ tags:
 	<li>Diminished breath sounds on the affected side</li>
 	<li>Few scattered wheezes, unchanged from baseline</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 12
 >A Universal Emergency Code System aims to standardize the color-coded alerts used in healthcare facilities to communicate critical situations quickly and effectively. These codes help staff respond appropriately to various emergencies, such as fires, medical crises, security threats, and disasters.
 
-<br><br><br><br><br>
-
 56. The nurse discovers a fire in a patient's room. The fire alarm has been activated, and staff are initiating Code Red protocols. The nurse grabs the nearest fire extinguisher. To use the extinguisher correctly, the nurse should follow which sequence of actions? Sequence the following in correct order:
-\1. Pull the pin in the handle
-\2. Aim the nozzle at the base of the fire
-\3. Squeeze the lever slowly
-\4. Sweep from side to side
+<br>\1. Pull the pin in the handle
+<br>\2. Aim the nozzle at the base of the fire
+<br>\3. Squeeze the lever slowly
+<br>\4. Sweep from side to side
 
 <ol style="list-style-type: lower-alpha">
 	<li>2,1,3,4</li>
@@ -628,10 +627,10 @@ tags:
 	<li>Red</li>
 	<li>Yellow</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 13
 >You are the sole registered nurse on duty in a remote health clinic in a mountainous region of Bulacan. A distress call comes in via a spotty radio signal: a 62-year-old male, known to have severe COPD and a history of atrial fibrillation (on warfarin), collapsed while hiking. Family members have brought him to the clinic via a bumpy, hour-long jeepney ride. Upon arrival, the patient is unresponsive, gasping irregularly, and you palpate a faint, rapid, and irregular pulse. The clinic has limited resources: a manual defibrillator, limited supply of medications, basic airway equipment, and a single oxygen tank. You have one untrained family member available to assist.
-
-<br><br><br><br><br>
 
 61. Given the limited resources and the patient's presentation, what is the priority initial action?
 <ol style="list-style-type: lower-alpha">
@@ -676,10 +675,10 @@ tags:
 	<li>Transport the patient immediately via jeepney to the nearest hospital, continuing CPR en route</li>
 	<li>Administer all remaining medications in the hope of a delayed response</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 14
 >A large passenger bus carrying 50 people collided with a fuel truck on a national highway near a rural town. The impact caused multiple injuries, a fire, and a pile-up involving several other vehicles. First responders, including nurses from the nearby district hospital, arrive at the scene to perform field triage.
-
-<br><br><br><br><br>
 
 66. As the nurse taking care of the victims of a mass casualty incident, triaging is performed using the START system. As a nurse, you know that START stands for
 <ol style="list-style-type: lower-alpha">
@@ -724,10 +723,10 @@ tags:
 	<li>Ensure scene safety before providing care</li>
 	<li>Tag all victims black until firefighters arrive</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 15
 >A fire breaks out in the medical-surgical ward due to an electrical short circuit in one of the supply rooms. Smoke quickly fills the hallway. Several patients are bedridden, and others are recovering postoperatively. The nurse on duty, together with the team, must act quickly to ensure patient and staff safety while implementing emergency fire protocols.
-
-<br><br><br><br><br>
 
 71. During a fire evacuation in the surgical ward, which client would the nurse prioritize for immediate evacuation?
 <ol style="list-style-type: lower-alpha">
@@ -772,10 +771,10 @@ tags:
 	<li>Guide the ambulatory client out first, then return for the others</li>
 	<li>Disconnect the IV therapy and evacuate the bed rest client first</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 16
 >A 7.2-magnitude earthquake strikes a densely populated urban city at midday, causing widespread structural damage, road blockages, and mass casualties. The emergency department of a tertiary hospital remains operational but is overwhelmed. Nurses are deployed to field triage zones, community shelters, and unstable structures to assist victims trapped or injured. Communication systems are down, and resources such as electricity, water, and medications are limited.
-
-<br><br><br><br><br>
 
 76. A nurse responds to a call for help in a partially collapsed school building. Upon arrival, she finds a conscious victim trapped under rubble with a crushed leg, cold extremities, and absent pedal pulse. What is the nurse's priority intervention?
 <ol style="list-style-type: lower-alpha">
@@ -814,12 +813,12 @@ tags:
 <br><br><br><br><br>
 
 80. Following a major earthquake, the nurse is assigned to a community shelter providing emergency care. Which of the following nursing actions demonstrate appropriate disaster response and prioritization? Select all that apply.
-\1. Monitor for signs of hypothermia and dehydration among displaced individuals
-\2. Prioritize care for clients with altered level of consciousness and unstable vital signs
-\3. Delay wound care for clients with minor abrasions until sterile supplies arrive
-\4. Encourage hand hygiene and separation of sick individuals to prevent infection spread
-\5. Use non-sterile gloves and clean water when performing wound irrigation if sterile materials are unavailable
-\6. Transport all walking wounded to the hospital immediately for full evaluation
+<br>\1. Monitor for signs of hypothermia and dehydration among displaced individuals
+<br>\2. Prioritize care for clients with altered level of consciousness and unstable vital signs
+<br>\3. Delay wound care for clients with minor abrasions until sterile supplies arrive
+<br>\4. Encourage hand hygiene and separation of sick individuals to prevent infection spread
+<br>\5. Use non-sterile gloves and clean water when performing wound irrigation if sterile materials are unavailable
+<br>\6. Transport all walking wounded to the hospital immediately for full evaluation
 
 <ol style="list-style-type: lower-alpha">
 	<li>1, 2</li>
@@ -827,18 +826,18 @@ tags:
 	<li>1, 2, 3, 4, 5</li>
 	<li>1, 2, 3, 4, 5, 6</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 17
 >A 28-year-old male is brought to the emergency department after a motorcycle crash. He is semi-conscious, with visible bleeding on his thigh, facial abrasions, and rapid, shallow breathing. The trauma nurse initiates the primary survey followed by the secondary assessment to quickly identify and manage life-threatening conditions.
 
-<br><br><br><br><br>
-
 81. A nurse is performing a primary survey on a trauma client brought to the emergency department after a vehicular crash. Which of the following actions are appropriate components of the primary survey? Select all that apply.
-\1. Apply a cervical collar and assess for airway obstruction
-\2. Auscultate lung fields and observe chest rise and fall
-\3. Apply a tourniquet to a bleeding extremity
-\4. Check for pupillary response and level of consciousness
-\5. Remove all clothing to assess for hidden injuries
-\6. Insert a Foley catheter to monitor urine output
+<br>\1. Apply a cervical collar and assess for airway obstruction
+<br>\2. Auscultate lung fields and observe chest rise and fall
+<br>\3. Apply a tourniquet to a bleeding extremity
+<br>\4. Check for pupillary response and level of consciousness
+<br>\5. Remove all clothing to assess for hidden injuries
+<br>\6. Insert a Foley catheter to monitor urine output
 
 <ol style="list-style-type: lower-alpha">
 	<li>1, 2, 4</li>
@@ -882,10 +881,10 @@ tags:
 	<li>Apply warm blankets and reassess in 15 minutes</li>
 	<li>Begin oral hydration to restore blood pressure</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 18
 >Zaina, a 22-year-old female, is involved in a high-speed motorcycle crash. She was not wearing a helmet and struck the edge of a parked vehicle. Upon arrival at the scene, the nurse assigned to the EMS team notes that the client is dyspneic, has asymmetrical chest expansion, tachycardia, and subcutaneous emphysema over the right chest wall. A large bruise is noted over the sternum, and she appears restless and confused.
-
-<br><br><br><br><br>
 
 86. While assessing Zaina, Nurse Emdee suspects a tension pneumothorax. Which of the following findings supports this diagnosis?
 <ol style="list-style-type: lower-alpha">
@@ -930,10 +929,10 @@ tags:
 	<li>Insert a chest tube immediately through the wound before dressing</li>
 	<li>Cover the wound with dry gauze and wait for the physician's order before securing it</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 19
 >A 62-year-old male suddenly collapses in the hospital lobby while eating lunch. Bystanders call for help, and a nurse rushes to the scene. The client is cyanotic, clutching his throat, and unable to speak. Upon rapid assessment, he appears panicked with minimal air exchange. The nurse immediately initiates emergency airway management while notifying the rapid response team. In the emergency room, the client’s condition fluctuates between partial and complete obstruction.
-
-<br><br><br><br><br>
 
 91. Which of the following nursing interventions are appropriate for managing a client with a complete airway obstruction due to foreign body aspiration? Select all that apply.
 \1. Perform abdominal thrusts (Heimlich maneuver) if the client is conscious
@@ -952,11 +951,11 @@ tags:
 <br><br><br><br><br>
 
 92. Arrange the following steps in correct order for assessing and intervening in a client with suspected airway obstruction:
-\1. Assess for responsiveness and ability to speak
-\2. Activate the emergency response system
-\3. Perform abdominal thrusts if the client cannot cough or breathe
-\4. Reassure and encourage coughing if the airway is partially obstructed
-\5. Position yourself behind the client and prepare to deliver thrusts
+<br>\1. Assess for responsiveness and ability to speak
+<br>\2. Activate the emergency response system
+<br>\3. Perform abdominal thrusts if the client cannot cough or breathe
+<br>\4. Reassure and encourage coughing if the airway is partially obstructed
+<br>\5. Position yourself behind the client and prepare to deliver thrusts
 
 <ol style="list-style-type: lower-alpha">
 	<li>1,2,4,5,3</li>
@@ -991,10 +990,10 @@ tags:
 	<li>“I will prepare for cricothyrotomy equipment and notify anesthesia.”</li>
 	<li>“Bag-valve mask ventilation should be enough until edema resolves.”</li>
 </ol>
+<br><br><br><br><br>
+
 >[!EXAMPLE] Situation 20
 >It is a high-acuity shift in the emergency department of Notcher Hospital. To cope with the demand, all on-call nurses are on duty to manage and prioritize care for incoming patients.
-
-<br><br><br><br><br>
 
 96. A 5-year-old client was admitted to Notcher’s emergency unit due to the ingestion of an unknown amount of chewable vitamins for children at an unknown time. Upon assessment, the child is alert and with no symptoms. Which of the following information should be reported to the physician immediately?
 <ol style="list-style-type: lower-alpha">
@@ -1006,11 +1005,11 @@ tags:
 <br><br><br><br><br>
 
 97. Five patients were rushed to Notcher Hospital within 20 minutes. Nurse Jolina and his co-workers should prioritize care based on the acuity in order to increase the chances of survival of their patients. The chances of survival are attained at the highest possible level if they prioritize patients in what order?
-\1. A 27-year-old woman complaining of lightheadedness and severe sharp left lower quadrant pain who reports she is possibly pregnant
-\2. A 57-year-old woman who complains of a sore throat and gnawing midepigastric pain that is worse between meals and during the night
-\3. A 43-year-old woman with moderate RUQ pain who has vomited small amounts of yellow bile and whose symptoms have worsened over the week
-\4. A 15-year-old boy with a low-grade fever, RLQ pain, vomiting, nausea, and loss of appetite for the past few days
-\5. A 39-year-old man with a pulsating abdominal mass and sudden onset of persistent abdominal or back pain, described as a tearing sensation within the past hour
+<br>\1. A 27-year-old woman complaining of lightheadedness and severe sharp left lower quadrant pain who reports she is possibly pregnant
+<br>\2. A 57-year-old woman who complains of a sore throat and gnawing midepigastric pain that is worse between meals and during the night
+<br>\3. A 43-year-old woman with moderate RUQ pain who has vomited small amounts of yellow bile and whose symptoms have worsened over the week
+<br>\4. A 15-year-old boy with a low-grade fever, RLQ pain, vomiting, nausea, and loss of appetite for the past few days
+<br>\5. A 39-year-old man with a pulsating abdominal mass and sudden onset of persistent abdominal or back pain, described as a tearing sensation within the past hour
 
 <ol style="list-style-type: lower-alpha">
 	<li>1, 2, 3, 4, 5</li>
