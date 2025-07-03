@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Pharmacology"
+title: "Assessment: Pharmacology"
 image: og-image.png
 tags:
   - QNA

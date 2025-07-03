@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Fundamentals of Nursing"
+title: "Assessment: Fundamentals of Nursing"
 image: og-image.png
 tags:
   - QNA

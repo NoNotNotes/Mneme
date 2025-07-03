@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Community Health Nursing"
+title: "Assessment: Community Health Nursing"
 image: og-image.png
 tags:
   - QNA

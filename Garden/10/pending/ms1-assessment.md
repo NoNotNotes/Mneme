@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Medical-Surgical Nursing 1"
+title: "Assessment: Medical-Surgical Nursing 1"
 image: og-image.png
 tags:
   - QNA

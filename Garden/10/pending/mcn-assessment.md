@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Maternal and Child Health Nursing"
+title: "Assessment: Maternal and Child Health Nursing"
 image: og-image.png
 tags:
   - QNA

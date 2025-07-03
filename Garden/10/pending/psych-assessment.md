@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Psychiatric-Mental Health Nursing"
+title: "Assessment: Psychiatric-Mental Health Nursing"
 image: og-image.png
 tags:
   - QNA

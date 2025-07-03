@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Communicable Diseases"
+title: "Assessment: Communicable Diseases"
 image: og-image.png
 tags:
   - QNA

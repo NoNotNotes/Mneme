@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Nursing Research"
+title: "Assessment: Nursing Research"
 image: og-image.png
 tags:
   - QNA

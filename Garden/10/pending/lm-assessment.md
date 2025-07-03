@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Leadership and Management"
+title: "Assessment: Leadership and Management"
 image: og-image.png
 tags:
   - QNA

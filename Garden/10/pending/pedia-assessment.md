@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Pediatric Nursing"
+title: "Assessment: Pediatric Nursing"
 image: og-image.png
 tags:
   - QNA

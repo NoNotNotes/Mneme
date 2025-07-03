@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Professional Adjustment, Ethics, Jurisprudence"
+title: "Assessment: Professional Adjustment, Ethics, Jurisprudence"
 image: og-image.png
 tags:
   - QNA

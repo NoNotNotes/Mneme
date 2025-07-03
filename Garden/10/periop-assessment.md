@@ -1,5 +1,5 @@
 ---
-title: "Assessment Exam: Perioperative and Emergency Nursing"
+title: "Assessment: Perioperative and Emergency Nursing"
 image: og-image.png
 tags:
   - QNA
