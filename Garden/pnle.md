@@ -2,7 +2,7 @@
 publish: true
 title: Philippine Nurses Licensure Exam
 tags: 
-description: The PNLE is a five-part, 500-item examination held twice a year for holders of a Bachelor of Science in Nursing to become a Registered Nurse. It is held by the Board of Nursing under the Professional Regulation Commission twice a year at May and November.
+description: The PNLE is a five-part, 500-item examination held twice a year for holders of a Bachelor of Science in Nursing to become a Registered Nurse. It is held by the Board of Nursing under the Professional Regulation Commission in May and November.
 ---
 The [PNLE](https://www.prc.gov.ph/sites/default/files/exam%20progam%20MAY%202025%20nle%20(nursing)%20signed.pdf) is a five-part, 500-item examination held twice a year for holders of a Bachelor of Science in Nursing to become a Registered Nurse. It is held by the Board of Nursing under the Professional Regulation Commission twice a year at May and November.
 

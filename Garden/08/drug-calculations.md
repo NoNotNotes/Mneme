@@ -10,6 +10,10 @@ aliases:
 todo:
   - Add examples
 ---
+
+>[!INFO] Also Read
+>[[057a-systems-of-measurement#Methods of Calculating Doses]]
+
 1. **Standard Formula** for calculating the amount of medication to prepare is based on the **DSQ formula**:
 	- $\frac{\text{Desired Dose}}{\text{Stock Amount}} × \text{Quantity}=\text{Amount to deliver}$
 2. **Pediatric Formulas**

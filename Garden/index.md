@@ -4,7 +4,7 @@ image: og-image.png
 ---
 
 >[!CITE] Richard Holmes
-><span style="text-align: center"> *There is a goddess of Memory, **Mnemosyne**; but none of Forgetting. Yet there should be, as they are twin sisters, twin powers, and walk on either side of us, disputing for sovereignty over us and who we are, all the way until death.*</span>
+><span style="text-align: center; font-style: italic;">There is a goddess of Memory, **Mnemosyne**; but none of Forgetting. Yet there should be, as they are twin sisters, twin powers, and walk on either side of us, disputing for sovereignty over us and who we are, all the way until death.</span>
 
 All roads lead here. I've done my best to collect and collate references from many, many sources (*too many!*) and compiled them into dense, thorough, comprehensive pages divided into every single topic I could get my hands on. What were the [[#references|references]] I used? Broadly, these were the works used in levels of contribution and reliability:
 1. **Curriculum Textbooks**. Basically the most reliable sources both nationally and internationally. They offer the most trustworthy *and* comprehensive information that one can read about.
