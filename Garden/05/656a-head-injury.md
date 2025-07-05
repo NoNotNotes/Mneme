@@ -8,7 +8,8 @@ tags:
 description: "Traumatic head injury is the leading cause of death and disability from ages 1 to 44 in mostly men. It is caused by an external mechanical force and may result in permanent or temporary impairment of cognitive, physical, and psychosocial functions, with an associated diminished or altered state of consciousness."
 ---
 **Reference**:
-1. **Lecturer** (Rotairo)
+1. **Brunner & Suddarth's Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (pp. 2055-2060)
+2. **Lecturer** (Rotairo, VJVS)
 
 ___
 
@@ -16,6 +17,10 @@ ___
 
 >[!EXAMPLE] Types of TBI
 >1. **Closed**: the skull is not broken; the brain is not exposed. This may be due to rapid movement such as in sudden accelerations or decelerations. Depending on which region the brain hits, this may be considered as a coup (frontal) contusion from deceleration or sudden hyperextension of the head, or contrecoup (occipital) contusion from acceleration or sudden hyperflexion of the head.
+>	- **Concussion**: temporary loss of consciousness; widespread and microscopic jarring of the brain within the skull.
+>	- **Contusions**: localized, macroscopic, and "*bruising*" type of injury. Noticeable loss of function is noted. Coup-contra coup involvement. Bruising occurs, and the brain stem may swell and tear.
+>	- **Fractures**: hairline (a line, no splintering and distortion), depressed (crushed portion of skull), compound (break in skin, splintering of bone), comminuted (fragmentation)
+>		- **Basilar skull fracture**: a fracture on the base of the skull. This manifests as *rhinorrhea* and *otorrhea* from CSF leakage, *raccoon eyes* (ecchymosis around the eye), and battle's sign (ecchymosis behind the ear). On a pillow, a "*halo ring*" is formed by a stain of CSF with blood in the center.
 >2. **Open**: a penetrating head injury which may be focal (isolated to one area) or diffuse (widespread).
 
 The damage caused by a traumatic brain injury, i.e. it's **pathophysiology**, begins with the **primary injury**, literally the damage caused by the trauma at the moment of injury. The **secondary injury** is the damage produced after the initial trauma, such as rebound contusions (the brain bounces back onto the contrecoup after hitting the coup), swelling, increased ICP, hypoxia, etc.
@@ -23,11 +28,11 @@ The damage caused by a traumatic brain injury, i.e. it's **pathophysiology**, be
 
 >[!WARNING] Intracranial Hemorrhage
 >An intracranial hemorrhage is classified according to its location:
->2. **Epidural Hematoma**: bleeding from a fracture of the temporal bone and rupture of the middle meningeal artery.
->3. **Subdural Hematoma**: bleeding from ruptured bridging veins in the subdural space.
->4. **Subarachnoid Hemorrhage**: bleeding from damage to blood vessels in the posterior fossa stalk.
->5. **Intracerebral Hemorrhage**: bleeding within the brain
->6. **Intraventricular Hemorrhage**: bleeding into the ventricles of the brain
+>1. **Epidural Hematoma**: bleeding from a fracture of the temporal bone and rupture of the middle meningeal artery.
+>2. **Subdural Hematoma**: bleeding from ruptured bridging veins in the subdural space.
+>3. **Subarachnoid Hemorrhage**: bleeding from damage to blood vessels in the posterior fossa stalk.
+>4. **Intracerebral Hemorrhage**: bleeding within the brain
+>5. **Intraventricular Hemorrhage**: bleeding into the ventricles of the brain
 
 2. **Secondary Brain Injury**: occurring hours or days after the initial injury, this may result from **impairment in cerebral blood flow** due to local edema, hemorrhage, increased intracranial pressure such, shock, disturbance of pulmonary ventilation (aspiration, chest wall instability, neurogenic disturbance), etc.
 	- Decreased perfusion results in cellular destruction, causing neuronal death.
@@ -68,10 +73,12 @@ Other complications include :
 
 ___
 
-# Management
+# Medical Management
 **Operative management is not used to correct brain injury**. It is only used to address (a) the need for **ICP monitoring** with a bolt or other device, (b) **bleeding** within the brain; surgical removal or drainage may be necessary, and (c) **removal of skull bone fragments/damaged tissue** and **repair of skull fractures** if present in open head injuries.
+- **Craniotomy**: removal of tumor, relieve ICP, remove blood clots, or control hemorrhage. This may be (a) supratentorial, (b) infratentorial, or (c) transsphenoidal.
+- Alternative: **craniectomy** and **cranioplasty**
 
-**Pharmacologic management** may be used for the following:
+## Pharmacologic Management
 
 | Indication                                    | Treatment                                                                                               |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -79,3 +86,15 @@ ___
 | Seizure activity                              | **Anti-seizure drugs**. This is used **prophylactically** during the first week of management.          |
 | **Medical induction of a coma**               | Done to reduce the oxygen demands of the brain, reducing the potential for cell death in hypoperfusion. |
 | **Problems with attention and concentration** | **Amantadine**, **Methylphenidate**, **Bromocriptine**, **Antidepressants**                             |
+
+___
+
+# Nursing Management
+The nurse primarily focuses her efforts on maintaining a patent airway, ventilation, vital signs, neuro checks, and monitoring for complications (Increasing ICP, Seizures, Hyperthermia)
+- Observe for **CSF Leak**: halo ring appearance of stains. If observed, instruct patient not to blow the nose, elevate the head of bed by 30 degrees, observe for infection (meningitis), place cotton ball on ear to absorb otorrhea, and gauze pad at the bottom of the nose for rhinorrhea.
+- Prevent **complications of immobility**.
+- **Check for signs of infection**.
+- **Postoperative Positioning**:
+	- **Supratentorial positioning**: neutral neck alignment and side-lying or supine. Avoid operative side.
+	- **Infratentorial positioning**: maintain straight neck alignment; no flexion to avoid tearing suture. Position patient on either side, not supine.
+	- **Transsphenoidal positioning**: nasal packing, instruct patient to avoid blowing the nose. Provide oral care and keep head of bed elevated.

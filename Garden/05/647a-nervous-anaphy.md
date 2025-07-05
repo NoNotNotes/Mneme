@@ -34,6 +34,11 @@ flowchart TD
 - The **Autonomic Division of the PNS** (involuntary) regulates the internal environment of the body and carries information from the CNS to the organs, blood vessels, and glands. It is divided between **sympathetic** (arouses the body; *fight or flight*) and **parasympathetic** (calms the body after arousal; *rest and digest*) subdivisions.
 - The **Somatic Division of the PNS** is voluntary, mainly playing roles in skeletal muscles. It carries information to the CNS from the senses and from the CNS to the skeletal muscles.
 
+# Peripheral Nervous System
+The peripheral nervous system is composed of two groups of nerves: the **twelve cranial nerves** and the **thirty-one spinal nerves**.
+1. **Cranial Nerves**
+2. **Spinal Nerves**: 8 cervical nerves, 12 thoracic nerves, 5 lumbar nerves, 5 sacral nerves, and 1 coccygeal nerve.
+
 ___
 
 # Cells of the Nervous System
@@ -53,3 +58,16 @@ ___
 4. **Optical Lobe**: vision
 5. **Cerebellum**: balance, coordination
 6. **Brain Stem**: blood pressure, breathing, consciousness, swallowing, heartbeat
+
+___
+
+# Neuron
+1. Dendrite
+2. Soma
+3. Nucleus
+4. Axon
+	- Myelin sheath
+	- Schwann cell
+	- Myelin
+	- Node of Ranvier
+5. Axon Terminal

@@ -9,10 +9,11 @@ description: GBS is an autoimmune attack on the peripheral nerve myelin, resulti
 ---
 **References**:
 1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 64, \[ebook] pp. 5547–5556)
+2. Lecturer (VJVS)
 
 ___
 
-**GBS** is an autoimmune attack on the **peripheral nerve myelin**, resulting in acute, rapid segmental demyelination of peripheral nerves and some cranial nerves, producing symmetrical ascending weakness (classical) with dyskinesia, hyporeflexia, and paresthesias. **An antecedent event**, most commonly from viral infection, result in the clinical presentation of 60% to 70% of GBS cases.
+**GBS** (*acute idiopathic polyneuritis*, *Landry's paralysis*) is an autoimmune attack on the peripheral nerve myelin, resulting in **acute, rapid segmental demyelination of peripheral nerves and some cranial nerves**, producing symmetrical ascending weakness (classical) with dyskinesia, hyporeflexia, and paresthesias. **An antecedent event**, most commonly from viral infection, result in the clinical presentation of 60% to 70% of GBS cases.
 - *Campylobacter jejuni* is implicated in 40% of cases. Cytomegalovirus, Epstein-Barr virus, *Mycoplasma pneumoniae*, *H. influenzae*
 - Men and women are equally affected at around 1 to 2 in 100,000 people.
 - 70% of patients recover, with the remaining 30% becoming disabled to varying degrees. 5% to 10% of cases result in death due to respiratory failure, autonomic dysfunction, sepsis, or pulmonary embolism.
@@ -36,7 +37,7 @@ ___
 Demyelination often occurs 1 to 3 weeks before symptoms begin.
 1. **Muscle Weakness**, **Diminished Reflexes** of the **Lower Extremities**, which may progress to **Tetraplegia**. This may ascend upwards and plateau (at varying lengths) at respiratory failure. Peak severity takes from 2 weeks to no longer than 4 weeks. If the progress lengthens past 4 weeks, the patient is classified as having **chronic inflammatory demyelinating polyneuropathy**.
 2. **Neuromuscular Respiratory Failure** and **Bulbar Weakness** may result from damage to the myelin sheath for nerves that innervate the diaphragm and intercostal muscles.
-3. **Sensory Impairment**: **paresthesias**, **pain related to demyelination of sensory fibers**
+3. **Sensory Impairment**: **paresthesias** (often earliest to appear), **pain related to demyelination of sensory fibers**
 4. **Cranial Nerve Demyelination**:
 	- Cranial Nerve II (**Optic**): blindness
 	- Cranial Nerve IX, X (**Glossopharyngeal**, Vagus): swallowing and clearing secretions is impaired.

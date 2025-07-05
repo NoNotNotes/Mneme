@@ -8,7 +8,7 @@ tags:
 description: Chronic kidney disease (CKD) is a progressive disease affecting kidney function that occurs over months to years. It is defined as kidney damage or a decreased glomerular filtration rate for 3 or more months.
 ---
 **References**:
-1. Lecturer (Rotairo)
+1. Lecturers (Rotairo, MJA)
 
 ___
 

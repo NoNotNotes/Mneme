@@ -9,6 +9,7 @@ description: MS is an immune-mediated, progressive demyelinating disease of the 
 ---
 **References**:
 1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 64, \[ebook] pp. 5523–5540)
+2. Lecturer (VJVS)
 
 ___
 
@@ -39,26 +40,45 @@ The course of MS ranges from being asymptomatic or having benign, mild presentat
 ![[multiple-sclerosis_types.png]]
 
 Signs and symptoms vary, reflecting the location of the plaques or lesions in the brain. Physical, emotional, and cognitive symptoms can impact the quality of life.
-- Fatigue, depression, weakness, numbness, dystaxia, loss of balance, spasticity, and pain are all common.
-- Visual disturbances from lesions in the optic nerves or their connections: **blurring of vision**, **diplopia**, **scotoma** (patchy blindness), and **total blindness**.
-- **Fatigue** affects the most people with MS, and is often the most disabling symptom. Heat, depression, anemia, deconditioning, and medication may contribute to fatigue. Resolution of these contributing factors can help with fatigue.
+- Fatigue, depression, weakness, numbness, dystaxia, loss of balance, spasticity, and pain are all common. **Scanning speech** ("*staccato speech"*) is common.
+- Visual disturbances from lesions in the optic nerves or their connections: **blurring of vision**, **diplopia**, **nystagmus**, **scotoma** (patchy blindness), and **total blindness**.
+- **Fatigue** affects the most people with MS, and is often the most disabling symptom. **Heat**, depression, anemia, deconditioning, and medication may contribute to fatigue. Resolution of these contributing factors can help with fatigue.
 - **Pain** is another common symptom. Lesions on the sensory pathways cause pain, along with other sensory manifestations including **paresthesias, dysesthesias, and proprioception loss**. **Daily analgesic medication** (opioids, anticonvulsants, antidepressants) may be required. In severe cases, pain pathways can be surgically interrupted.
 	- In perimenopausal women, pain may be related to osteoporosis resulting from estrogen loss, immobility, and corticosteroid therapy. Bone Mineral Density Testing is recommended.
 - **Spasticity** is found in 90% of MS cases and is characterized by muscle hypertonicity with increased resistance to stretch associated with weakness, increased DTRs, and decreased superficial reflexes. These result from involvement of the pyramidal tracts, the main motor pathways of the spinal cord.
 - **Cognitive and psychosocial problems** may reflect involvement of the frontal or parietal lobes. Some degree of cognitive change (memory loss, impaired concentration) is found in half of patients.
-- **Ataxia** and **Tremors** may result from involvement of the cerebellum or basal ganglia.
+- **Ataxia** and **Tremors** may result from involvement of the cerebellum or basal ganglia. Tremors may be intention tremors.
 - **Emotional lability and euphoria** may result from the loss of control connections between the cortex and the basal ganglia.
-- Bladder, bowel, and sexual dysfunctions are common. UTIs, constipation, pressure injuries, contracture deformities, dependent pedal edema, pneumonia, osteoporosis, and emotional, social, marital, economic, and vocational problems may also occur.
+- Bladder, bowel, and sexual dysfunctions are common. UTIs, constipation, pressure injuries, contracture deformities, dependent pedal edema, pneumonia, osteoporosis, and emotional, social marital, economic, and vocational problems may also occur.
+
+>[!TIP] Symptom Clusters
+>1. Scanning speech ("*Staccato speech*")
+>2. Intention Tremors
+>3. Nystagmus (involuntary eye movements)
+>4. Bowel and Bladder Dysfunction, either hypo- or hyperactive
+>5. Ataxia (loss of gait, balance, coordination)
+>6. Diplopia (double-sight), Depression
+>7. Spasticity (hypertonicity)
+>8. Impotence (sexual dysfunction)
+>9. Scotoma (patchy blindness), Seizures
+>10. Apraxia (difficulty in performing purposeful movement), Abnormal reflexes
+>11. Paralysis, Pain, Paresis (weakness)
 
 ___
 
 # Diagnostic Examination
-Diagnosis is based on clinical, imaging, and laboratory findings. The **presence of plaques in the CNS disseminated in space and over time** observed on MRI scans with no better explanation for the clinical presentation.
-- **Electrophoresis** of **CSF** is done to determining immune system abnormality (multiple bands of IgG bonded together).
+Diagnosis is based on clinical, imaging, and laboratory findings.
+- The **presence of plaques in the CNS disseminated in space and over time** observed on MRI scans with no better explanation for the clinical presentation.
+- **Electrophoresis** of **CSF** is done to determining immune system abnormality, showing multiple bands of IgG bonded together--**oligoclonal banding**.
+- **Electroencephalogram** (EEG)
+	- EEG responsibilities: wash the hair prior to the test, avoid any stimulants, and obtain good sleep prior to the sleep.
+- **Lumbar Puncture** can show increased gamma globulin levels in CSF, exposing elevated antibody activity.
 - **Evoked Potential Studies** can help define the extent of the disease process and monitor changes.
 - **Urodynamic Studies** determine any underlying bladder dysfunctions.
 - **Neuropsychological Testing** may be used to assess cognitive impairment.
 - **Sexual history** defines changes in sexual function.
+- **Lhermitte's sign** ("*Barber Shock Phenomenon*") is the appearance of an electric shock sensation along the and the arms upon neck flexion.
+- **Uhthoff's phenomenon** is the worsening of signs of multiple sclerosis when exposed to hot temperatures.
 
 ___
 
@@ -67,6 +87,7 @@ ___
 2. **Pharmacologic**:
 	- **Disease-Modifying** therapies reduce the frequency or duration of relapse, and the number and size of plaques observed on MRI in RRMS. The same therapies are not effective in PPMS.
 		- **Interferon beta-1a** and **Interferon beta-1b** SQ q2d, another preparation of **interferon beta-1a IM** q1w, and **pegylated interferon beta-1a** SQ q2w.
+			- Avonex, Betaseron, Copaxone.
 			- Side effects of all interferon medication includes flulike symptoms, increased liver function tests, leukopenia, headache, depression, and skin necrosis.
 		- **Glatiramer acetate** reduces the frequency of relapse in RRMS, administered SQ od. Adverse effects include injection-site reactions and flushing, but are often self-limiting. These have no monitoring parameters.
 		- **Teriflunomide, fingolimod, and dimethyl fumarate** are oral disease-modifying therapies that may be better tolerated by patients who have difficulty with injection reactions.
@@ -75,14 +96,14 @@ ___
 		- **IV Mitoxantrone** q3mo can reduce clinical relapse frequency in patients with worsening RRMS (secondary progressive form). It has an adverse side effect of cardiac toxicity, and has a set lifetime maximum dose.
 	- **Symptom Managing** therapies
 
-| Symptoms                                   | Medication                                                                                                                                                            |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Spasticity**                             | **Baclofen** oral or intrathecal (for severe spasticity), a gamma-aminobutyric acid (GABA) agonist, treats **spasticity**.                                            |
-| **Spasticity, Debilitated Motor Function** | **Benzodiazepines** (Diazepam), **Tizanidine**, and **Dantrolene** may also be used to **treat spasticity and improve motor function**.                               |
-| **Fatigue**                                | **Amantadine**, **Pemoline**, **Dalfamprindine** can help with debilitating **fatigue**.                                                                              |
-| **Ataxia**                                 | **Beta-adrenergic Blockers** (Propanolol), **Gabapentin** (an anticonvulsant), and **Benzodiazepines** (Clonazepam) is used to treat **ataxia**.                      |
-| **Bladder and Bowel Problems**             | **Anticholinergic agents, alpha-adrenergic blockers, antispasmodic agents**: may be used for **bladder and bowel problems**. Non-pharmacologic solutions may be used. |
-| **UTI**                                    | **Antibiotic agents** (when appropriate) are used for **UTI** that superimposes over underlying neurologic dysfunction.                                               |
+| Symptoms                                   | Medication                                                                                                                                                                                                     |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Spasticity**                             | **Baclofen** oral or intrathecal (for severe spasticity), a gamma-aminobutyric acid (GABA) agonist, treats **spasticity**. Alternatively, Cyclobenzapine, Urecholine, and Oxybutynin are other antispasmodics. |
+| **Spasticity, Debilitated Motor Function** | **Benzodiazepines** (Diazepam), **Tizanidine**, and **Dantrolene** may also be used to **treat spasticity and improve motor function**.                                                                        |
+| **Fatigue**                                | **Amantadine**, **Pemoline**, **Dalfamprindine** can help with debilitating **fatigue**.                                                                                                                       |
+| **Ataxia**                                 | **Beta-adrenergic Blockers** (Propanolol), **Gabapentin** (an anticonvulsant), and **Benzodiazepines** (Clonazepam) is used to treat **ataxia**.                                                               |
+| **Bladder and Bowel Problems**             | **Anticholinergic agents, alpha-adrenergic blockers, antispasmodic agents**: may be used for **bladder and bowel problems**. Non-pharmacologic solutions may be used.                                          |
+| **UTI**                                    | **Antibiotic agents** (when appropriate) are used for **UTI** that superimposes over underlying neurologic dysfunction.                                                                                        |
 
 ___
 
