@@ -1,11 +1,11 @@
 ---
 publish: true
-title: MDGs & SDGs
+title: Clinic Visit
 tags:
   - CHN
   - L1
   - INC
-description: 'Clinic visits are health appointments at the BHS, RHU, or Lying-in clinics—the first contact facilities spanning the pre-consultation, medical examination, nursing intervention, and post-consultation phases.'
+description: Clinic visits are health appointments at the BHS, RHU, or Lying-in clinics—the first contact facilities spanning the pre-consultation, medical examination, nursing intervention, and post-consultation phases.
 ---
 **References**:
 1. Lecturer (MBSMF)

@@ -54,7 +54,7 @@ ___
 | **Araceli Maglaya**                   | Community health nursing is the utilization of the nursing process to benefit the individual, the family and the community                                                                             | Nursing process                             |
 | **C.E. Winslow**                      | A science and the art to promote health, prevent disease, and prolong life. Prolonging life is the goal of PHN, emphasizing the importance of recognizing the birthright and longevity of individuals. | Birthright and longevity                    |
 
-These definitions talk of concepts in public health nursing including the [[#Ecosystem Influences Optimum Level of Functioning|optimum level of functioning]], [[01-levels-of-clientele|four levels of clientele]], settings of public health ([[08-clinical-visit]], [[07-home-visit]]) and [[12-apie|the nursing process applied to the family and community]].
+These definitions talk of concepts in public health nursing including the [[#Ecosystem Influences Optimum Level of Functioning|optimum level of functioning]], [[01-levels-of-clientele|four levels of clientele]], settings of public health ([[08-clinic-visit]], [[07-home-visit]]) and [[12-apie|the nursing process applied to the family and community]].
 
 ___
 
