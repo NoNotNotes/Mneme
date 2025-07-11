@@ -60,7 +60,7 @@ ___
 3. **Diuretics**: **Furosemide** (Lasix), **Chlorothiazide** (Diuril)
 	- Inhibition loss of sodium means potassium is exchanged and excreted in turn. A serum test is done prior to usage of **Furosemide**, and supplementation is ordered if hypokalemic. Hypokalemia also contributes to digitalis toxicity due to its direct effect on cardiac contraction.
 4. **Vasodilators**: **Nitroglycerin**
-5. **ACE Inhibitors**: "-*pril*s"
+5. **ACE Inhibitors**: "-*pril*"s
 
 ___
 

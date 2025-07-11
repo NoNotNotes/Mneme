@@ -11,7 +11,7 @@ description: Eating Disorders are disorders characterized by alterations in eati
 
 ___
 
-**Eating Disorders** are disorders characterized by alterations in eating patterns and disturbances in body image that interferes with relationships and occupational functioning. There are nine types described by the DSM-5:
+**Eating Disorders** are disorders characterized by alterations in eating patterns and disturbances in body image that interferes with relationships and occupational functioning. Both anorexia nervosa and bulimia nervosa are far more prevalent in industrialized societies, where food is abundant and beauty is linked with thinness. There are nine types of eating disorders described by the DSM-5:
 - **Anorexia Nervosa** (AN)
 - **Bulimia Nervosa** (BN)
 - **Binge Eating Disorder** (BED)
@@ -23,6 +23,28 @@ ___
 - Others:
     - **Muscle Dysmorphia**
     - **Orthorexia Nervosa** (ON)
+
+Medical complications of eating disorders related to **weight loss**:
+
+| **Body System**      | **Symptoms**                                                                                                                                                                |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Musculoskeletal**  | Loss of muscle mass, loss of fat, osteoporosis, and pathologic fractures                                                                                                    |
+| **Metabolic**        | Hypothyroidism (lack of energy, weakness, cold intolerance, bradycardia), hypoglycemia, decreased insulin sensitivity                                                       |
+| **Cardiac**          | Bradycardia, hypotension, loss of cardiac muscle, small heart, arrhythmias (atrial/ventricular premature contractions, prolonged QT, ventricular tachycardia), sudden death |
+| **Gastrointestinal** | Delayed gastric emptying, bloating, constipation, abdominal pain, gas, and diarrhea                                                                                         |
+| **Reproductive**     | Amenorrhea, low luteinizing hormone (LH) and follicle-stimulating hormone (FSH) levels                                                                                      |
+| **Dermatologic**     | Dry, cracking skin (dehydration), lanugo (fine body hair), edema, acrocyanosis (blue hands/feet)                                                                            |
+| **Hematologic**      | Leukopenia, anemia, thrombocytopenia, hypercholesterolemia, hypercarotenemia                                                                                                |
+| **Neuropsychiatric** | Abnormal taste sensation, apathetic depression, mild organic mental symptoms, sleep disturbances                                                                            |
+
+Medical complications of eating disorders related to **purging** (vomiting and laxative abuse):
+
+|**Body System**|**Symptoms**|
+|---|---|
+|**Metabolic**|Electrolyte imbalances (hypokalemia, hypochloremic alkalosis, hypomagnesemia), elevated BUN|
+|**Gastrointestinal**|Salivary gland/pancreas inflammation and enlargement (↑ serum amylase), esophageal/gastric erosion or rupture, dysfunctional bowel, superior mesenteric artery syndrome|
+|**Dental**|Erosion of dental enamel (perimyolysis), especially of front teeth|
+|**Neuropsychiatric**|Seizures (from fluid/electrolyte shifts), mild neuropathies, fatigue, weakness, mild organic mental symptoms|
 
 ___
 

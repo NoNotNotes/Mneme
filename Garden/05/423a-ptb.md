@@ -103,7 +103,7 @@ A **significant** (positive) **result** does not necessarily mean that active di
 
 Moreover, an **insignificant** (negative) **result** does not exclude TB infection or disease, because patients who are **immunocompromised** cannot develop an immune response that is adequate to produce a positive skin test. This is referred to as **anergy**.
 ## QuantiFERON-TB Gold® Plus and T-SPOT®
-**Interferon-gamma release assays** (IGRAs) are TB blood tests and are preferred diagnostic tests for patients who have received the BCG vaccine and patients who are not likely to return for a second appointment to look for a reaction to the tuberculin skin test. The results of both of these tests are available within **24 to 36 hours**. A positive IGRA signifies that the patient has been infected with TB bacteria and additional tests are needed. A negative IGRA means that the patient's blood did not react to the test and a latent or active TB infection is not likely.
+**Interferon-gamma release assays** (IGRAs) are TB blood tests and are preferred diagnostic tests for *patients who have received the BCG vaccine* and patients who are not likely to return for a second appointment to look for a reaction to the tuberculin skin test. The results of both of these tests are available within **24 to 36 hours**. A positive IGRA signifies that the patient has been infected with TB bacteria and additional tests are needed. A negative IGRA means that the patient's blood did not react to the test and a latent or active TB infection is not likely.
 ## Sputum Culture
 A **sputum specimen** may be used to **screen** for TB. A culture takes **2 to 6 weeks** for *M. tuberculosis complex* to grow.
 1. The presence of AFB on a **sputum smear** may indicate disease but *does not confirm* the diagnosis of TB because some AFB are not *M. tuberculosis*.
@@ -177,6 +177,12 @@ ___
 
 # Nursing Management
 Nursing management includes promoting **airway clearance**, advocating **adherence to the treatment regimen**, promoting **activity and nutrition**, and **preventing transmission**.
+
+>[!TIP] Collecting Sputum Cultures
+>The best time to obtain sputum cultures is in the morning. Three samples are obtained to be tested via direct sputum smear microscopy. Each sample should be at least 5 mL.
+>- The patient should stop any antibiotics for at least one day. On the morning of collection, oral care is only done after collection.
+>- The patient is instructed to expectorate via deep breathing and coughing exercises.
+
 ## Promoting Airway Clearance
 Copious secretions obstruct the airways in many patients with TB and interfere with adequate gas exchange.
 1. **Increasing fluid intake** promotes systemic hydration and serves as an effective expectorant.

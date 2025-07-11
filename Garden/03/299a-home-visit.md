@@ -4,12 +4,10 @@ title: "Home Visit"
 tags:
   - CHN
   - TB
-description: "The nursing bag, also called the Public Health Nurse bag, is a traditional tool used during home and community visits to be able to provide care safely and efficiently."
-todo:
-  - Find reference pages
+description: "Home visits are professional, purposeful interactions that take place in the family's residence aimed at promoting, maintaining and restoring the health of the family or its members."
 ---
 **References**:
-1. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile
+1. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile (pp. 87–91)
 
 ___
 
@@ -33,13 +31,13 @@ ___
 
 # Phases of a Home Visit
 1. **Pre-visit Phase**: the nurse contacts the family, determines their willingness for a home visit, and sets an appointment with them. A plan for the home visit is formulated during this phase. Planning occurs similarly to the nursing process, and follow specific principles:
-	- The home visit should have a purpose. Some purposes include assessment; education; infection control; supplemental intervention; or the provision of greater access to community health resources through rapport, information, and referrals.
+	- The home visit should have a **purpose**. Some purposes include assessment; education; infection control; supplemental intervention; or the provision of greater access to community health resources through rapport, information, and referrals.
 	- Use information about the family collected from all possible sources. All available information is used to determine and analyze the family situation.
 	- Focus on identified family needs, particularly those recognized by the family as requiring urgent attention (salient).
 	- The client and family should actively participate in planning for continuing care.
 	- The plan should be practical and adaptable. Flexibility is important in working with families because the nurse will not know the family's priority needs until the home visit.
 2. **In-home Phase**: this begins as the nurse seeks permission to enter and lasts until departure. This phase consists of initiation, implementation, and termination.
-	- Initiation: knock or ring the doorbell and declare yourself. Upon entering, introduction is done for the nurse and the agency they represent. Observation of the environment and general safety is appraised. To establish rapport, the nurse initiates a short social conversation, then states the purpose of the visit and sources of information is present.
-	- Implementation: the application of the nursing process; assessment (interview, physical examination, observation), intervention (care, teaching, counseling, referral), and evaluation.
-	- Termination: summarizing with the family the events during the home visit and setting a subsequent home visit or another form of family-nurse contact such as a clinic visit. Recording of findings may also be done at this time if necessary.
+	- **Initiation**: knock or ring the doorbell and declare yourself in a non-threatening voice. Upon entering, introduction is done for the nurse and the agency they represent. Observation of the environment and general safety is appraised. To establish rapport, the nurse initiates a short social conversation, then states the purpose of the visit and sources of information the prompted the visit.
+	- **Implementation**: the application of the nursing process; assessment (interview, physical examination, observation), intervention (care, teaching, counseling, referral), and evaluation.
+	- **Termination**: summarizing with the family the events during the home visit and setting a subsequent home visit or another form of family-nurse contact such as a clinic visit. Recording of findings may also be done at this time if necessary.
 3. **Post-visit Phase**: after returning to the health facility, documentation occurs, recording events that transpired during the visit, personal observations, and feelings of the nurse about the visit. A referral may be made. Planning may be done at this time if a subsequent visit has been set.

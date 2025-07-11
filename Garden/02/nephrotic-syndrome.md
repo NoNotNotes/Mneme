@@ -41,7 +41,7 @@ A previously well child begins to **gain weight**, which progresses over a perio
 - **The volume of urine is decreased**, and it appears **darkly opalescent and frothy**.
 - Severe edema causes the skin to appear with **extreme skin pallor** and even **skin breakdown**.
 - The child may be **irritable** and more **easily fatigued** or **lethargic** but does not appear seriously ill.
-- **Muehrcke lines**— white lines parallel to the lunula, is caused by prolonged hypoalbuminemia.
+- **Muehrcke lines**—white lines parallel to the lunula, is caused by prolonged hypoalbuminemia.
 
 >[!WARNING] The child is more susceptible to infections, particularly of cellulitis, pneumonia, peritonitis, or sepsis.
 

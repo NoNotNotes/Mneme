@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The Public Health Nurse Bag"
+title: "Bag Technique"
 tags:
   - CHN
   - TB
@@ -8,17 +8,27 @@ description: "The nursing bag, also called the Public Health Nurse bag, is a tra
 ---
 **References**:
 1. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile (pp. 91–92)
+2. Lecturer (MBSMF)
 
 ___
 
-The nursing bag, also called the Public Health Nurse bag, is a traditional tool used during home and community visits to be able to provide care safely and efficiently. Content depends on the agency and type of expected service. It often contains the following:
+The nursing bag, also called the **Public Health Nurse** (PHN) **bag**, is used during home and community visits to be able to provide care safely and efficiently. Its contents will depends on the agency and type of expected service, but often contains the following:
 1. Articles for **infection control**: soap, disposable paper towels/linen, apron, antiseptic bottles, hand sanitizer
 2. Articles for **assessment of family members**: body thermometer(s), measuring tape, aids such as glucometer, or items for Benedict's test (Benedict's solution, dropper, test tube and holder, alcohol lamp). Note that the stethoscope and sphygmomanometer are carried separately.
 3. Articles for **nursing care**
 4. **Sterile items**: dressings, cotton balls, cotton tip applicators, syringes (2 and 5 mL) with needles, surgical gloves, cord clamp, one pair of surgical scissors, sterile pack with kidney basin, two pairs of forceps (straight, curved).
 5. **Clean articles**: adhesive tape, bandage scissors
 6. **Pieces of paper**: for lining the soap dish and bag (alternatively, a washable rubber protector) and folded paper as a waste receptacle if needed.
+
+| Bag Compartment | Items Placed                                                                                              |
+| --------------- | --------------------------------------------------------------------------------------------------------- |
+| Top             | The items first used, such as linings, aprons and gloves.                                                 |
+| Rear            | Chemicals and solutions, e.g., alcohol, Benedict's solution, acetic acid.                                 |
+| Front           | Thermometer, test tubes, and test tube holder                                                             |
+| Center          | Alcohol burner, beaker, etc. other items that aren't categorized under the top, front, and rear sections. |
+
 # Principles of Bag Technique
+The **Bag Technique** is the indispensable tool used by the public health nurse during home visits to utilize the PHN Bag. The following principles apply:
 1. **Bag technique helps the nurse in infection control**. Proper use allows medical asepsis during the home visit as the home and family is considered a potential source of infection. This act can serve as a demonstration to the family practical methods of infection control such as handwashing.
 	- Proceed from clean to contaminated. This applies to care of family members, or even between families e.g., the family with a newborn is cared for before a family with communicable disease.
 	- The bag and its contents should be well protected from contact with any article in the patient's home. Line the table/flat surface with paper/washable protector on which the bag and all of the articles to be used are placed. Only articles that are necessary should be brought out. If possible, these are cleaned (or wrapped) before being returned to the bag.
@@ -28,3 +38,6 @@ The nursing bag, also called the Public Health Nurse bag, is a traditional tool 
 2. **Bag technique allows the nurse to give care efficiently**, saving time and effort by ensuring articles are available, assorted, and stored in an efficient manner.
 3. **Bag technique should not take away the nurse's focus on the patient and the family**. It is simply a tool in providing care.
 4. **Bag technique may be performed in different ways**. Variation in use is expected, but principles of asepsis are of the essence and should be practiced at all times.
+
+>[!INFO] Bag Placement
+>When simply conducting home visits, the bag is placed on the *lap*. When utilizing the bag technique, however, the bag is placed on a table on top of linings: the plastic lining first, then the paper lining on top of it.

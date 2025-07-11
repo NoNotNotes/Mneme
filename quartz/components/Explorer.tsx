@@ -49,7 +49,26 @@ const defaultOptions: Options = {
       sensitivity: "base",
     })
   },
-  filterFn: (node) => node.slugSegment !== "tags",
+  filterFn: (node) => {
+    // List of folder names to hide unless user is inside
+    const hiddenFolders = ["10", "11"];
+    // Get current path from window.location.pathname (remove leading slash)
+    let currentPath = "";
+    if (typeof window !== "undefined" && window.location && window.location.pathname) {
+      currentPath = window.location.pathname.replace(/^\//, "");
+    }
+    // If user is inside the folder or its subpages, do not hide it
+    if (hiddenFolders.includes(node.slugSegment)) {
+      // If current path starts with the folder name, show it
+      if (currentPath.startsWith(node.slugSegment + "/")) return true;
+      // If user is on the folder root page
+      if (currentPath === node.slugSegment) return true;
+      // Otherwise, hide
+      return false;
+    }
+    // Default: hide tags folder, show others
+    return node.slugSegment !== "tags";
+  },
   order: ["filter", "map", "sort"],
 }
 

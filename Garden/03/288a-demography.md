@@ -70,7 +70,8 @@ $$\text{Sex Ratio}=\frac{\text{\# of Males}}{\text{\# of Females}}\times100$$
 $$\text{Dependency Ratio}=\frac{\text{People aged <14, and >65 years old}}{\text{People aged 15 to 65 years old}}\times 100$$
 
 5. **Age and Sex Composition**: a population pyramid that depicts both age (vertical axis) and sex (horizontal axis). The shape of this pyramid can determine the pattern of population change. A normal pyramid (as illustrated below) shows rapid growth, a thin, almost columnar pyramid shows slow growth, and a top-heavy pyramid shows negative growth.
-![[population_pyramid.png]]
+
+![[population-pyramid.png]]
 
 ___
 

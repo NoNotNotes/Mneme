@@ -35,8 +35,9 @@ ___
 6. **Maternal & Child Health Nursing: Care of the childbearing & childrearing family**, 8th Edition, ISBN 978-1-4963-4813-5, by JoAnne Silbert-Flagg and Adele Pillitteri
 7. **Mosby's Comprehensive Review of Nursing for the NCLEX-RN Examination**, 20th Edition, ISBN 978-0-323-07895-5, by Patricia M. Nugent, Judith S. Green, Mary Ann Hellmer Saul, and Phyllis K. Pelikan.
 8. **Psychiatric-Mental Health Nursing**, 8th Edition, 978-1-975116-37-8, by Sheila L. Videbeck
-9. **Saunders Comprehensive Review for the NCLEX-RN Examination**, 9th Edition, ISBN 978-032-37-9530-2, by Linda Anne Silvestri, Angela E. Silvestri, and Jessica Grimm. *This is technically review material, but it's textbook-level content.*
-10. **Wong's Nursing Care of Infants and Children**, 11th Edition, ISBN 978-0-323-54939-4, by Marilyn J. Hockenberry, David Wilson, and Cheryl C. Rodgers
+9. **Public Health Nursing in the Philippines** "*White Book*", 10th Edition, ISBN 978-971-91593-2-2, by Frances Prescilla L. Cuevas. *My copy was printed in 2007. I'm sure it's quite outdated at this point.*
+10. **Saunders Comprehensive Review for the NCLEX-RN Examination**, 9th Edition, ISBN 978-032-37-9530-2, by Linda Anne Silvestri, Angela E. Silvestri, and Jessica Grimm. *This is technically review material, but it's textbook-level content.*
+11. **Wong's Nursing Care of Infants and Children**, 11th Edition, ISBN 978-0-323-54939-4, by Marilyn J. Hockenberry, David Wilson, and Cheryl C. Rodgers
 ## Review Books
 1. **Comprehensive Nursing Licensure Review Book: Local and International Test Prep**, Volumes 1 and 2, ISBN 978-971-51-3383-8, by Josie Quiambao-Udan
 2. **Dr. RPS Maternal and Newborn Care: A Comprehensive Guide and Source Book for Teaching and Learning**, 2nd Edition, ISBN 978-971-98-2265-3, by Rosalinda Parado Salustiano
@@ -50,10 +51,11 @@ ___
 4. **delos Reyes**
 5. **Jimenez**
 6. **Luansing**
-7. **Notario**
-8. **Tuiza**
-9. **Vasquez** (V)
-10. **Wong**
+7. **MBSMF**
+8. **Notario**
+9. **Tuiza**
+10. **Vasquez** (V)
+11. **Wong**
 
 ___
 

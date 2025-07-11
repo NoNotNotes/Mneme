@@ -23,6 +23,11 @@ ___
 >		- **Basilar skull fracture**: a fracture on the base of the skull. This manifests as *rhinorrhea* and *otorrhea* from CSF leakage, *raccoon eyes* (ecchymosis around the eye), and battle's sign (ecchymosis behind the ear). On a pillow, a "*halo ring*" is formed by a stain of CSF with blood in the center.
 >2. **Open**: a penetrating head injury which may be focal (isolated to one area) or diffuse (widespread).
 
+>[!ERROR] Monro-Kellie Doctrine
+>According to the Monro–Kellie hypothesis, the cranial vault is a closed system, and if one of the three components (brain, blood, cerebrospinal fluid) increases in volume, at least one of the other two must decrease in volume or the pressure will increase.
+>
+>Any bleeding or swelling within the skull increases the volume of contents within the skull and therefore causes increased intracranial pressure (ICP). If the pressure increases enough, it can cause **displacement of the brain through or against the rigid structures of the skull**. This causes **restriction of blood flow to the brain, decreasing oxygen delivery and waste removal**. Cells within the brain become anoxic and cannot metabolize properly, producing ischemia, infarction, irreversible brain damage, and eventually brain death
+
 The damage caused by a traumatic brain injury, i.e. it's **pathophysiology**, begins with the **primary injury**, literally the damage caused by the trauma at the moment of injury. The **secondary injury** is the damage produced after the initial trauma, such as rebound contusions (the brain bounces back onto the contrecoup after hitting the coup), swelling, increased ICP, hypoxia, etc.
 1. **Primary Brain Damage**: due to two main mechanisms (a) contact, e.g. an object striking the head producing fractures or contusions, and (b) change in momentum, i.e. sudden acceleration and deceleration producing shear, tensile, and compressive strains on the brain. These may result in **intracranial hematoma** (most common cause of death in TBI), **diffuse vascular injury**, and **injury to the cranial nerves and pituitary stalk**.
 
@@ -40,9 +45,15 @@ The damage caused by a traumatic brain injury, i.e. it's **pathophysiology**, be
 ___
 
 # Clinical Manifestations
+Symptoms, apart from those of the local injury, depend on the severity and the anatomic location of the underlying brain injury. Persistent, localized pain usually suggests that a fracture is present.
 1. **Cognitive Changes**: change in level of consciousness (loss of consciousness, speech, lethargy, attention deficit, mood disturbances), memory, learning, problem-solving, speed of mental processing, judgment, and decision-making.
 	- Attention deficits, changes in sleep habits, and mood disturbances may be found in children with TBI, along with changes in eating habits and persistent, inconsolable crying.
 2. **Physical Changes**: weakness or numbness in the extremities; persistent, potentially worsening headache, spasticity, physical paralysis, chronic pain, changes in sensorium, loss of stamina, and loss of control of the bowel and bladder.
+
+>[!ERROR] Fractures of the Cranial Vault
+>Fractures of the cranial vault may or may not produce swelling in the region of the fracture.
+>- Fractures of the base of the skull tend to traverse the paranasal sinus of the frontal bone or the middle ear located in the temporal bone. Therefore, they frequently produce **hemorrhage from the nose, pharynx, or ears**, and blood may appear **under the conjunctiva**. An area of ecchymosis (bruising) may be seen over the mastoid (**Battle sign**).
+>- **Basal** skull fractures are suspected when CSF escapes from the ears (**CSF otorrhea**) and the nose (**CSF rhinorrhea**). Drainage of CSF is a serious problem, because **meningeal infection can occur** if organisms gain access to the cranial contents via the nose, ear, or sinus through a tear in the dura.
 
 Categorized into severity of TBI:
 1. **Mild TBI**: loss of consciousness for seconds to minutes, problems with memory or concentration, headache, dizziness/loss of balance, nausea/vomiting, and difficulty sleeping
@@ -56,6 +67,11 @@ Categorized into severity of TBI:
 >![[posturing_decorticate-decerebrate.png]]
 >
 >The progression of a patient from a decorticate posture to a decerebrate posture indicates **worsening** of their condition, as reflected by Glasgow's coma scale.
+
+___
+
+# Assessment and Diagnostic Findings
+**Computed tomography** (CT) scan can be used to diagnose a skull fracture. This may be difficult depending on the site of fracture. Once a diagnosis is made, the patient is assessed for associated brain injury. **Magnetic Resonance Imaging** (MRI) scans provide better resolution and clearer pictures of the injured area.
 
 ___
 
@@ -74,10 +90,11 @@ Other complications include :
 ___
 
 # Medical Management
-**Operative management is not used to correct brain injury**. It is only used to address (a) the need for **ICP monitoring** with a bolt or other device, (b) **bleeding** within the brain; surgical removal or drainage may be necessary, and (c) **removal of skull bone fragments/damaged tissue** and **repair of skull fractures** if present in open head injuries.
+Operative management is not used to *correct* brain injury. It is only used to address (a) the need for **ICP monitoring** with a bolt or other device; (b) **bleeding** within the brain—surgical removal or drainage may be necessary; and (c) **removal of skull bone fragments/damaged tissue** (débridement) and **repair of skull fractures** if present in open or depressed head injuries. This is usually done within 24 hours of injury.
 - **Craniotomy**: removal of tumor, relieve ICP, remove blood clots, or control hemorrhage. This may be (a) supratentorial, (b) infratentorial, or (c) transsphenoidal.
 - Alternative: **craniectomy** and **cranioplasty**
 
+In nondepressed skull fractures, surgical treatment is not necessary, but close observation of the patient is essential. This may be done in the hospital, but if no underlying brain injury is present, the patient may be allowed to return home. The patient and their significant others are given specific instructions for monitoring.
 ## Pharmacologic Management
 
 | Indication                                    | Treatment                                                                                               |

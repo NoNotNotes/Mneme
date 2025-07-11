@@ -4,10 +4,20 @@ title: Peptic Ulcer Disease
 tags:
   - MS
   - Gastrointestinal
-  - NA
 description: A gastric, esophageal, or duodenal ulcer; an open sore on the stomach's lining. This may be caused by pH imbalances, gastric mucosal underproduction, pyloric sphincter dysfunction, H. pylori infection, etc.
 ---
-A **gastric**, **esophageal**, or **duodenal ulcer**; an open sore on the stomach's lining. This break may be caused by:
+**References**:
+1. **Brunner & Suddarth’s Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (Ch. 30, \[ebook] pp. 3443-3460) *not yet adapted*
+2. Course Module
+
+___
+
+A **peptic ulcer** is an excavation (hollowed-out area) that forms in the mucosa of the **stomach**, in the **pylorus** (the opening between the stomach and duodenum), in the **duodenum** (the first portion of the small intestine, between the stomach and the jejunum), or in the **esophagus**.
+- Peptic ulcers are more likely to occur in the duodenum than in the stomach. As a rule, they occur alone but they may occur in multiples.
+- Chronic gastric ulcers tend to occur in the lesser curvature of the stomach, near the pylorus.
+- Esophageal ulcers occur as a result of the backward flow of HCl from the stomach into the esophagus
+
+This break may be caused by:
 - **Mucus and bicarbonate secretion** as a part of pH maintenance
 - **Gastric mucosal prostaglandin** increases resistance to ulceration. Inadequate production results in ulcer formation.
 - Inadequate blood supply

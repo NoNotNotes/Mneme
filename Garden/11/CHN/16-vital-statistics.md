@@ -1,29 +1,36 @@
 ---
 publish: true
-title: "Health Indicators"
+title: Health Indicators
 tags:
   - CHN
   - TB
-description: "Health indicators are statistical data used to determine the overall health status of a population. This invovles vital statistics and morbidity data."
+  - INC
+description: Health indicators are statistical data used to determine the overall health status of a population. This invovles vital statistics and morbidity data.
 todo:
-  - Find reference pages
 ---
 **References**:
-1. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile
+1. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile (pp. 152–162)
+2. Lecturer (MBSMF)
 
 ___
 
-# Vital Statistics
-**Vital statistics** is the *study of the characteristics of human populations*. It comprises a number of important events in human life including birth, death, fetal death, marriage, divorce, annulment, judicial separation, adoption, legitimation, and recognition. Some of these vital statistics are used in identifying health-related concerns and planning for interventions at the community or country level. Their subsequent analysis and interpretation are essential for setting targets and evaluating social and economic plans, including the monitoring of health and population intervention programs, and the measurement of important demographic indicators of levels of living or quality of life, such as expectation of life at birth and the infant mortality rate. The health sectors depends on patterns and causes of mortality and morbidity to identify emerging health threats and possible high risk groups for selecting priority interventions and allocating resources.
-## Individual Records
-The collection of vital statistics is included in the **civil registry system**. Vital statistics is important as a legal document for the person named as well as a document to describe the demographics and health of populations. The most important individual records include birth, death, marriage/divorce. They are also used for program planning, such as in maternal and child health services, child immunization programs, epidemic or outbreak investigations and assessment of causes of accidents and injuries.
-- **Birth record** is a legal document establishing name, parentage, birth date, order of birth, legitimacy, citizenship, nationality, geographic place of birth. Many individual rights and entitlements are dependent on the birth record, such as entry to school, driver's license, passport issuance, tax/insurance benefits, etc.
-- **Death record** is a documentary proof surrounding the death of the person such as time and place of death as well as medical cause of death. Proof of death and the associated facts are usually used for property inheritance rights and right to remarry of surviving spouse.
-- **Marriage and divorce records** are usually needed for social and economic programs, tax privileges for couples, alimony, change of nationality, and right to remarry.
-- **Records on adoption, legitimation and recognition** are used for determining rights of individuals (children, parents, guardians), which may vary from one country to another.
-## Population Records
+**Vital statistics** is the *study of the characteristics of human populations*. It comprises a number of important events in human life including birth, death, fetal death, marriage, divorce, annulment, judicial separation, adoption, legitimation, and recognition.
+
+>[!INFO] In a Nutshell…
+>This discussion is massive and covers each of these indicators, their definitions, their formulas, and interpretations individually. However, each formula actually follows a fairly similar structure ($\frac{N}{D}k$), only changing out the numerator and denominator, and rarely the multiplier. The indicators may be categorized according to the following:
+>1. **Crude Birth Rate and Crude Death Rates**: $\text{Crude Birth or Death Rate}=(\frac{B}{P})k$, where $B$ is the total number of live births or deaths for a given area and time period, $P$ is the total population at the midpoint of the year of the time period, and $k$ is a constant, usually taken as 1000.
+>2. **Maternal, Infant, Neonatal, and Fetal Mortality Rates**: Deaths by live births per 1000.
+>3. **Specific Death Rates**: Deaths in sec. group/Applicable cases per 100,000.
+>4. **Case Fatality Rate**: same as SDR but per 100 (i.e., in percentage)
+>5. **Morbidity**: Cases by population per 100
+>
+>(*i zoned out at this part of the discussion honestly i forgot the shortcuts*)
+
+___
+
+# Population Records
 Vital records of populations serve as key demographic variables in the analysis of **population size, growth and geographic distribution**. Population census can show population size and growth trends, as well as socio-economic concerns such as health, housing, education, family structure, occupation, and income. For example, "*Life expectancy at birth*" is used to compare the overall effects of mortality and its determinants. "*Cause of death*" is also important as it provides the foundation upon which more research is needed.
-### Population Indicators
+## Population Indicators
 Population indicators include population growth indicators (*crude birth rate*, *general fertility rate*, *total fertility rate*, and *annual growth rate*) and other population dynamics (*migration*) that can affect the age-sex structure of the population.
 1. **Crude Birth Rate** (CBR): the absolute rate at which the population grows. It is the most frequently used overall measure of the reproduction of a population. It is termed as "*crude*" because this value counts the total population including men, children, and the elderly who are not capable of giving birth. Like the **Crude Death Rate** (CDR), the CBR is widely used because of its availability of data which go into its computation.
 	- $CBR=(\frac{B}{P})k$, where $B$ is the total number of live births for a given area and time period, $P$ is the total population at the midpoint of the time period, and $k$ is a constant, usually taken as 1000.
@@ -32,14 +39,16 @@ Population indicators include population growth indicators (*crude birth rate*, 
 	- $GFR=(\frac{Br}{Pw})k$, where $Br$ is the number of registered live births in a year, $Pw$ is the midyear population of women 15 to 49 years of age, and $k$ is a constant, usually taken as 1000.
 	- A GFR greater than or equal to 200 live births in 1000 women implies **high fertility**, while a level less than 60 live births in 1000 women implies **low fertility**.
 3. **Population Pyramid**: a graphical representation of the age-sex composition of the population. The shape of the pyramid provides insights into the fertility and mortality patterns of the population as well as the health services likely to be needed based on the age-sex composition of the population.
-	- A normal triangular shape of a population pyramid is characteristic of developing countries whose population has a larger proportion of younger age groups. This implies that more health services are needed for the young populations, such as immunization, nutrition programs, and environmental measures to prevent common childhood illnesses.
+	- A normal triangular shape of a population pyramid (expansive type) is characteristic of developing countries whose population has a larger proportion of younger age groups. This implies that more health services are needed for the young populations, such as immunization, nutrition programs, and environmental measures to prevent common childhood illnesses.
+	- A top-heavy structure is a constrictive type of population pyramid and is indicative of an old and declining structure due to the a higher proportion of dependent, non-productive population. This may result from low birth rates and low death rates.
+	- A stationary pyramid is mostly even throughout the spectrum and shows a stable, minimally-changing population.
 
 ![[population-pyramid.png]]
 
 >[!INFO] Live Birth
 >A live birth is defined as the complete expulsion or extraction from its mother of a product of conception, irrespective of the duration of the pregnancy, which, after such separation, breathes or shows any other evidence of life, such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles, whether or not the umbilical cord has been cut or the placenta is attached.
 
-### Mortality Indicators
+## Mortality Indicators
 Mortality indicators provide important information of the health status of the people in the community. A **mortality rate** is a measure of the frequency of occurrence of death in a defined population during a specified interval.
 1. **Crude Death Rate** (CDR) is the rate with which mortality occurs in a given population. CDR are sensitive to the number of people at the highest risk for dying. A relatively older population will likely produce a higher CDR. It is often expressed as the number of deaths per 1000 persons for a specified place for a given year.
 	- **$CDR=(\frac{D}{P})k$**, where $D$ is the number of deaths in a given area and time period, usually a calendar year, $P$ is size of the population at risk of dying, and $k$ is a constant, usually taken as 1000.

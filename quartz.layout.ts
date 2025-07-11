@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       filterFn: (node) => {
-        return node.data.tags?.includes("QNA") !== true
+        return !["QNA", "RC"].some(tag => node.data.tags?.includes(tag))
       },
     }),
   ],

@@ -445,8 +445,16 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       ...getByField("content"),
       ...getByField("tags"),
     ])
-    const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id))
-    await displayResults(finalResults)
+  // Exclude results whose slug contains any of the excluded folder substrings
+  const excludedFolders: string[] = [
+    "/11/",
+    "/10/",
+  ];
+  const isExcluded = (slug: string) => excludedFolders.some((folder: string) => slug.includes(folder));
+  const finalResults = [...allIds]
+    .map((id) => formatForDisplay(currentSearchTerm, id))
+    .filter((item) => !isExcluded(item.slug));
+  await displayResults(finalResults)
   }
 
   document.addEventListener("keydown", shortcutHandler)

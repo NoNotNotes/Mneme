@@ -155,11 +155,18 @@ Drugs that normalize the re-uptake of serotonin, norepinephrone, dopamine, and a
 - Manic period of those with bipolar disorder
 - Prevention of recurrent episodes of mania and depression
 - Schizo-affective disorder
+
+The most common medication used as an antimanic is **lithium**. Lithium is a salt contained in the human body. 70% to 80% of clients in acute mania respond to lithium therapy. Lithium therapy decreases the range of bipolar behaviors and can also stabilize bipolar disorder by reducing the degree and frequency of cycling or eliminating manic episodes.
+- Lithium **competes for salt receptor sites**, and also affects calcium, potassium, magnesium, and glucose.
+- The mechanism of action of lithium is unknown, but is thought to destroy catecholamines, inhibit neurotransmitter release, and decrease sensitivity of postsynaptic receptors.
+- Lithium's action peaks in 30 minutes to 4 hours or regular forms and in 4 to 6 hours for slow-release forms. It crosses the blood-brain barrier and **placenta** and is distributed in **sweat** and **breast milk**. Lithium use during pregnancy is not recommended because it can lead to first-trimester developmental abnormalities.
+- Onset of action is 5 to 14 days; with this lag period, antipsychotic or antidepressant agents are used carefully in combination with lithium to reduce symptoms in acutely manic or accurately depressed clients. The half-life of lithium is 20 to 27 hours.
 ## Contraindications
 Lithium levels, even at therapeutic ranges (0.6 - 1.2 mEq/L) may result in toxicity. It should be **checked every two to three days during the first month of therapy, then weekly and monthly or more** when stable.
 1. **Hypersensitivity response to Lithium**
 2. **Renal Disease**
 3. **Thyroid Disease**
+4. **Pregnancy**
 ## Side Effects
 1. Common:
 	- **GIT Effects**: nausea, anorexia, diarrhea
@@ -187,7 +194,7 @@ Lithium levels, even at therapeutic ranges (0.6 - 1.2 mEq/L) may result in toxic
 	- Spastic Muscles
 	- Hypotension
 	- Renal Failure
-- **Treatment of Lithium Toxicity**: monitor **lithium levels**, **VS**, **electrolytes**, **BUN and Creatinine** (renal function). Withhold any further doses. Prepare for **hemodialysis** if indicated for severe toxicity.
+- **Treatment of Lithium Toxicity**: monitor **lithium levels**, **VS**, **electrolytes**, **BUN and Creatinine** (renal function). Withhold any further doses. Prepare for **hemodialysis** if indicated for severe toxicity (>3 mEq/L).
 - **Prevention of Lithium Toxicity**:
 	- **Regular appointments for blood studies** should be held. Advise the patient about the signs of and to report for toxicity.
 	- Maintain **adequate fluid and electrolytes** (sodium; 2g/d) intake.

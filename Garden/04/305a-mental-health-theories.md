@@ -14,13 +14,13 @@ ___
 # Biopsychologic and Psychobiologic Interactions
 The state of the body may result in changes in the mind; **body affects mind**, while the state of the mind may result in changes in the body; **mind affects body**.
 
-|Biological State|Resulting Psychological State|
-|---|---|
-|Increased Blood Pressure|Mood Changes, Anxiety, Depression|
-|Severe Pain|Reduced Concentration and Attention, Anxiety|
-|Chronic Illness|Depression, Emotional Instability, Mood Changes, Anxiety, Altered Perception and Cognition|
-|Brain Chemistry Imbalances|Alteration in Thinking, Behavior, Moods, and Cognitive Functions|
-|Endocrine Dysfunction|Lethargy, Mood Changes, Anxiety|
+| Biological State           | Resulting Psychological State                                                              |     |
+| -------------------------- | ------------------------------------------------------------------------------------------ | --- |
+| Increased Blood Pressure   | Mood Changes, Anxiety, Depression                                                          |     |
+| Severe Pain                | Reduced Concentration and Attention, Anxiety                                               |     |
+| Chronic Illness            | Depression, Emotional Instability, Mood Changes, Anxiety, Altered Perception and Cognition |     |
+| Brain Chemistry Imbalances | Alteration in Thinking, Behavior, Moods, and Cognitive Functions                           |     |
+| Endocrine Dysfunction      | Lethargy, Mood Changes, Anxiety                                                            |     |
 
 |Psychological State|Resulting Biological State|
 |---|---|
