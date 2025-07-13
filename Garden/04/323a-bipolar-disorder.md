@@ -28,34 +28,11 @@ ___
 # Onset and Clinical Course
 The first manic episode generally occurs in a person's teens, 20s, or 30s. Currently, debate exists about whether or not some children diagnosed with attention-deficit/hyperactivity disorder actually have a very early onset of bipolar disorder.
 
-**Manic episodes** typically begin with a rapid escalation of symptoms over a few days, and they last from a few weeks to several months. They tend to be briefer and end more suddenly than depressive episodes. Adolescents are more likely to have psychotic manifestations.
-1. The diagnosis of a manic episode or mania requires at least **1 week of unusual and incessantly heightened, grandiose, or agitated mood** in addition to three or more of the following symptoms: exaggerated self-esteem, sleeplessness, pressured speech, flight of ideas, reduced ability to filter extraneous stimuli, distractibility, increased activities with increased energy, and multiple, grandiose, high-risk activities involving poor judgment and severe consequences, such as spending sprees, sex with strangers, and impulsive investments.
+**Manic episodes** typically begin with a rapid escalation of symptoms over a few days, and they last from a few weeks to several months. They tend to be briefer and end more suddenly than depressive episodes. Adolescents are more likely to have psychotic manifestations. The diagnosis of a manic episode or mania requires at least **1 week of unusual and incessantly heightened, grandiose, or agitated mood** in addition to three or more of the following symptoms: exaggerated self-esteem, sleeplessness, pressured speech, flight of ideas, reduced ability to filter extraneous stimuli, distractibility, increased activities with increased energy, and multiple, grandiose, high-risk activities involving poor judgment and severe consequences, such as spending sprees, sex with strangers, and impulsive investments.
 
 Clients often do not understand how their illness affects others. They may stop taking medications because they like the euphoria and feel burdened by the side effects, blood tests, and physicians' visits needed to maintain treatment. Family members are concerns and exhausted by their loved ones' behaviors; they often stay up late at night for fear that the manic person may do something impulsive and dangerous.
 
 ___
-
-# Treatment
-
-## Psychopharmacology
-Treatment for bipolar disorder involves a **lifetime regimen of medications**--an antimanic agent called lithium or anticonvulsant medications used as mood stabilizers.
-1. **Lithium**: Lithium is a salt contained in the human body. 70% to 80% of clients in acute mania respond to lithium therapy. Lithium therapy decreases the range of bipolar behaviors and can also stabilize bipolar disorder by reducing the degree and frequency of cycling or eliminating manic episodes.
-	- Lithium **competes for salt receptor sites**, and also affects calcium, potassium, magnesium, and glucose.
-	- The mechanism of action of lithium is unknown, but is thought to destroy catecholamines, inhibit neurotransmitter release, and decrease sensitivity of postsynaptic receptors.
-	- Lithium's action peaks in 30 minutes to 4 hours or regular forms and in 4 to 6 horus for slow-release forms. It crosses the blood-brain barrier and **placenta** and is distributed in **sweat** and **breast milk**. Lithium use during pregnancy is not recommended because it can lead to first-trimester developmental abnormalities.
-	- Onset of action is 5 to 14 days; with this lag period, antipsychotic or antidepressant agents are used carefully in combination with lithium to reduce symptoms in acutely manic or accurately depressed clients. The half-life of lithium is 20 to 27 hours.
-2. **Anticonvulsant Drugs** are used for the ~25% of people who do not respond to lithium therapy, or difficulty with side effects, drug interactions, or medical conditions (e.g., renal disease) that contraindicate the use of lithium. Several anticonvulsants traditionally used to treat seizure disorders have proved helpful in stabilizing the moods of people with bipolar illness. However, its mechanism of action is largely unknown; it is suspected that these drugs increase the brain's threshold for dealing with stimuli.
-	1. **Carbamazepine** (Tegretol), which has been used for grand mal and temporal lobe epilepsy as well as for trigeminal neuralgia, was the first anticonvulsant found to have mood-stabilizing properties, but the threat of agranulocytosis was of great concern.
-		- Serum drug levels need to be checked regularly for toxicity and therapeutic levels (4 to 12 mcg/mL).
-		- A white blood cell count is also performed regularly to monitor for suppression of white blood cells (agranulocytosis).
-	2. **Valproic acid** (Depakote), also known as divalproex sodium or sodium valproate, is an anticonvulsant used for simple absence and mixed seizures, migraine prophylaxis, and mania. The mechanism of action is unclear.
-		- Therapeutic levels are monitored periodically to remain at 50 to 125 mcg/mL, as are baseline and ongoing liver function tests, including serum ammonia levels and platelet and bleeding times.
-
-| Name                     | Side Effects                                                                                                                                                                                     | Nursing Implications                                                                                                                                              |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Carbamazepine (Tegretol) | Dizziness, hypotension, ataxia, sedation, blurred vision, leukopenia, and rashes                                                                                                                 | Rise slowly from sitting position (hypotension).<br>Monitor gait and assist as necessary (ataxia).<br>Report rashes to physician.                                 |
-| Divalproex (Depakote)    | Ataxia, drowsiness, weakness, fatigue, menstrual changes, dyspepsia, nausea, vomiting, weight gain, and hair loss                                                                                | Monitor gait as necessary (ataxia).<br>Provide rest periods (fatigue).<br>Administer with food (GI upset).<br>Establish balanced nutrition (nausea and vomiting). |
-| Gabapentin (Neurontin)   | Dizziness, hypotension, ataxia, coordination, sedation, headache, fatigue, nystagmus, nausea, and vomiting.                                                                                      | Assist client in rise slowly from sitting position.<br>Provide rest periods.<br>Administer with food.                                                             |
 
 # Psychodynamics
 Bipolar disorder **masks depression** through episodes of **mania**.
@@ -68,9 +45,10 @@ ___
 # Clinical Manifestations
 
 >[!EXAMPLE] Types of Bipolar Disorder
->1. **Bipolar Type I**: **mania** with at least one depressive episode.
->2. **Bipolar Type II**: **recurrent depressive episodes** with at least one *hypomanic* episode. A hypomanic episode is a period of abnormally and persistently elevated, expansive, or irritable mood lasting 4 days; does not impair the ability to function and does not involve psychotic features
+>1. **Bipolar Type I**: **mania** with at least one depressive episode. The severity of mania may result in hospitalization, psychotic features (hallucinations and delusions), impair functioning, and expose the client to risky behavior or legal issues.
+>2. **Bipolar Type II**: **recurrent depressive episodes** with at least one *hypomanic* episode. A hypomanic episode is a period of abnormally and persistently elevated, expansive, or irritable mood lasting 4 days. It does not impair the ability to function and does not involve psychotic features.
 >3. **Bipolar Mixed**: cycling between periods of mania, normal behavior, depression, normal behavior, mania, and so forth.
+>4. **Cyclothymic disorder** is a separate diagnosis made for chronic mood swings that do not qualify for a diagnosis of bipolar disorder. While not as severe, mood swings are chronic and persistent.
 >
 >![[bipolar-disorder-types.png]]
 
@@ -101,19 +79,36 @@ Manic patients also engage in other criminal activities such as impulsive buying
 ___
 
 # Medical Management
-The primary drug class used for bipolar disorder is **mood stabilizers**. The most common mood stabilizer used for bipolar disorder is **Lithium**. Brand names of lithium preparations often include "lith" in the name as a prefix or suffix (e.g., Carbolith, Duralith, Eskalith, Lithotab, Lithane).
-1. Prior to administering **lithium**, the nurse must first:
-	- Perform **renal function tests** (BUN, Crea.) as lithium is primarily excreted in the urine, and can be nephrotoxic.
-	- Perform **serum lithium level measurements**. A therapeutic level is 0.5 to 1.5 mEq/L, a maintenance level is 0.6 to 1.2 mEq/L, a toxic level is 2 mEq/L, and a lethal level is 3 mEq/L.
-2. During lithium therapy, **increase fluid intake**
-3. **Tremors** are an expected side effect, normally manifesting as fine tremors. It may become an early sign of toxicity when tremors become increasingly course.
-4. Lithium is **tastes metallic**. Inform the client that this is normal.
-5. **Hold strenuous activities** because sweating both decreases fluid and sodium loss, both of which can contribute to lithium toxicity.
-6. **Increased *"Uu"***: diarrhea, polyuria, and vomiting.
-7. **Mannitol** is given for lithium toxicity to reverse the toxic effects by promoting diuresis of lithium. In extreme cases of lithium toxicity, **dialysis** is required.
+Treatment for bipolar disorder involves a **lifetime regimen of medications**—an antimanic agent called lithium or anticonvulsant medications used as mood stabilizers.
 
->[!DRUG] If contraindicated,
->**Depakote** (Valproic acid) is given to patients who cannot take lithium, such as pregnant patients (teratogenicity), patients with cardiovascular and renal impairment (nephrotoxicity), low sodium (sodium-wasting effect).
+**Lithium** is a salt contained in the human body. 70% to 80% of clients in acute mania respond to lithium therapy. Lithium therapy decreases the range of bipolar behaviors and can also stabilize bipolar disorder by reducing the degree and frequency of cycling or eliminating manic episodes. Brand names of lithium preparations often include "*lith*" in the name as a prefix or suffix (e.g., Carbolith, Duralith, Eskalith, Lithotab, Lithane). The mechanism of action of lithium is unknown, but is thought to destroy catecholamines, inhibit neurotransmitter release, and decrease sensitivity of postsynaptic receptors.
+- Lithium **competes for salt receptor sites**, and also affects calcium, potassium, magnesium, and glucose.
+- Lithium's action peaks in 30 minutes to 4 hours or regular forms and in 4 to 6 hours for slow-release forms. It crosses the blood-brain barrier and **placenta** and is distributed in **sweat** and **breast milk**. Lithium use during pregnancy is not recommended because it can lead to first-trimester developmental abnormalities.
+- Onset of action is 5 to 14 days; with this lag period, antipsychotic or antidepressant agents are used carefully in combination with lithium to reduce symptoms in acutely manic or accurately depressed clients. The half-life of lithium is 20 to 27 hours.
+
+>[!DRUG] Pharmacologic Considerations
+>1. Prior to administering **lithium**, the nurse must first:
+>		- Perform **renal function tests** (BUN, Crea.) as lithium is primarily excreted in the urine, and can be nephrotoxic.
+>		- Perform **serum lithium level measurements**. A therapeutic level is 0.5 to 1.5 mEq/L, a maintenance level is 0.6 to 1.2 mEq/L, a toxic level is 2 mEq/L, and a lethal level is 3 mEq/L.
+>2. During lithium therapy, **increase fluid intake**
+>3. **Tremors** are an expected side effect, normally manifesting as fine tremors. It may become an early sign of toxicity when tremors become increasingly course.
+>4. Lithium is **tastes metallic**. Inform the client that this is normal.
+>5. **Hold strenuous activities** because sweating both decreases fluid and sodium loss, both of which can contribute to lithium toxicity.
+>6. **Increased *"Uu"***: diarrhea, polyuria, and vomiting.
+>7. **Mannitol** is given for lithium toxicity to reverse the toxic effects by promoting diuresis of lithium. In extreme cases of lithium toxicity, **dialysis** is required.
+
+**Anticonvulsant drugs** are used for the ~25% of people who do not respond to lithium therapy, or difficulty with side effects, drug interactions, or medical conditions (e.g., renal disease) that contraindicate the use of lithium. Several anticonvulsants traditionally used to treat seizure disorders have proved helpful in stabilizing the moods of people with bipolar illness. However, its mechanism of action is largely unknown; it is suspected that these drugs increase the brain's threshold for dealing with stimuli.
+1. **Carbamazepine** (Tegretol), which has been used for grand mal and temporal lobe epilepsy as well as for trigeminal neuralgia, was the first anticonvulsant found to have mood-stabilizing properties, but the threat of agranulocytosis was of great concern.
+	- Serum drug levels need to be checked regularly for toxicity and therapeutic levels (4 to 12 mcg/mL).
+	- A white blood cell count is also performed regularly to monitor for suppression of white blood cells (agranulocytosis).
+2. **Valproic acid** (Depakote), also known as divalproex sodium or sodium valproate, is an anticonvulsant used for simple absence and mixed seizures, migraine prophylaxis, and mania. The mechanism of action is unclear.
+	- Therapeutic levels are monitored periodically to remain at 50 to 125 mcg/mL, as are baseline and ongoing liver function tests, including serum ammonia levels and platelet and bleeding times.
+
+| Name                     | Side Effects                                                                                                                                                                                     | Nursing Implications                                                                                                                                              |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Carbamazepine (Tegretol) | Dizziness, hypotension, ataxia, sedation, blurred vision, leukopenia, and rashes                                                                                                                 | Rise slowly from sitting position (hypotension).<br>Monitor gait and assist as necessary (ataxia).<br>Report rashes to physician.                                 |
+| Divalproex (Depakote)    | Ataxia, drowsiness, weakness, fatigue, menstrual changes, dyspepsia, nausea, vomiting, weight gain, and hair loss                                                                                | Monitor gait as necessary (ataxia).<br>Provide rest periods (fatigue).<br>Administer with food (GI upset).<br>Establish balanced nutrition (nausea and vomiting). |
+| Gabapentin (Neurontin)   | Dizziness, hypotension, ataxia, coordination, sedation, headache, fatigue, nystagmus, nausea, and vomiting.                                                                                      | Assist client in rise slowly from sitting position.<br>Provide rest periods.<br>Administer with food.                                                             |
 
 ___
 
@@ -123,6 +118,24 @@ ___
 2. **Energy-rich food** that can also be eaten
 3. **Activities** are normally solitary due to their disruptive and competitive nature. This includes journal writing, swimming, shadow boxing, and other outlets of motor agitation and restlessness such as fidget toys, Rubik's cubes, etc.
 4. **Lessen stimulation**. This reduces reinforcements of the client's manic state.
+
+>[!EXAMPLE] Nursing Diagnoses
+>1. **Risk for Injury** related to impulsive behavior and aggression during manic episodes.
+>2. **Ineffective Coping** related to difficulty managing mood swings and emotional regulation.
+>3. **Risk for Imbalanced Nutrition: Less Than Body Requirements** related to decreased appetite during depressive episodes.
+>4. **Disturbed Sleep Pattern** related to sleep disturbances during both manic and depressive phases.
+
+The nurse manages common side effects of lithium therapy and prevents complications by counteracting their effects on body fluid and electrolyte balance and detecting toxicity.
+
+| Effect               | Nursing Intervention                                                                                                                                                                                                                           |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nephrotoxicity**   | Lithium is primarily excreted through the kidneys. It can accumulate in kidney cells and interfere with water reabsorption. Kidney function tests (e.g., serum creatinine, blood urea nitrogen) are important to monitor renal function.       |
+| **Polyuria**         | The presence of lithium in the kidneys draws in more fluid from the body and inhibits water reabsorption, resulting in polyuria. This may contribute to dehydration.                                                                           |
+| **Hand tremors**     | Evaluate for tremors, and differentiate it from other potential causes of tremors. The physician may alter the dosage if tremors affect functioning. Coarse tremors may also be a sign of lithium toxicity.                                    |
+| **Diarrhea**         | Gastrointestinal side effects like diarrhea occur with lithium therapy.                                                                                                                                                                        |
+| **Dry mouth**        | Lithium alters the concentration of fluids, leading to excessive urination and thirst, which produces dry mouth and dehydration.                                                                                                               |
+| **Sodium imbalance** | Because lithium is a salt, it displaces sodium in the body. The client becomes for susceptible to electrolyte imbalances. Dehydration associated with lithium therapy (polyuria, diarrhea) can also result in hemoconcentration hypernatremia. |
+| **Sweating**         | Sweating, especially for prolonged periods of time (e.g., during a marathon) can deplete body fluids and rapidly result in toxicity.                                                                                                           |
 
 (*copied verbatim from Videbeck*)
 

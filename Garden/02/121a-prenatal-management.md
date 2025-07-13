@@ -87,7 +87,7 @@ ___
 - **Pelvimetry**: done in the third trimester to determine potential cephalopelvic disproportion (CPD)
 - **Extremities**: leg cramps, varicosities, pedal edema (discomforts), and **Homan's sign** (calf pain upon dorsiflexion), a danger sign of pregnancy.
 
->[!column]
+>[!TIP] Leopold's Maneuver
 >**Leopold's Maneuver** is a systematic abdominal palpation to estimate fetal size, locate fetal back and parts, and determine fetal position and presentation.
 >1. **Explain** the procedure and its purpose.
 >2. **Position**: dorsal recumbent with knees slightly flexed to relax the abdominal muscles.

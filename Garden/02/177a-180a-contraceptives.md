@@ -1,13 +1,13 @@
 ---
 publish: true
-title: "Contraception"
+title: Family Planning
 tags:
   - MCN
   - OB
   - L1
-description: "Contraception is the use of various methods (natural, mechanical, hormonal, surgical) in order to prevent conception."
+description: Contraception is the use of various methods (natural, mechanical, hormonal, surgical) in order to prevent conception.
 todo:
-  - "Update with Dr. RPS textbook and CHN guidelines"
+  - Update with Dr. RPS textbook and CHN guidelines
 ---
 **References**:
 1. Lecturer (V)

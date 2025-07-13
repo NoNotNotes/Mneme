@@ -8,7 +8,12 @@ tags:
 description: "Two external and three internal parts of fetal circulation that allows the fetus to oxygenate in-utero. These are the placenta, umbilical cord, ductus arteriosus, ductus venosus, and the foramen ovale."
 ---
 **Reference**:
-1. Lecturer (V, delos Reyes)
+1. **Dr. RPS Maternal and Newborn Care: A Comprehensive Guide and Source Book for Teaching and Learning**, 2nd Edition, ISBN 9789719822653, by Rosalinda Parado Salustiano (Ch. 4, 64–79)
+2. Lecturer (V, delos Reyes)
+
+>[!CITE] Also Read
+>- [[113a-fertilization-and-mitosis]]
+>- [[114a-fetal-structures]]
 
 ___
 
@@ -38,7 +43,7 @@ There are two external and three internal parts of fetal circulation that allows
 ![[cardiovascular-system_fetal-circulation.png]]
 
 >[!TIP] Tip!
->Memorize the normal pathway of blood through the body and the heart. Visualization of how blood moves across each chamber and major vessel in each defect is very important in understanding the nature of the congenital heart defects:
+>Memorize the normal pathway of blood through the body and the heart. Visualization of how blood moves across each chamber and major vessel is very important in understanding the nature of [[208-216a-chd|congenital heart defects]]:
 >1. IVC, SVC, and Coronary Vessels deposit blood into the Right Atrium
 >2. Right Atrium, Tricuspid Valve, Right Ventricle
 >3. Right Ventricle, Pulmonary Valve, Pulmonary Artery, Lungs

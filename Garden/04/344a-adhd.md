@@ -12,7 +12,7 @@ description: ADHD is a neurodevelopmental type mental disorder characterized by 
 ___
 
 **ADHD** is a neurodevelopmental type mental disorder characterized by difficulty in paying attention, excessive activity, and acting without regards to consequences, which are otherwise not appropriate for a person's age i.e. **hyperactivity, inattentiveness, distractibility and impulsivity**. This condition is often identified and diagnosed at the beginning of preschool. Diagnosis is differentiated from other potentially similar disorders such as bipolar disorder or behaviorally acting out through its consistency across almost all times (behavior is displayed every day) and situations.
-- **Incidence**: more common among boys
+- **Incidence**: more common among boys, starting before the age of 12 years and with symptoms that persist for longer than 6 months.
 - **Risk Factors**: poor familial socioeconomic status, harmony, treatment (neglect, abuse), or parental deprivation; low birth weight; family history of ADHD
 - **Symptoms** (mn. ADHD)
 	- **Academic Performance** is poor
@@ -53,8 +53,8 @@ ___
 ___
 
 # Nursing Interventions
-1. **==Ensure safety==** for the client and others: stop unsafe behaviors, provide supervision, and give clear instructions about acceptable and unacceptable behavior.
-2. **==Improve role performance==**: Allow the client to accomplish tasks easier.
+1. **Ensure safety** for the client and others: stop unsafe behaviors, provide supervision, and give clear instructions about acceptable and unacceptable behavior.
+2. **Improve role performance**: Allow the client to accomplish tasks easier.
 	- **Modifying the environment**: Identify and restrict stimuli that may aggravate the client. Interact with a one-to-one basis, and gradually increasing environmental stimuli may be implemented.
 	- **Gaining the child's full attention**: call the client's name, establish eye contact, and allow the client to repeat given instructions.
 	- **Simplifying instructions** and **breaking complex tasks down into simpler tasks**. **State expectations** for the task completion, and initially assist the client in the tasks. **Gradually decrease assistance** to prompting or reminding the client on performing tasks. Additionally, **asking the client sequencing questions** ("*what happens next?*") can help with logical thought and decrease tangentiality. **Reminders may also then be gradually decreased**.

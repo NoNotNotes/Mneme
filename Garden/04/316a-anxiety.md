@@ -17,8 +17,7 @@ ___
 2. **Behavioral Factors**: exposure to early negative life circumstances and learned responses to frustration.
 3. **Psychoanalytic Factor**: anxiety is produced by conflicts between the id and the superego.
 
-Anxiety causes uncomfortable cognitive, psychomotor, and physiological responses, such as difficulty with logical thought, increasingly agitated motor activity, and elevated vital signs. Anxiety can be categorized into four types based on the presenting behaviors and the level of distress experienced by the individual. Hildegard Peplau outlined four types of anxiety: **mild**, **moderate**, **severe**, and **panic**.
-
+Anxiety causes uncomfortable cognitive, psychomotor, and physiological responses, such as difficulty with logical thought, increasingly agitated motor activity, and elevated vital signs. Anxiety can be categorized into four types based on the presenting behaviors and the level of distress experienced by the individual. Hildegard Peplau outlined four levels of anxiety: **mild**, **moderate**, **severe**, and **panic**.
 1. **Mild anxiety** is a sensation that something is different and warrants special attention. Sensory stimulation increases and helps the person focus attention to learn, solve problems, think, act, feel, and protect him or herself. Mild anxiety often motivates people to make changes or engage in goal-directed activity. For example, it helps students focus on studying for an examination.
 	- Mild anxiety is an asset to the client and requires no direct intervention. People with mild anxiety can learn and solve problems and are even eager for information. Teaching can be effective when the client is mildly anxious.
 2. **Moderate anxiety** is the disturbing feeling that something is definitely wrong; the person becomes nervous or agitated. In moderate anxiety, the person can still process information, solve problems, and learn new things with assistance from others. He or she has difficulty concentrating independently but can be redirected to the topic. For example, the nurse might be giving preoperative instructions to a client who is anxious about the upcoming surgical procedure. As the nurse is teaching, the client’s attention wanders, but the nurse can regain the client’s attention and direct him or her back to the task at hand.
@@ -34,6 +33,19 @@ Anxiety causes uncomfortable cognitive, psychomotor, and physiological responses
 | **Moderate** | Narrowed     | Distracted, Pacing                                                                                    | Palliative             | Refocus (grounding techniques), Supervision, KISS | PO Anxiolytic      |
 | **Severe**   | Distorted    | Impaired thinking, Confusion, Disorientation                                                          | Excessive, Maladaptive | Relaxation, Less Stimuli, Presence, Listening     | IM Anxiolytic      |
 | **Panic**    | Disorganized | Immobilization, Mute/Hysterical, Irrational, Overwhelmed (Suicidal), Potential Hallucination/Delusion | Dysfunctional          | Safety, Less Stimuli, Presence (judicious touch)  | N/A                |
+
+___
+
+# Anxiety Medications
+**Gamma aminobutyric acid** (GABA) is a neurotransmitter that reduces the activity of nerve cells in the brain, promoting relaxation and reducing anxiety. A deficiency in GABA is associated with anxiety. Benzodiazepines enhance GABA's inhibitory effects by binding to specific receptors, which results in a calming and sedative effect.
+1. **Benzodiazepines:** Valium (diazepam) and Librium (chlordiazepoxide) are examples of benzodiazepines used to treat anxiety disorders. Other commonly prescribed benzodiazepines include Xanax (alprazolam), Ativan (lorazepam), and Klonopin (clonazepam).
+2. **Side Effects:** drowsiness, dizziness, impaired coordination, memory problems, and a risk of dependency and addiction when used for an extended period.
+3. **Alcohol and caffeine** can interact with these medications and increase their sedative effects, leading to dangerous drowsiness and impairment.
+4. **Signs of Withdrawal**: Prolonged use of benzodiazepines can lead to physical dependence, and abrupt discontinuation can result in withdrawal symptoms (e.g., anxiety, insomnia, irritability, tremors, sweating, seizures). It's crucial to **taper off** benzodiazepines under the supervision of a healthcare provider to minimize these withdrawal symptoms.
+5. **Treatment for Withdrawal**: If someone is experiencing benzodiazepine withdrawal, they should seek medical help immediately. Treatment may involve gradually reducing the dosage (tapering) to minimize withdrawal symptoms. In severe cases, healthcare providers may prescribe medications like diazepam or phenobarbital to manage withdrawal symptoms and prevent seizures.
+
+>[!WARNING] Seizures
+>Seizures are the target of prevention for patients with withdrawal from benzodiazepines. The nurse helps with tapering medication, maintaining fluid and electrolyte balance, reducing stimuli and seizure triggers, and instituting an emergency plan in the even of a seizure.
 
 ___
 

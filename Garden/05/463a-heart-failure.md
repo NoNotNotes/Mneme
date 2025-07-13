@@ -4,9 +4,14 @@ title: Heart Failure
 tags:
   - MS
   - Cardiovascular
-  - NA
+  - L2
 description: Heart failure is the loss of pumping ability of the heart. It may be categorized as Left-Sided or Right-Sided Heart Failure (LSHF, RSHF).
 ---
+**References**:
+1. Course Module
+
+___
+
 Heart failure is the loss of pumping ability of the heart. It may be categorized as Left-Sided or Right-Sided Heart Failure (LSHF, RSHF). There are many causes, but in terms of physiological changes:
 - Preload is greatly reduced (e.g. hypovolemia)
 - Preload is greatly increased (e.g. hypervolemia, pancytopenia)

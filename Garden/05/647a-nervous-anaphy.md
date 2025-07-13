@@ -62,12 +62,45 @@ ___
 ___
 
 # Neuron
-1. Dendrite
-2. Soma
-3. Nucleus
-4. Axon
-	- Myelin sheath
-	- Schwann cell
-	- Myelin
-	- Node of Ranvier
-5. Axon Terminal
+The neuron is the basic structural and functional unit of the nervous system, specialized for the transmission of electrical and chemical signals.
+
+![[anaphy_neuron.png]]
+
+*Taken from Principles of Anatomy and Physiology (14th Ed.) by Tortora.*
+
+1. **Dendrite**
+	- **Function:** Receives incoming signals from other neurons and transmits them toward the soma.
+	- **Structure:** Branch-like extensions from the soma; often covered in synapses.
+	- **Role:** Increases the surface area for communication with other neurons.
+2. **Soma** (Cell Body)
+	- **Function:** Integrates incoming signals from dendrites and generates outgoing signals to the axon.
+	- **Structure:** Contains the nucleus and most organelles (e.g., mitochondria, ER).
+	- **Role:** Metabolic center of the neuron; supports cell maintenance and neurotransmitter synthesis.
+3. **Nucleus**
+	- **Function:** Contains the neuron's DNA and regulates gene expression.
+	- **Structure:** Membrane-bound organelle within the soma.
+	- **Role:** Directs the production of proteins essential for neuronal function and repair.
+4. **Axon**
+	- **Function:** Conducts electrical impulses (action potentials) away from the soma to the axon terminal.
+	- **Structure:** A long, thin projection that may be wrapped in myelin.
+	- **Role:** Primary transmission line of the neuron.
+	1. **Myelin Sheath**
+		- **Function:** Insulates the axon to increase the speed of impulse conduction.
+		- **Structure:** A layered, fatty covering around segments of the axon.
+		- **Role:** Enables **saltatory conduction**, where impulses jump between nodes, speeding up transmission.
+	2. **Schwann Cell**
+		- **Function:** Produces the myelin sheath in the **peripheral nervous system (PNS)**.
+		- **Structure:** Type of glial cell that wraps around a segment of the axon.
+		- **Role:** Supports axon regeneration and insulation.
+	3. **Myelin**
+		- **Function:** Fatty substance making up the myelin sheath.
+		- **Structure:** Composed of lipids and proteins.
+		- **Role:** Prevents electrical signal loss and enhances conduction efficiency.
+	4. **Node of Ranvier**
+		- **Function:** Gaps between myelinated segments of the axon.
+		- **Structure:** Exposed sections of axon between Schwann cells.
+		- **Role:** Site of ion exchange; allows action potentials to "jump" from node to node (saltatory conduction).
+5. **Axon Terminal** (Synaptic Terminal / Terminal Bouton)
+	- **Function:** Releases neurotransmitters into the synaptic cleft to communicate with the next cell.
+	- **Structure:** Bulb-like endings of the axon.
+	- **Role:** Converts the electrical impulse into a chemical signal to stimulate adjacent neurons, muscle cells, or glands.

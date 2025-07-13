@@ -1,11 +1,12 @@
 ---
 publish: true
-title: "Onset and Effects of Labor"
+title: Onset and Effects of Labor
 tags:
   - MCN
   - OB
-  - L2
-description: "Labor is the onset of rhythmic uterine contractions that work to end in the delivery of the products of conception."
+  - TB
+  - INC
+description: Labor is the onset of rhythmic uterine contractions that work to end in the delivery of the products of conception.
 ---
 **References**:
  1. **Dr. RPS Maternal and Newborn Care: A Comprehensive Guide and Source Book for Teaching and Learning**, 2nd Edition, ISBN 978-971-98-2265-3, by Rosalinda Parado Salustiano (pp. 222-261)
@@ -57,7 +58,11 @@ ___
 ___
 
 # Components of Labor
-
+A successful labor depends on four integrated concepts, often referred to as the four Ps:
+1. The passage (a woman’s pelvis) is of adequate size and contour.
+2. The passenger (the fetus) is of appropriate size and in an advantageous position and presentation.
+3. The powers of labor (uterine factors) are adequate.
+4. The psyche, or a woman’s psychological state which may either encourage or inhibit labor. This can be based on her past life experiences as well as her present psychological state.
 ## Power
 1. **Uterine Contractions**: the primary power of labor. An involuntary, rhythmical, regular activity of uterine musculature. It occurs intermittently by allowing for a period of uterine relaxation between contractions; uterine and maternal rest and restoration of uteroplacental circulation; sustained fetal oxygenation. This propels the presenting part downward or forward, and aids in progressing dilatation and effacement.
 	- Contractions increase maternal BP due to increased peripheral arteriole pressure. Measurement of BP should be between contractions to gain accurate results.
@@ -80,17 +85,24 @@ ___
 2. **Secondary Powers**: **maternal bearing down**/**pushing**. Only done on full dilation (10 cm), and a fetal station of +1 (able to stimulate the Ferguson reflex, which is triggered by pressure on the pelvic floor).
 	- Bearing down should not be done prior to full dilation due to the risk of lacerations.
 	- Teach the mother to take a deep breath as soon as the next contraction begins, and then, with breath held, exert a downward pressure exactly as though she were straining at the stool. She should not hold her breath for longer than six seconds, during pushing. Involuntary pushing, grunting, groaning, exhaling, or breath-holding for less than seconds is supported. She should push four or more pushes per contraction.
-
-___
-
 ## Passenger
+The passenger is the fetus. The body part of the fetus that has the widest diameter is the head, so this is the part least likely to be able to pass through the pelvic ring. Whether a fetal skull can pass depends on both its structure (bones, fontanelles, and suture lines) and its alignment with the pelvis.
+1. The **fetal skull** is composed of eight bones: the superior bones—frontal, two parietal, and occipital—and the inferior bones (sphenoid, ethmoid, temporal). The inferior bones are never the presenting part, so are not as important.
 
-___
+inc p. 747
 
-## Passageway
-Divided between the **soft passages**: cervix, vagina, and perineum (potentially lacerated) and **bony passages**: the **pelvis**. Problems of the bony pelvis that can influence the progress of labor include heredity, a contracted pelvis due to avitaminosis D or rickets in childhood, infection, accidents, and cephalo-pelvic disproportion (CPD), the leading cause of primary cesarean section.
+## Passage
+The passage refers to the route a fetus must travel from the uterus through the cervix and vagina to the external perineum.
 
-___
+Divided between the **soft passages**—cervix, vagina, and perineum (potentially lacerated)—and **bony passages**—the **pelvis**. Problems of the bony pelvis that can influence the progress of labor include heredity, a contracted pelvis due to avitaminosis D or rickets in childhood, infection, accidents, and cephalo-pelvic disproportion (CPD), the leading cause of primary cesarean section.
+
+![[pelvic-parameters.png]]
+
+| Cavity | AP Diameter | Transverse | Oblique |
+| ------ | ----------- | ---------- | ------- |
+| Inlet  | 11 cm       | 13 cm      | 12 cm   |
+| Cavity | 12 cm       | 12 cm      | 12 cm   |
+| Outlet | 13 cm       | 11 cm      | 12 cm   |
 
 ## Psyche
 A pregnant woman's general behavior and influences on her also affect labor progress. Some factors that make labor meaningful, positive or negative, even:
@@ -113,7 +125,3 @@ Other factors include:
 1. **Childbirth preparation process** (classes): considered a valuable tranquilizer during the birth process; could decrease the need for analgesics in labor.
 2. **Support system**: the husband's (or **companion of choice**) presence in the labor and delivery unit, the nurse's supportive and caring environment, and therapeutic communication all contribute to the support a mother receives during labor and delivery.
 3. **Previous experiences**
-
-___
-
-## Placenta

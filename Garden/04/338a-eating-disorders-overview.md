@@ -3,11 +3,13 @@ publish: true
 title: Eating Disorders
 tags:
   - PSYCH
-  - L2
+  - TB
 description: Eating Disorders are disorders characterized by alterations in eating patterns and disturbances in body image that interferes with relationships and occupational functioning.
 ---
 **References**:
-1. Course Module
+1. **Psychiatric-Mental Health Nursing**, 8th Edition, 978-1-975116-37-8, by Sheila L. Videbeck
+2. Course Module
+3. Lecturer
 
 ___
 

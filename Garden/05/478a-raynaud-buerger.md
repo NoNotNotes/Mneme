@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Raynaud's and Buerger's Disease
+title: Peripheral Arterial Occlusive Diseases
 tags:
   - MS
   - Cardiovascular
