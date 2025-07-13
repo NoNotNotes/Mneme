@@ -13,7 +13,7 @@ ___
 # Stats
 Here's some statistics, just because! I've always appreciated tallies and scores like these, which is why I'm organizing this data. This is not a competition—these numbers don't dictate the quality or efficiency of lectures for each of these review centers. I appreciate them all the same.
 
-| Statistic           | Values                                                                                                                                                                                |
+| Statistic           | Datapoints                                                                                                                                                                            |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Review vs. Rest** | I've studied for `13` days and rested for `3` days (since `June 28`)<br><br>I've attended SLRC for `10` days.<br>I've attended PENTA for `3` days.<br>I've attended PPRE for `1` day. |
 | **Time Outside**    | A total of `162:45:00` at an average of `11:37:30` over `16 days`                                                                                                                     |
