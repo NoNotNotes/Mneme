@@ -86,6 +86,7 @@ ___
 	- Rationalized 108 items: OB
 
 Time out: 11:30–18:30 (07:00)
+
 Time slept: (pending)
 
 **Remarks**:
@@ -112,6 +113,7 @@ ___
 		11. [[182-183a-essential-newborn-care|Essential Intrapartal Newborn Care]]
 
 Time out: 11:00–21:00 (10:00)
+
 Time slept: 22:00–07:00 (09:00)
 
 **Remarks**:
@@ -127,6 +129,7 @@ Rested
 	- Answered 475 items: PERIOP, ONCO, FEDN, PALMER
 
 Time out: None
+
 Time slept: 04:00–09:00 (05:00)
 
 Remarks:
@@ -150,6 +153,7 @@ ___
 		10. [[18-nesss|National Epidemiology Sentinel Surveillance System]]
 
 Time out: 05:30–20:30 (15:30)
+
 Time slept: 22:00–10:00 (12:00)
 
 ___
@@ -167,6 +171,7 @@ ___
 		1. Anatomy and Physiology (List of topics pending)
 
 Time out: 05:30–20:45 (15:15)
+
 Time slept: 22:00–05:00 (07:00)
 
 ___
@@ -184,6 +189,7 @@ Rested
 		1. Anatomy and Physiology (List of topics pending)
 
 Time out: None
+
 Time slept: 21:00–02:30 (05:30)
 
 ___
@@ -211,6 +217,7 @@ ___
 		10. [[459a-rheumatic-endocarditis|Rheumatic Endocarditis]]
 
 Time out: 06:30–20:30 (14:00)
+
 Time slept: 01:00–11:00 (10:00)
 
 **Remarks**:
@@ -226,6 +233,7 @@ ___
 		1. Psychiatric Nursing (Missed)
 
 Time out: 06:00–21:30 (15:30)
+
 Time slept: 23:00–05:30 (06:30)
 
 **Remarks**:
@@ -253,6 +261,7 @@ ___
 		1. Psychiatric Nursing (List of topics pending)
 
 Time out: 09:00–19:30 (10:30)
+
 Time slept: 23:00–05:00 (06:00)
 
 ___
@@ -275,6 +284,7 @@ ___
 		- Musculoskeletal System (List of topics pending)
 
 Time out: 06:00–19:30 (13:30)
+
 Time slept: 20:30–09:00 (12:30)
 
 ___
@@ -287,6 +297,7 @@ Rested
 		1. PALMER (List of topics pending)
 
 Time out: 13:30–14:30 (01:00)
+
 Time slept: None
 
 **Remarks**:
@@ -302,6 +313,7 @@ ___
 		1. PALMER (List of topics pending)
 
 Time out: 06:00–21:00 (15:00)
+
 Time slept: 21:00–13:00 (16:00)
 
 ___
@@ -314,6 +326,7 @@ ___
 		1. PALMER (List of topics pending)
 
 Time out: 06:00–18:00 (12:00)
+
 Time slept: 22:00–04:30 (06:30)
 
 ___
@@ -326,6 +339,7 @@ ___
 		1. Oncologic Nursing (List of topics pending)
 
 Time out: 06:00–19:00 (13:00)
+
 Time slept: 21:00–01:30 (04:30)
 
 ___
@@ -338,6 +352,7 @@ ___
 		1. Emergency Nursing (List of topics pending)
 
 Time out: 06:00–17:00 (11:00)
+
 Time slept: 10:00–04:00 (06:00)
 
 ___
@@ -350,6 +365,7 @@ ___
 	- Perioperative Nursing (List of topics pending)
 
 Time out: 06:00–15:30 (09:30)
+
 Time slept: 01:00–05:30 (04:30)
 
 ___
