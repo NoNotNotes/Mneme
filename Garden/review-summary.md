@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Review Schedule
+title: Review Schedule Summary
 tags: 
 image: og-image.png
 ---
