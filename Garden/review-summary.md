@@ -15,10 +15,10 @@ Here's some statistics, just because! I've always appreciated tallies and scores
 
 | Statistic           | Datapoints                                                                                                                                                                            |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Review vs. Rest** | I've studied for `13` days and rested for `3` days (since `June 28`)<br><br>I've attended SLRC for `10` days.<br>I've attended PENTA for `3` days.<br>I've attended PPRE for `1` day. |
-| **Time Outside**    | A total of `162:45:00` at an average of `11:37:30` over `16 days`                                                                                                                     |
-| **Time Slept**      | A total of `111:00:00` at an average of `7:55:43` over `15 days`                                                                                                                      |
-| **Topics Reviewed** | SLRC has covered `47` topics.<br>PENTA has covered `38` topics.<br>PPRE has covered `?` topics. <span style="opacity: 0.7">(*I'm on it*)</span>                                       |
+| **Review vs. Rest** | I've studied for `14` days and rested for `3` days (since `June 28`)<br><br>I've attended SLRC for `11` days.<br>I've attended PENTA for `3` days.<br>I've attended PPRE for `1` day. |
+| **Time Outside**    | A total of `177:45:00` at an average of `10:27:21` over `17 days`                                                                                                                     |
+| **Time Slept**      | A total of `114:00:00` at an average of `7:07:30` over `16 days`                                                                                                                      |
+| **Topics Reviewed** | SLRC has covered `54` topics.<br>PENTA has covered `47` topics.<br>PPRE has covered `19`\* topics. <span style="opacity: 0.7">*Incomplete count*</span>                               |
 | **Q&A**             | `2,483` questions answered, `988` rationalized<br><br>SLRC has given me `1,400` questions<br>PENTA has given me `108` questions<br>PPRE has given me `1,475` questions                |
 
 >[!TIP] Legend
@@ -28,34 +28,75 @@ Here's some statistics, just because! I've always appreciated tallies and scores
 >4. **Topics Reviewed**: a total count of topics discussed.
 >5. **Q&A**: days dedicated to answering and/or rationalizing exams.
 
-|                                                                     Subject | SLRC | PENTA | PPRE |
-| --------------------------------------------------------------------------: | :--: | :---: | :--: |
-|                                                 **Fundamentals of Nursing** |  0   |   0   |  0   |
-|                                       **Maternal and Child Health Nursing** |  0   |   2   |  0   |
-|                                                **Community Health Nursing** |  2   |   0   |  1   |
-|                                                     **Psychiatric Nursing** |  0   |   2   |  2   |
-|                                                **Medical-Surgical Nursing** |  3   |   0   |  4   |
-| <span style="opacity: 0.5">                     Oncologic Disorders </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">1</span>   |
-| <span style="opacity: 0.5">                   Perioperative Nursing </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">1</span>   |
-| <span style="opacity: 0.5">   Gas Exchange and Respiratory Function </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">0</span>   |
-| <span style="opacity: 0.5"> Cardiovascular and Circulatory Function </span> |  <span style="opacity: 0.5">1</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">0</span>   |
-| <span style="opacity: 0.5">                    Hematologic Function </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">0</span>   |
-| <span style="opacity: 0.5">                    Immunologic Function </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">0</span>   |
-| <span style="opacity: 0.5">                Musculoskeletal Function </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">1</span>   |
-| <span style="opacity: 0.5"> Digestive and Gastrointestinal Function </span> |  <span style="opacity: 0.5">1</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">0</span>   |
-| <span style="opacity: 0.5">        Metabolic and Endocrine Function </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">0</span>   |
-| <span style="opacity: 0.5">       Kidney and Urinary Tract Function </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">0</span>   |
-| <span style="opacity: 0.5">                             Burn Injury </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">0</span>   |
-| <span style="opacity: 0.5">                        Sensory Function </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">0</span>   |
-| <span style="opacity: 0.5">                     Neurologic Function </span> |  <span style="opacity: 0.5">1</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">0</span>   |
-| <span style="opacity: 0.5">                       Emergency Nursing </span> |  <span style="opacity: 0.5">0</span>   |   <span style="opacity: 0.5">0</span>   |  <span style="opacity: 0.5">1</span>   |
-|                                                   **Communicable Diseases** |  0   |   0   |  0   |
-|                                                                  **PALMER** |  0   |   0   |  3   |
-|                                                            **Pharmacology** |  0   |   0   |  1   |
-|                                                  **Anatomy and Physiology** |  0   |   0   |  2   |
-|                                                                     **Q&A** |  7   |   1   |  5   |
-|                                                       **Total Review Days** |  12  |   5   |  18  |
-|                                                               **Rest Days** |  4   |   3   |  4   |
+|                                                                     Subject |                SLRC                 |                PENTA                |                PPRE                 |
+| --------------------------------------------------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
+|                                                 **Fundamentals of Nursing** |                  0                  |                  0                  |                  0                  |
+|                                       **Maternal and Child Health Nursing** |                  0                  |                  2                  |                  0                  |
+|                                                **Community Health Nursing** |                  2                  |                  0                  |                  1                  |
+|                                                     **Psychiatric Nursing** |                  0                  |                  2                  |                  2                  |
+|                                                **Medical-Surgical Nursing** |                  4                  |                  1                  |                  6                  |
+| <span style="opacity: 0.5">                     Oncologic Disorders </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">1</span> |
+| <span style="opacity: 0.5">                   Perioperative Nursing </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">1</span> |
+| <span style="opacity: 0.5">   Gas Exchange and Respiratory Function </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> |
+| <span style="opacity: 0.5"> Cardiovascular and Circulatory Function </span> | <span style="opacity: 0.5">1</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">1</span> |
+| <span style="opacity: 0.5">                    Hematologic Function </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> |
+| <span style="opacity: 0.5">                    Immunologic Function </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> |
+| <span style="opacity: 0.5">                Musculoskeletal Function </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">1</span> |
+| <span style="opacity: 0.5"> Digestive and Gastrointestinal Function </span> | <span style="opacity: 0.5">1</span> | <span style="opacity: 0.5">1</span> | <span style="opacity: 0.5">0</span> |
+| <span style="opacity: 0.5">        Metabolic and Endocrine Function </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> |
+| <span style="opacity: 0.5">       Kidney and Urinary Tract Function </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> |
+| <span style="opacity: 0.5">                             Burn Injury </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> |
+| <span style="opacity: 0.5">                        Sensory Function </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> |
+| <span style="opacity: 0.5">                     Neurologic Function </span> | <span style="opacity: 0.5">1</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">1</span> |
+| <span style="opacity: 0.5">                       Emergency Nursing </span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">0</span> | <span style="opacity: 0.5">1</span> |
+|                                                   **Communicable Diseases** |                  0                  |                  0                  |                  0                  |
+|                                                                  **PALMER** |                  0                  |                  0                  |                  3                  |
+|                                                            **Pharmacology** |                  0                  |                  0                  |                  1                  |
+|                                                  **Anatomy and Physiology** |                  0                  |                  0                  |                  2                  |
+|                                                                     **Q&A** |                  7                  |                  1                  |                  5                  |
+|                                                       **Total Review Days** |                 12                  |                  5                  |                 18                  |
+|                                                               **Rest Days** |                  4                  |                  3                  |                  4                  |
+
+___
+
+# 07-14-2025
+1. **SLRC**
+	- Lecture:
+		1. [[586a-endo-anaphy|Anatomy and Physiology: Endocrine System]]
+		2. [[589a-diabetes-insipidus|Diabetes Insipidus]]
+		3. [[590a-siadh|Syndrome of Inappropriate Antidiuretic Hormone Secretion]]
+		4. [[595a-hypoparathyroidism|Hypoparathyroidism]]
+		5. [[594a-hyperparathyroidism|Hyperparathyroidism]]
+		6. [[591a-hypothyroidism|Hypothyroidism]]
+		7. [[592a-hyperthyroidism|Hyperthyroidism]]
+2. **PENTA**
+	- Lecture:
+		1. [[545a-git-anaphy|Anatomy and Physiology: Gastrointestinal System]]
+		2. [[651a-parotitis|Parotitis]]
+		3. [[653a-hiatal-hernia|Hiatal Hernia]]
+		4. [[554a-gerd|Gastroesophageal Reflux Disease]] and [[554a-gerd#Barrett Esophagus]]
+		5. [[565a-appendicitis|Appendicitis]]
+		6. [[583a-cholelithiasis#|Cholelithiasis]]
+		7. Cholecystitis
+		8. [[584a-pancreatitis|Pancreatitis]]
+		9. [[578a-hepatic-cirrhosis|Liver Cirrhosis]]
+3. **PPRE**
+	- Lecture:
+		1. [[647a-nervous-anaphy|Anatomy and Physiology: The Nervous System]]
+		2. [[652a-seizures|Seizures]]
+		3. [[654-655a-cva|Cerebrovascular Accident]]
+		4. [[663a-trigeminal-neuralgia|Trigeminal Neuralgia]]
+		5. [[664a-bells-palsy|Bell's Palsy]]
+		6. [[660a-multiple-sclerosis|Multiple Sclerosis]]
+		7. [[661a-myasthenia-gravis|Myasthenia Gravis]]
+		8. [[662a-guillain|Guillain-Barré Syndrome]]
+		9. [[665a-parkinsons|Parkinson's Disease]]
+		10. [[667a-amyotrophic-lateral-sclerosis|Amyotrophic Lateral Sclerosis]]
+
+Time out: 05:45–20:45 (15:00)
+
+**Remarks**:
+- I was born on this date.
 
 ___
 
@@ -84,10 +125,21 @@ ___
 		18. Thrombophlebitis (DVT)
 	- Answered 108 items: OB
 	- Rationalized 108 items: OB
+3. **PPRC**
+	- Lecture:
+		1. Anatomy and Physiology: Cardiovascular System
+		2. Health Assessment: Cardiovascular System (Heart Sounds, Auscultation Landmarks, Health History)
+		3. Hyperlipidemia
+		4. Hypertension
+		5. Antihypertensives
+		6. [[453a-angina-pectoris|Angina Pectoris]]
+		7. [[454a-acute-coronary-syndrome|Acute Coronary Syndrome (Myocardial Infarction)]]
+		8. [[463a-heart-failure|Heart Failure]]
+		9. [[478a-raynaud-buerger|Peripheral Arterial Occlusive Disorders]]
 
 Time out: 11:30–18:30 (07:00)
 
-Time slept: (pending)
+Time slept: 02:15–05:15 (03:00)
 
 **Remarks**:
 - The CHN assessment exam was only rationalized up to `#60`.
