@@ -4,22 +4,24 @@ title: Review Schedule Summary
 tags: 
 image: og-image.png
 ---
-This is a day-to-day listing of what was taught or done in the review centers I'm currently enrolled in for the November 2025 [[pnle|Philippine Nurses Licensure Exam]]. My goal is to stay up-to-date for every topic covered whether or not I was actually there. It's basically a to-do list for me for notes that aren't up-to-textbook-standard and notes that straight up don't exist. I'll update these. Eventually.
+This is a day-to-day listing of what was taught or done in the review centers I'm currently enrolled in for the November 2025 [[pnle|Philippine Nurses Licensure Exam]]. Not all talking points or discussions during the lectures are not included in these notes, especially for tangential discussions. **These notes should serve as supplemental material**, and not as a copy of the lecture—that's on you to make during the lecture!
+
+My goal is to stay up-to-date for every topic covered between all of these schedules whether or not I was actually there. This is a to-do list for me for notes that aren't up-to-date or standard and notes that straight up don't exist. I'll update these. Eventually.
 
 I'm well aware some review centers may consider these lists as an *exposure* of their review schedules. I'm simply hoping that they either won't find out, and, if they do, won't mind enough to tell me to take them down. If any of these ever get removed, you can probably guess what happened.
 
 ___
 
 # Stats
-Here's some statistics, just because! I've always appreciated tallies and scores like these, which is why I'm organizing this data. This is not a competition—these numbers don't dictate the quality or efficiency of lectures for each of these review centers. I appreciate them all the same.
+Here's some statistics, just because! I've always appreciated tallies and scores like these, which is why I decided to organize this data. This is not for the sake of comparison—these numbers do not dictate the quality, efficiency, or whatever metric, of lectures for each of these review centers. I appreciate them all the same.
 
-| Statistic           | Datapoints                                                                                                                                                                            |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Review vs. Rest** | I've studied for `14` days and rested for `3` days (since `June 28`)<br><br>I've attended SLRC for `11` days.<br>I've attended PENTA for `3` days.<br>I've attended PPRE for `1` day. |
-| **Time Outside**    | A total of `177:45:00` at an average of `10:27:21` over `17 days`                                                                                                                     |
-| **Time Slept**      | A total of `114:00:00` at an average of `7:07:30` over `16 days`                                                                                                                      |
-| **Topics Reviewed** | SLRC has covered `54` topics.<br>PENTA has covered `47` topics.<br>PPRE has covered `19`\* topics. <span style="opacity: 0.7">*Incomplete count*</span>                               |
-| **Q&A**             | `2,483` questions answered, `988` rationalized<br><br>SLRC has given me `1,400` questions<br>PENTA has given me `108` questions<br>PPRE has given me `1,475` questions                |
+| Statistic           | Datapoints                                                                                                                                                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Review vs. Rest** | I've studied for `14` days and rested for `3` days (since `June 28`)<br>%%last updated 07-14-2025 at 2300%%<br>I've attended SLRC for `11` days.<br>I've attended PENTA for `3` days.<br>I've attended PPRE for `1` day. |
+| **Time Outside**    | A total of `177:45:00` at an average of `10:27:21` over `17 days`                                                                                                                                                        |
+| **Time Slept**      | A total of `114:00:00` at an average of `7:07:30` over `16 days`                                                                                                                                                         |
+| **Topics Reviewed** | SLRC has covered `54` topics.<br>PENTA has covered `47` topics.<br>PPRE has covered `19`\* topics. <span style="opacity: 0.7">*Incomplete count*</span>                                                                  |
+| **Q&A**             | `2,483` questions answered, `988` rationalized<br><br>SLRC has given me `1,400` questions<br>PENTA has given me `108` questions<br>PPRE has given me `1,475` questions                                                   |
 
 >[!TIP] Legend
 >1. **Review vs. Rest**: the number of days I've gone to review and the days I've stayed home. Obviously, staying home doesn't entail not studying. I've *attended* more times than the days listed—that's because I might swap between two review centers between the AM and PM sessions.
@@ -28,7 +30,9 @@ Here's some statistics, just because! I've always appreciated tallies and scores
 >4. **Topics Reviewed**: a total count of topics discussed.
 >5. **Q&A**: days dedicated to answering and/or rationalizing exams.
 
-|                                                                     Subject |                SLRC                 |                PENTA                |                PPRE                 |
+The table below shows a **distribution of schedules across the various domains**. Medical-surgical nursing is also further subdivided into sub-domains.
+
+|                                                                      Domain |                SLRC                 |                PENTA                |                PPRE                 |
 | --------------------------------------------------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
 |                                                 **Fundamentals of Nursing** |                  0                  |                  0                  |                  0                  |
 |                                       **Maternal and Child Health Nursing** |                  0                  |                  2                  |                  0                  |
@@ -54,7 +58,7 @@ Here's some statistics, just because! I've always appreciated tallies and scores
 |                                                            **Pharmacology** |                  0                  |                  0                  |                  1                  |
 |                                                  **Anatomy and Physiology** |                  0                  |                  0                  |                  2                  |
 |                                                                     **Q&A** |                  7                  |                  1                  |                  5                  |
-|                                                       **Total Review Days** |                 12                  |                  5                  |                 18                  |
+|                                                       **Total Review Days** |                 13                  |                  6                  |                 19                  |
 |                                                               **Rest Days** |                  4                  |                  3                  |                  4                  |
 
 ___
@@ -76,7 +80,7 @@ ___
 		3. [[653a-hiatal-hernia|Hiatal Hernia]]
 		4. [[554a-gerd|Gastroesophageal Reflux Disease]] and [[554a-gerd#Barrett Esophagus]]
 		5. [[565a-appendicitis|Appendicitis]]
-		6. [[583a-cholelithiasis#|Cholelithiasis]]
+		6. [[583a-cholelithiasis|Cholelithiasis]]
 		7. Cholecystitis
 		8. [[584a-pancreatitis|Pancreatitis]]
 		9. [[578a-hepatic-cirrhosis|Liver Cirrhosis]]
