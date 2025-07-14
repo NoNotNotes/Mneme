@@ -1,11 +1,11 @@
 ---
 publish: true
-title: Community Diagnosis
+title: Family Assessment
 tags:
   - CHN
   - TB
   - INC
-description: 'The first step in applying the nursing process to care of the family as a client.'
+description: The first step in applying the nursing process to care of the family as a client.
 ---
 **References**:
 1. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile (pp. 81-106)
