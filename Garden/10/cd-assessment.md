@@ -799,8 +799,8 @@ ___
 >>- Causative agent:
 >>- Mode of transmission:
 >>- Signs:
->>	- Brudzinski's sign: flexion of the neck induces hip and knee flexion as a protective reflex.
->>	- Kernig's sign: pain upon extension of the knee.
+>>		- Brudzinski's sign: flexion of the neck induces hip and knee flexion as a protective reflex.
+>>		- Kernig's sign: pain upon extension of the knee.
 >>- Confirmatory diagnosis: lumbar puncture showing increased WBC, decreased glucose, and increased protein.
 
 57. When assessing for Brudzinski’s sign, the neck will be flexed causing the hips and knees to also flex. As a knowledge nurse, she understands that this reaction is caused by:
@@ -1075,7 +1075,7 @@ ___
 >>- Causative agent: SARS-CoV-2
 >>- Mode of transmission: Droplet
 >>- Vaccines: MRNA Vaccine, Pfizer (Comirnaty), and Moderna (Spike Vaccine). The first to undergo trial is Sputnik V.
->>	- Pfizer and Moderna vaccines need to be stored in -60
+>>		- Pfizer and Moderna vaccines need to be stored in -60
 
 77. Coronavirus disease (COVID-19) is an infectious disease causing 6.9 million deaths worldwide since the pandemic. The causative agent of COVID-19 is:
 <ol class="mcq-options">

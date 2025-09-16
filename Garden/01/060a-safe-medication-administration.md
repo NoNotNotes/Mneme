@@ -79,8 +79,8 @@ ___
 >[!INFO] Acute Care Guidelines for Timely Administration of Scheduled Medications
 >1. **Time-critical Medications** must be administered at the **exact time indicated when necessary** (e.g., rapid-acting insulin), **otherwise, within 30 minutes** before or after the scheduled time. These medications include medications that may cause harm or a sub-therapeutic effect if administered early or late by more than 30 minutes—this includes medications with a dosing frequency less than every 4 hours.
 >2. **Non-time-critical Medications**:
->	- **Daily, weekly, monthly medications**: within 2 hours before or after the scheduled time.
->	- **More frequently than daily, but no more frequently than every 4 hours**: within 1 hour before or after the scheduled time.
+>		- **Daily, weekly, monthly medications**: within 2 hours before or after the scheduled time.
+>		- **More frequently than daily, but no more frequently than every 4 hours**: within 1 hour before or after the scheduled time.
 
 4. **Provide assistive interventions as indicated**. Clients may require physical assistance (e.g. when assuming positions for intramuscular injections). They may also require guidance about measures to enhance drug effectiveness and prevent complications, such as drinking fluids. Listening carefully to the client's concerns and giving correct information helps allay fears about medications.
 5. **Record the drug administered**. Record the name of the drug, dosage, method of administration, specific relevant data such as pulse rate (taken in most settings prior to the administration of digitalis), and any other pertinent information. The record should also include the exact time of administration and the signature of the nurse providing the medication.

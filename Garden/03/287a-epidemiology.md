@@ -1,15 +1,13 @@
 ---
 publish: true
-title: "Epidemiology"
+title: Epidemiology
 tags:
   - CHN
   - TB
-description: "Epidemiology is defined as the study of the distribution and determinants of health-related states of events in specified populations, and the application of this study to the prevention and control of health problems."
-todo:
-  - Find reference pages
+description: Epidemiology is defined as the study of the distribution and determinants of health-related states of events in specified populations, and the application of this study to the prevention and control of health problems.
 ---
 **References**:
-1. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile
+1. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile (Ch. 7, pp. 139–145)
 
 ___
 

@@ -17,10 +17,10 @@ ___
 
 >[!EXAMPLE] Types of TBI
 >1. **Closed**: the skull is not broken; the brain is not exposed. This may be due to rapid movement such as in sudden accelerations or decelerations. Depending on which region the brain hits, this may be considered as a coup (frontal) contusion from deceleration or sudden hyperextension of the head, or contrecoup (occipital) contusion from acceleration or sudden hyperflexion of the head.
->	- **Concussion**: temporary loss of consciousness; widespread and microscopic jarring of the brain within the skull.
->	- **Contusions**: localized, macroscopic, and "*bruising*" type of injury. Noticeable loss of function is noted. Coup-contra coup involvement. Bruising occurs, and the brain stem may swell and tear.
->	- **Fractures**: hairline (a line, no splintering and distortion), depressed (crushed portion of skull), compound (break in skin, splintering of bone), comminuted (fragmentation)
->		- **Basilar skull fracture**: a fracture on the base of the skull. This manifests as *rhinorrhea* and *otorrhea* from CSF leakage, *raccoon eyes* (ecchymosis around the eye), and battle's sign (ecchymosis behind the ear). On a pillow, a "*halo ring*" is formed by a stain of CSF with blood in the center.
+>		- **Concussion**: temporary loss of consciousness; widespread and microscopic jarring of the brain within the skull.
+>		- **Contusions**: localized, macroscopic, and "*bruising*" type of injury. Noticeable loss of function is noted. Coup-contra coup involvement. Bruising occurs, and the brain stem may swell and tear.
+>		- **Fractures**: hairline (a line, no splintering and distortion), depressed (crushed portion of skull), compound (break in skin, splintering of bone), comminuted (fragmentation)
+>			- **Basilar skull fracture**: a fracture on the base of the skull. This manifests as *rhinorrhea* and *otorrhea* from CSF leakage, *raccoon eyes* (ecchymosis around the eye), and battle's sign (ecchymosis behind the ear). On a pillow, a "*halo ring*" is formed by a stain of CSF with blood in the center.
 >2. **Open**: a penetrating head injury which may be focal (isolated to one area) or diffuse (widespread).
 
 >[!ERROR] Monro-Kellie Doctrine

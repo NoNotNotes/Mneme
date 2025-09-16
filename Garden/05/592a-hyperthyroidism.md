@@ -26,6 +26,9 @@ ___
 	- Vocal hoarseness due to nerve damage to the voice box.
 	- Hypocalcemia due to parathyroid damage.
 5. **Complications secondary to other managements**: radioactive iodine, and hormone replacement therapy also have other potential complications.
+
+___
+
 # Assessment Findings
 1. **Enlarged Thyroid Gland** (Goiter) e.g. in Graves' disease, autoimmune disorders
 2. **Palpitations**, **Cardiac Dysrhythmias** (tachycardia or even atrial fibrillation in severe cases), **Hypertension**, increased cardiac output: increased thyroid hormones stimulate the heart.
@@ -58,7 +61,8 @@ ___
 (a) **Reduction of thyroid hyperactivity** for symptomatic relief and (b) **removing the cause of complications**
 1. **Irradiation** via radioactive Iodine (<sup>131</sup>I or <sup>123</sup>I) of overactive thyroid cells. This is the most common form of treatment for the elderly, but is **contraindicated in pregnancy and nursing mothers**. Iodine may cross the placenta and is secreted in breast milk.
 2. **Pharmacotherapy**: **Antithyroid** medications that **inhibit hormone synthesis/release** or **reduce the amount of thyroid tissue**.
-	- **Propylthiouracil; PTU (Propacil)** and **Methimazole (Tapazole)** are the most common, used until thyroid hormones are normal. Both of these drugs inhibits the ability of the thyroid to utilize iodine. A **maintenance dose** is established followed by a gradual withdrawal for several months. **Contraindicated for late pregnancy** due to risk for **goiter and cretinism in the fetus**.
+	- **Propylthiouracil; PTU (Propacil)** and **Methimazole (Tapazole)** are the most common, used until thyroid hormones are normal. Both of these drugs inhibits the ability of the thyroid to utilize iodine. A **maintenance dose** is established followed by a gradual withdrawal for several months. Antithyroid medications are **contraindicated in late pregnancy** due to risk for **goiter and cretinism in the fetus**.
+	- **Propylthiouracil is recommended during the first trimester of pregnancy** as methimazole may result in teratogenesis.
 3. **Surgery**: removal of most of the thyroid gland; no longer the preferred choice of therapy for Graves' disease, but is still used for patients who **cannot tolerate antithyroid drugs**, have **significant ophthalmopathy**, have **large goiters**, or cannot undergo **radioiodine therapy**.
 ## Adjunctive Therapy
 1. **Potassium Iodide**, **Lugol's Solution**, and **Saturated Solution of Potassium Iodide** (SSKI) may also be added to induce the **Wolff-Chaikoff Effect**, a protective mechanism as a result of elevated iodine levels, where thyroid peroxidase (used for synthesis of hormones) downregulation occurs to prevent excessive production from iodine saturation.

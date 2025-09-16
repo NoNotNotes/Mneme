@@ -20,8 +20,8 @@ ___
 >The signs and symptoms of syphilis are multiple. The primary stage usually, but not necessarily, involves ulceration of the external genital organs and local lymphadenopathy; secondary and tertiary syphilis show mainly dermatological and systemic manifestations. For surveillance purposes, only confirmed cases will be considered.
 >1. **Confirmed case**: A person with a confirmed positive serology for syphilis (Rapid Plasma Reagin (RPR) or VDRL confirmed by TPHA (Treponema pallidum hemagglutination antibodies) or FTA (fluorescent treponemal antibody absorption).
 >2. **Case classification**
->	- Congenital syphilis: An infant with a positive serology, whether or not the mother had a positive serology during pregnancy.
->	- Acquired syphilis: All others.
+>		- Congenital syphilis: An infant with a positive serology, whether or not the mother had a positive serology during pregnancy.
+>		- Acquired syphilis: All others.
 >
 >Additional notes:
 >- The prevalence rate among pregnant women in developing countries varies between 3% and 19%. Maternal syphilis is associated with congenital syphilis (one third of births from such pregnancies), and with spontaneous abortion and stillbirth.

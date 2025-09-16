@@ -370,7 +370,7 @@ No single topical medication is universally effective. Different agents at diffe
 | **Silver-impregnated dressings (sheets or mesh)**           | Broad antimicrobial effects (depending on product) and delivers a uniform, antimicrobial concentration of silver ions to the burn wound.            | Apply directly to wound. Cover with absorbent secondary dressing if needed.                                                                        | May produce a pseudoeschar from silver after application.<br><br>Can be left in place for several days (product specific).                                                                                                                                          |
 
 #### Wound Dressing
-After topic agents are applied, the wound is covered with several layers of dry dressings with lighter dressing over joints to allow for mobility.
+After topical agents are applied, the wound is covered with several layers of dry dressings with lighter dressing over joints to allow for mobility.
 1. Circumferential dressings should always be applied **distally to proximally** to promote return of excess fluid into the central circulation.
 2. In case of hand or foot burns, the **fingers and toes should be wrapped individually** to promote mobility and function while healing.
 3. Burns to the face may be left open to air once cleaned and the topical agent has been applied to maintain a moist environment. Careful attention ensures the topical agent does not come in contact with the eyes or mouth. A light, nonrestrictive dressing may be applied to the face to absorb excess exudate if needed.

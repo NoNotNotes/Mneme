@@ -266,11 +266,11 @@ The **model state nursing practice act** authored by the NCSBN states that both 
 >[!CITE] NCSBN (2005)
 >The steps of the delegation process are: (*mn. ACME*)
 >1. **Assessment** of the client, the staff and the context of the situation
->	- A specific task that can be delegated to one AP may not be appropriate to another AP, depending on each AP's experience and individual skill sets.
->	- A specific task that can be performed by one AP for one client may not be appropriate with a different client or the same client in a different context. For example, the taking of routine vital signs may be delegated to an AP for a client in stable condition but would not be delegated for the same client who has become unstable.
+>		- A specific task that can be delegated to one AP may not be appropriate to another AP, depending on each AP's experience and individual skill sets.
+>		- A specific task that can be performed by one AP for one client may not be appropriate with a different client or the same client in a different context. For example, the taking of routine vital signs may be delegated to an AP for a client in stable condition but would not be delegated for the same client who has become unstable.
 >2. **Communication** to provide direction and opportunity for interaction during the completion of the delegated task
->	- Once the decision has been made the delegate, the nurse must communicate clearly to the AP and verify that the AP understands the specific tasks to be done, when to perform each task, the expected outcomes for each task (including reporting variances), who can serve as a resource if needed, and when and how a report on the tasks is expected.
->	- The delegatee also has the responsibility to decline to perform a task, whether delegated or assigned, if they feel unqualified to perform it.
+>		- Once the decision has been made the delegate, the nurse must communicate clearly to the AP and verify that the AP understands the specific tasks to be done, when to perform each task, the expected outcomes for each task (including reporting variances), who can serve as a resource if needed, and when and how a report on the tasks is expected.
+>		- The delegatee also has the responsibility to decline to perform a task, whether delegated or assigned, if they feel unqualified to perform it.
 >3. **Monitoring and Surveillance** to assure compliance with standards of practice, policies and procedures. The delegator is not held legally responsible for the acts of the AP but is accountable for the quality of the act of delegation and has the ultimate responsibility for ensuring the proper care is provided.
 >4. **Evaluation** to consider the effectiveness of the delegation and whether the desired client outcome was attained
 

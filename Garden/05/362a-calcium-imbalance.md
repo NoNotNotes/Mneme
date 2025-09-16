@@ -68,7 +68,7 @@ A serum calcium concentration that exceeds 10.5 mg/dL (2.75 mmol/L). Its causes 
 	- Decreased motility and hypoactive bowel sounds; constipation
 	- Anorexia, nausea, abdominal distention
 6. **Laboratory Findings**:
-	- a serum calcium level greater than 10.5 mg/dL (2.75 mmol/L)
+	- A serum calcium level greater than 10.5 mg/dL (2.75 mmol/L)
 	- Shortened ST and QT intervals; widened T wave; heart block
 ## Interventions
 

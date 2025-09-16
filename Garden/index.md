@@ -44,18 +44,6 @@ ___
 3. **Nursing Review Guide**, 1st Edition, ISBN 978-621-02-2289-0, by Glenn Reyes Luansing
 4. **Professional Nursing Practice, Ethics, and Jurisprudence**, 1st Edition, ISBN 978-971-98-1932-5, by Glenn Reyes Luansing
 5. **The Topranker's Guide: A Comprehensive Study Guide for the Nurse Licensure Exam**
-## Lecturers
-1. **Bautista**
-2. **Cainglet**
-3. **Coprade**
-4. **delos Reyes**
-5. **Jimenez**
-6. **Luansing**
-7. **MBSMF**
-8. **Notario**
-9. **Tuiza**
-10. **Vasquez** (V)
-11. **Wong**
 
 ___
 

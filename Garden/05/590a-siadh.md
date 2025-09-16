@@ -21,6 +21,7 @@ ___
 	- **Restrict fluid intake**. Extracellular fluid volume contracts and serum sodium concentration gradually increases to normal.
 	- **Diuretic agents** such as furosemide can be used along with fluid restriction.
 	- **Correct severe hyponatremia** with the use of hypertonic saline (3% NaCl) via IV.
+	- **Antidiuretic hormone antagonists** such as Tolvaptan (drug of choice) and tetracyclines (Demeclocycline) have off-label uses for ADH antagonists.
 2. **Nursing**:
 	- **Close monitoring of intake and output**.
 	- **Continuous examination**: daily weight, urine and blood chemistries, and neurologic status.

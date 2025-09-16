@@ -79,7 +79,7 @@ It functions as a protective cushion/shock absorber. It separates the fetus from
 
 >[!WARNING] Abnormalities
 >1. **Polyhydramnios**: an elevation in amniotic fluid volume, over 1,000 mL.
->	- One of the causes of polyhydramnios is when the fetus is unable to drink; if an abnormality in the deglutition center of the brain or if there is esophageal atresia that the fetus cannot swallow.
+>		- One of the causes of polyhydramnios is when the fetus is unable to drink; if an abnormality in the deglutition center of the brain or if there is esophageal atresia that the fetus cannot swallow.
 >2. **Oligohydramnios**: a decrease in amniotic fluid volume, under 500 mL.
 >3. **Meconium-stained amniotic fluid**, especially if the fetus is non-breech, is a sign of fetal distress.
 >4. **Golden-colored amniotic fluid** may be found in hemolytic disease.

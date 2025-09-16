@@ -7,7 +7,7 @@ tags:
 description: "The family is considered the basic unit of care in community health nursing."
 ---
 **References**:
-1. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile (pp. 81-106)
+1. **Community and Public Health Nursing**, 2nd Philippine Edition, ISBN 978-981-48-6503-6, by Earl Francis R. Sumile (Ch. 5, pp. 81-108)
 
 ___
 

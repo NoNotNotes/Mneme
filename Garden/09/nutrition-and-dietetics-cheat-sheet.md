@@ -44,3 +44,70 @@ ___
 | **Nickel**     | Many sources                                       | Duplication of growth of cells                                            | Has not been determined to be essential for health in humans                                                                                                   |
 | **Vanadium**   | Many sources                                       | Lipid metabolism                                                          | Has not been determined to be essential for health in humans                                                                                                   |
 | **Tin**        | Many sources                                       | Blood formation                                                           | Has not been determined to be essential for health in humans                                                                                                   |
+
+___
+
+# Therapeutic Dietetics
+The use of nutrition to manage or treat specific pathologic conditions.
+## Diets for the Cardiovascular System
+
+| Condition                | General Dietary Recommendations |
+| ------------------------ | ------------------------------- |
+| Hypertension             | Low sodium, low fat             |
+| Congestive Heart Failure | Low sodium, low cholesterol     |
+| Obesity                  | Low calorie                     |
+
+## Diets for the Hepatobiliary System
+
+| Condition       | General Dietary Recommendations |
+| --------------- | ------------------------------- |
+| Liver Cirrhosis | Low protein                     |
+
+## Diets for Endocrinal Disorders
+
+| Condition           | General Dietary Recommendations |
+| ------------------- | ------------------------------- |
+| Hyperthyroidism     | High calorie, high protein      |
+| Hypothyroidism      | Low calorie, low protein        |
+| Diabetes Mellitus   | Well-balanced diet              |
+| Hyperparathyroidism | Low calcium                     |
+| Hypoparathyroidism  | High calcium                    |
+| Addison's Disease   | High sodium, low potassium      |
+| Cushing's Disease   | Low sodium, high potassium      |
+
+## Diets for Malabsorption Disorders
+
+| Condition       | General Dietary Recommendations |
+| --------------- | ------------------------------- |
+| Celiac Disease  | Gluten-free                     |
+| Cystic Fibrosis | High calorie                    |
+
+## Diets for Other Pathologies and Disorders
+
+| Condition                                | General Dietary Recommendations       |
+| ---------------------------------------- | ------------------------------------- |
+| Attention-Deficit/Hyperactivity Disorder | Finger foods                          |
+| Dengue Fever                             | Dark-colored food are contraindicated |
+| Mania (e.g., Bipolar Disorder)           | Finger foods                          |
+| Pressure Injury                          | Increase Vitamin C content            |
+
+___
+
+# Nutritional Deficiencies and Pathology
+
+| Deficiency  | Associated Conditions                                                                                                                                                                                                      |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|             | **Malnutrition** is a state of deficiency in any component of nutrition.<br>**Marasmus** involves severe prolonged starvation—deficiency in calories, proteins, vitamins, and minerals.                                    |
+| Protein     | Kwashiorkor (acute deficiency)                                                                                                                                                                                             |
+| Vitamin A   | Nyctalopia (Night blindness)<br>Xerophthalmia (Dry eyes, can also result in blindness)<br>Bitot's spots (foamy conjunctival lesions)                                                                                       |
+| Vitamin B₁  | Beriberi<br>Korsakoff's Syndrome<br>Wernicke's Encephalopathy                                                                                                                                                              |
+| Vitamin B₂  | Ariboflavinosis: cheilitis, angular stomatitis, glossitis, seborrheic dermatitis, photophobia                                                                                                                              |
+| Vitamin B₃  | Pellagra                                                                                                                                                                                                                   |
+| Vitamin B₅  | Fatigue, paresthesias, GI upset<br><br>*No specific condition; rarely occurs.*                                                                                                                                             |
+| Vitamin B₆  | Peripheral neuropathy<br>Glossitis, cheilitis<br>Irritability, confusion<br>Seizures in infants<br><br>*No specific condition*                                                                                             |
+| Vitamin B₉  | Megaloblastic anemia<br>Fetal neural tube defects if during pregnancy<br><br>*There are no neurologic symptoms in B₉ deficiency, a distinguishing factor from B₁₂ deficiency.*                                             |
+| Vitamin B₁₂ | Megaloblastic anemia<br>Pernicious anemia (specific to B₁₂ malabsorption)<br><br>Neurologic symptoms include peripheral neuropathy, dorsal column demyelination (poor proprioception, ataxia), memory loss, and confusion. |
+| Vitamin C   | Scurvy                                                                                                                                                                                                                     |
+| Vitamin D   | Rickets (children)<br>Osteomalacia (adults)<br><br>Hypocalcemia, resultant tetany and dental deformities                                                                                                                   |
+| Vitamin E   | Neuromuscular symptoms (ataxia, peripheral neuropathy)<br>Hemolytic anemia (especially in premature infants)<br>Retinopathy<br>Loss of proprioception and vibratory sense<br><br>*No specific condition*                   |
+| Vitamin K   | Bleeding tendencies (prolonged PT/INR, easy bruising, hematuria, melena)                                                                                                                                                   |

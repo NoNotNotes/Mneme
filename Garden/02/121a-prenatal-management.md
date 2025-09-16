@@ -55,12 +55,12 @@ Prenatal visits are done to serve as a basis for comparison (**baseline data col
 	- **5-Point System (GFPAL)**: the addition of **Gravida** (number of pregnancies) to the 4-Point system.
 	- **7-Point System (GPTPALM)**:
 		- **Gravida**: number of pregnancies
-		- **Parity/Para**: number of deliveries
-		- **Term**: number of term children delivered
-		- **Preterm**: number of preterm children delivered
-		- **Abortion**: number of abortions, not counted as deliveries
+		- **Parity/Para**: number of deliveries—pregnancies that reach beyond the age of viability regardless of outcome.
+		- **Term**: number of term deliveries
+		- **Preterm**: number of preterm deliveries
+		- **Abortion**: number of abortions (deliveries before the age of viability)
 		- **Living**: number of currently living children
-		- **Multiple**: number of pregnancies with multiple fetuses
+		- **Multiple**: number of deliveries of multiple fetuses
 10. **Estimates of Pregnancy**
 11. **Age of Gestation**
 12. **Complete Physical Examination**

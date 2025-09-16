@@ -14,6 +14,8 @@ description: "The physiological changes that come with pregnancy can be classifi
 4. **The Topranker's Guide: A Comprehensive Study Guide for the Nurse Licensure Exam** (p. 249)
 5. Lecturers
 
+___
+
 The signs of pregnancy are divided into three categories. **Presumptive signs** are those felt by the mother herself, **probable signs** are those observed by a healthcare provider, and **positive signs** are those emanating from the fetus itself. Succinctly, presumptive signs are subjective, probable signs are objective, and positive signs are documented.
 
 ___

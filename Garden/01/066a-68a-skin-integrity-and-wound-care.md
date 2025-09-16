@@ -156,8 +156,8 @@ The types of healing are influenced by the amount of tissue loss.
 >2. **Purulent exudate** is thicker than serous exudate because of the presence of **pus**, which consists of leukocytes, liquefied dead tissue debris, and dead and living bacteria. The process of pus formation is referred to as **suppuration**. Purulent exudates vary in color, some acquiring tinges of blue, green, or yellow, depending on the causative organism.
 >3. **Sanguineous exudate** consists of large amounts of red blood cells, indicating damage to capillaries that is severe enough to allow the escape of red blood cells from plasma. This type of exudate is frequently seen in open wounds.
 >4. **Mixed types of exudate** are often observed.
->	- A **serosanguinous exudate** consisting of both clear and blood-tinged drainage is commonly seen in surgical incisions.
->	- A **purosanguinous discharge**, consisting of pus and blood, is often seen in a new wound that is infected.
+>		- A **serosanguinous exudate** consisting of both clear and blood-tinged drainage is commonly seen in surgical incisions.
+>		- A **purosanguinous discharge**, consisting of pus and blood, is often seen in a new wound that is infected.
 
 2. The **Proliferative Phase** is the second phase of healing. It extends from day 3 to 4 to about 21 days postinjury. Fibroblasts (connective tissue cells), which migrate into the wound starting about 24 hours after injury, begin to synthesize collagen. **Collagen** is a whitish protein substance that adds tensile strength to the wound. As the amount of collagen increases, so does the strength of the wound; thus the change that the wound will remain closed progressively increases. If the wound is sutured, a raised "healing ridge" appears under the intact suture line. In a wound that is not sutured, the new collagen is often visible.
 	- **Capillaries** grow across the wound, increasing the blood supply. Fibroblasts move from the bloodstream to the wound, depositing fibrin. As the capillary network develops, the tissue becomes a translucent red color. This tissue, called **granulation tissue**, is fragile and bleeds easily.

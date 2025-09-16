@@ -4,9 +4,14 @@ title: Diabetes Insipidus
 tags:
   - MS
   - Endocrine
-  - NA
+  - TB
 description: DI is a rare disorder that occurs due to injury to the hypothalamus or pituitary gland with a deficiency of ADH (vasopressin) that results in excretion of large volumes of dilute urine and extreme thirst. DI is characterized as central, nephrogenic, or dipsogenic, as well as gestational.
 ---
+**References**:
+1. **Brunner & Suddarth's Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (\[ebook] pp. 3896-3897)
+
+___
+
 **DI** is a rare disorder that occurs due to injury to the hypothalamus or pituitary gland with a deficiency of ADH (vasopressin) that results in excretion of large volumes of dilute urine and extreme thirst. DI is characterized as central, nephrogenic, or dipsogenic, as well as gestational.
 
 >[!ERROR] Etiology
@@ -32,7 +37,7 @@ ___
 	- The test is terminated immediately if tachycardia, excessive weight loss, or hypotension develops.
 2. **Plasma Studies**: levels of ADH in the plasma, urine osmolality, and a trial of desmopressin therapy and intravenous infusion of hypertonic saline is done as further diagnostic measures.
 
->[!TIP] If diagnosis is confirmed but the cause is unknown, **the patient is assessed for tumors** that may be causing the disorder.
+>[!TIP] If diagnosis is confirmed but the cause is unknown, **the patient is assessed for tumors** (imaging studies) that may be causing the disorder.
 
 ___
 
@@ -48,5 +53,5 @@ ___
  >Thiazide diuretics, mild salt depletion, and prostaglandin inhibitors (e.g., endomethacin, aspirin) are used to treat the nephrogenic form of DI.
 
 3. **Nursing**:
-	- **Continuous physical assessment**: monitor for clinical manifestations of dehydration
+	- **Continuous physical assessment**: monitor for clinical manifestations of dehydration. Vital signs and intake and output are essential to monitor.
 	- **Patient education**: prevention of complications, emergency measures e.g. signs and symptoms of hyponatremia, and medication use and administration.

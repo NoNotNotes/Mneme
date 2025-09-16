@@ -10,7 +10,7 @@ todo:
 - "Add summary and timetable"
 ---
 **References**:
-1. **Dr. RPS Maternal and Newborn Care: A Comprehensive Guide and Source Book for Teaching and Learning**, 2nd Edition, ISBN 978-971-98-2265-3, by Rosalinda Parado Salustiano (pp. 117-195)
+1. **Dr. RPS Maternal and Newborn Care: A Comprehensive Guide and Source Book for Teaching and Learning**, 2nd Edition, ISBN 978-971-98-2265-3, by Rosalinda Parado Salustiano (Ch. 6, pp. 117-195)
 
 ___
 
