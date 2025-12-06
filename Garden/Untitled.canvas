@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"81e0a1ec8700a688","type":"text","text":"**Diagnosis**:\n- Tensilon (Edrophonium) Test\n- Electromyography (EMG)","x":-22,"y":340,"width":280,"height":146},
+		{"id":"d665a9e6b45ee327","type":"text","text":"**Ptosis**: tape the eyes shut","x":258,"y":340,"width":250,"height":60},
+		{"id":"29f2b354b0b1b271","type":"text","text":"## Myasthenic Crisis\n- Due to undermedication\n- Extreme weakness reactive to cholinergic test (tensilon)\n- Priority: Airway\n- Treat with tensilon and increase anticholinesterase dosage","x":-442,"y":631,"width":320,"height":293},
+		{"id":"be1b623d40c22c7e","type":"text","text":"## Cholinergic Crisis\n- Due to overmedication\n- Extreme weakness nonreactive to cholinergic test (tensilon)\n- Wet signs and symptoms\n- Treat with atropine sulfate (anticholinergic). Atropine should always be available during treatment as an antidote","x":-122,"y":631,"width":322,"height":293},
+		{"id":"dd2c1e1a4c5591f8","type":"text","text":"# Myasthenia Gravis\n- Autoimmune destruction of myoneural junction that detects acetylcholine, resulting in muscle weakness\n- Descending paralysis\n- More common in women <30 years old then men >50 years old\n- Voluntary muscle weakness\n- **Ptosis**, ocular changes, mask-like face","x":-464,"y":340,"width":442,"height":291},
+		{"id":"df613c4a1298ad1a","type":"text","text":"**Immunosuppression**: Avoid infections","x":258,"y":400,"width":377,"height":60},
+		{"id":"678c0dcfde808a7b","type":"text","text":"**Treatment**:\n- Plasmapheresis\n- Immunosuppression\n- **Thymectomy**","x":-22,"y":486,"width":280,"height":145},
+		{"id":"ca1e28c2d9be3d0f","type":"text","text":"# Multiple Sclerosis\n- Central nervous system demyelination\n- Exacerbations and remissions\n- More common in women\n- Charcot's Neurological Triad: **Scanning speech**, Intentional Tremors, Nystagmus\n- Fatigue","x":-442,"y":20,"width":442,"height":240},
+		{"id":"e278fe3f2ac0d328","type":"text","text":"# Guillain Barre Syndrome\n- Peripheral nerve demyelination\n- Ascending paralysis\n- More common in men\n- **Clumsiness**, **paresthesias**\n- Triggering infection","x":-442,"y":-460,"width":442,"height":320},
+		{"id":"63c388994cfdcd51","type":"text","text":"**Diagnosis**:\n- Symptomatic\n- Elevated CSF Proteins\n- Electromyography (EMG)","x":0,"y":-460,"width":280,"height":160},
+		{"id":"208133fd43dc62ab","type":"text","text":"**Treatment**:\n- Symptomatic\n- Plasmapheresis","x":0,"y":-300,"width":280,"height":120},
+		{"id":"a5b4f5912b9ca48f","type":"text","text":"**Immune suppression**","x":0,"y":140,"width":250,"height":60},
+		{"id":"28167932ebf5bd3b","type":"text","text":"**Diagnosis**: Imaging of plaques","x":0,"y":20,"width":340,"height":60},
+		{"id":"8e0d8476dc67f891","type":"text","text":"**Treatment**: Symptomatic","x":0,"y":80,"width":250,"height":60}
+	],
+	"edges":[]
+}

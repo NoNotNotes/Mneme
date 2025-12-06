@@ -46,7 +46,7 @@ ___
 
 # Medical Management
 In all phases of RA, the main goal is to **decrease joint pain** and **swelling**, **achieve clinical remission**, **decrease the likelihood of joint deformity**, and **minimize disability**. Aggressive and early treatment regimens are warranted. The use of a targeted pharmacologic treatment strategy is recommended.
-1. **Early Rheumatoid Arthritis**: treatment with a **nonbiologic or biologic disease-modifiyng antirheumatic drugs** (DMARDs), with the goal of **preventing inflammation** and **joint damage**. It is recommended to start with nonbiologic DMARDs. **Methotrexate** is preferred, but leflunomide, sulfasalazine, or hydroxychloroquine are also used. Tofacitinibic within 3 months of disease onset may also be used.
+1. **Early Rheumatoid Arthritis**: treatment with a **nonbiologic or biologic disease-modifying antirheumatic drugs** (DMARDs), with the goal of **preventing inflammation** and **joint damage**. It is recommended to start with nonbiologic DMARDs. **Methotrexate** is preferred, but leflunomide, sulfasalazine, or hydroxychloroquine are also used. Tofacitinib within 3 months of disease onset may also be used.
 	- **Biologic DMARDs** are specifically engineered to target the most proinflammatory mediators in RA: TNF-alpha, B cells, T cells, IL-1, and IL-6. These work better, but are more expensive. They are reserved for patients with persistent moderate to severe RA who have not responded to synthetic DMARDs.
 	- **Routine liver and kidney function tests** are performed, along with CBCs for anemia. Dosage may need to be modified if renal impairment occurs.
 	- DMARD treatment often produces relief within 6 weeks, but may take longer. **Corticosteroids** can act as a temporary "*bridge*" in treatment.

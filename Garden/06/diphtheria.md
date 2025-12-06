@@ -5,7 +5,7 @@ ___
 
 |                               |                                                                                                                                                                            |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Agent**                     | BACTERIUM. Corynebacterium diphtheriae A facultative gram-positive bacillus                                                                                                |
+| **Agent**                     | BACTERIUM. ***Corynebacterium diphtheriae***, a facultative gram-positive bacillus                                                                                         |
 | **Reservoir**                 | Human                                                                                                                                                                      |
 | **Vector**                    | None                                                                                                                                                                       |
 | **Vehicle**                   | Droplet<br>Contact<br>Dairy products<br>Clothing                                                                                                                           |
@@ -18,17 +18,18 @@ ___
 
 >[!TIP] WHO Case Definition for Surveillance
 >Clinical description
->- An illness of the upper respiratory tract characterized by laryngitis or pharyngitis or tonsillitis, and adherent membranes of tonsils, pharynx and/or nose
+>	- An illness of the upper respiratory tract characterized by laryngitis or pharyngitis or tonsillitis, and adherent membranes of tonsils, pharynx and/or nose
 >
 >Laboratory criteria for diagnosis
->- Isolation of Corynebacterium diphtheriae from a clinical specimen.
->- Note: A rise in serum antibody (fourfold or greater) is of interest only if both serum samples were obtained before administration of diphtheria toxoid or antitoxin. This is not usually the case in surveillance, where serological diagnosis of diphtheria is thus unlikely to be an issue.
+>	- Isolation of Corynebacterium diphtheriae from a clinical specimen.
+>	- Note: A rise in serum antibody (fourfold or greater) is of interest only if both serum samples were obtained before administration of diphtheria toxoid or antitoxin. This is not usually the case in surveillance, where serological diagnosis of diphtheria is thus unlikely to be an issue.
 >
 >Case classification
->- Suspected: Not applicable.
->- Probable: A case that meets the clinical description.
->- Confirmed: A probable case that is laboratory confirmed or linked epidemiologically to a laboratory confirmed case.
->Note: Persons with positive C. diphtheriae cultures who do not meet the clinical description (i.e. asymptomatic carriers) should not be reported as probable or confirmed diphtheria cases.
+>	- **Suspected**: Not applicable.
+>	- **Probable**: A case that meets the clinical description.
+>	- **Confirmed**: A probable case that is laboratory confirmed or linked epidemiologically to a laboratory confirmed case.
+>
+>Note: Persons with positive *C. diphtheriae* cultures who do not meet the clinical description (i.e. asymptomatic carriers) should not be reported as probable or confirmed diphtheria cases.
 
 ___
 

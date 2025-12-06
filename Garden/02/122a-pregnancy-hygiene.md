@@ -39,17 +39,18 @@ Always start with the **dietary history** when giving nutritional instructions t
 3. **Fiber**: fruits, vegetables; prevents constipation.
 4. **Fats**: energy-dense foods for absorption of fat-soluble vitamins (ADEK). Avoid too much fat to prevent vomiting and heartburn.
 ## Minerals and Vitamins
-1. **Iron**: most important mineral; supplemented. It aids in the required increase in maternal RBC (~30%) and fetal liver storage in the third trimester (8th month).
-	- 18 mg/day (non-pregnant), and 30 to 60 mg/day (pregnant). Liver, read meats, green leafy vegetables, egg yolk, cereals, dried fruits, and nuts.
+1. **Iron**: most important mineral; supplemented. It aids in the required increase in maternal RBC (~30%) and fetal liver storage in the third trimester (8th month). Supplementation begins in the fourth month of pregnancy and continues to delivery. Iron supplementation is continued for 3 months after delivery.
+	- 18 mg/day (non-pregnant), and 30 to 60 mg/day (pregnant). Liver, read meats, green leafy vegetables, egg yolk, cereals, dried fruits, and nuts. If the pregnant client is anemia, a dosage of up to 120 mg/day may be suggested.
 	- Best absorbed in an acidic medium; take between meals and with Vitamin C-rich juice.
 	- Can contribute to constipation; adequate increase of fibers, fluid, and activity is also recommended.
 	- Darkened stool is normal.
 2. **Calcium**: needed for maternal calcium and phosphorus metabolism and fetal bone and skeletal growth (particularly in the 7th month).
 	- 1,200 mg/day, equivalent to 1 quart of milk a day (four glasses). Milk, milk products, and broccoli.
+	- Vitamin D improves calcium absorption and can be given in amounts of 600 IU/day.
 3. **Sodium**: the most abundant cation in extracellular fluid. It effectively dictates fluid retention. Most foods contain sodium, and is not restricted unless seriously indicated. It is required for fetal tissue growth and development.
-4. **Folic Acid**/**Folate**/**Vitamin B9**: important for blood product production, metabolic demands in pregnancy, proper development of the fetus. Deficiency can result in fetal anomalies, **neural defects**, **brain and spinal cord abnormalities**, and **bleeding complications**.
+4. **Folic Acid**/**Folate**/**Vitamin B9**: important for blood product production, metabolic demands in pregnancy, proper development of the fetus. Deficiency can result in fetal anomalies, **neural defects**, **brain and spinal cord abnormalities**, and **bleeding complications**. Supplementation is ideally began even before the pregnancy, and is best observed during the first 28 days of gestation.
 	- **Neural Tube Defects** (NTDs) are birth defects of the brain, spine or spinal cord that happen in fetuses **within the first month of pregnancy**, often even before awareness of the pregnancy. The two most common forms of NTDs are **spina bifida** and **anencephaly**.
-	- 0.8 mg/day (+100% requirement to prevent fetal malformations and neural tube defects). Liver, dark green leafy vegetables, avocados, papayas, and beans.
+	- 400–800 mcg/day (+100% requirement to prevent fetal malformations and neural tube defects). Liver, dark green leafy vegetables, avocados, papayas, and beans.
 	- More: legumes, asparagus, eggs, leafy greens, beets, citrus fruits, Brussels sprouts, broccoli, nuts and seeds, beef liver, wheat germ, papaya, bananas, avocado, and fortified grains. Fruits, green and leafy vegetables, nuts, and seeds, and fortified foods.
 5. **Vitamins**: water-soluble vitamins C and B and fat-soluble vitamins A, D, E, and K.
 

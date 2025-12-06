@@ -134,3 +134,19 @@ The mouth and oropharynx are composed of a number of structures. Assessment is m
 >		- Tooth loss occurs as a result of dental disease but is preventable with good dental hygiene.
 >		- Check that full or removable dentures fit properly. Bone loss and weight loss or gain can change the way these prosthetics fit. Older adults may also fail to receive dental care (for both natural teeth and dentures) if they are homebound or in long-term care facilities.
 >		- The gag response may be slightly sluggish.
+
+___
+
+# Neck
+Examination of the neck includes the muscles, lymph nodes, trachea, thyroid gland, carotid arteries, and jugular veins. The areas of the neck are defined by the sternocleidomastoid muscles, which divide each side of the neck into two triangles: the anterior and posterior triangle.
+- The trachea, thyroid gland, anterior cervical nodes, and carotid artery lie within the anterior triangle; the carotid artery runs parallel and anterior to the sternocleidomastoid muscle.
+- The posterior lymph nodes lie within the posterior triangle.
+- Each sternocleidomastoid muscle extends from the upper sternum (*sterno-*) and the medial third of the clavicle (*-cleido-*) to the mastoid process (*-mastoid*).
+
+![[neck_major-muscles.png]]
+
+![[neck_structures-and-vessels.png]]
+
+![[neck_lymph-nodes.png]]
+
+___

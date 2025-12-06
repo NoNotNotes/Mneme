@@ -2,6 +2,7 @@
 - **Saunders Comprehensive Review for the NCLEX-RN Examination**, 9th Edition, ISBN 978-032-37-9530-2, by Linda Anne Silvestri, Angela E. Silvestri, and Jessica Grimm (Ch. 31, pp. 399–402, Ch. 45, pp. 577–593)
 
 ___
+
 # Anemia
 Anemia is a condition in which the blood lacks adequate healthy red blood cells or hemoglobin, with most common causes being acute blood loss, decreased or faulty red blood cell production (hypoproliferative anemia), or the destruction of red blood cells (hemolytic anemia). There are several types of anemia, with the main types being anemia related to acute and chronic blood loss, anemia of chronic diseases (including cancers, immunodeficiency syndrome, renal disease, liver diseases, and autoimmune conditions), anemias caused by nutritional deficiencies (such as iron, folate, or vitamin B₁₂ deficiency), and hereditary anemias (including sickle cell anemia and thalassemia).
 
@@ -62,7 +63,7 @@ Sickle cell anemia constitutes a group of diseases termed hemoglobinopathies, in
 	- Assist the child to assume a comfortable position so that the child keeps the extremities extended to promote venous return; elevate the head of the bed no more than 30 degrees, avoid putting strain on painful joints, and do not raise the knee gatch of the bed.
 	- Encourage consumption of a high-calorie, high-protein diet, with folic acid supplementation.
 	- Administration of hydroxyurea, an antimetabolite, which helps to prevent the formation of sickle-shaped red blood cells and to decrease the incidence of vaso-occlusive events.
-	-  Administer antibiotics as prescribed to prevent infection.
+	- Administer antibiotics as prescribed to prevent infection.
 	- Monitor for signs of complications, including increasing anemia, decreased perfusion, and shock (mental status changes, pallor, vital sign changes).
 	- Instruct the child and parents about the early signs and symptoms of crisis and the measures to prevent crisis.
 	- Ensure that the child receives pneumococcal and meningococcal vaccines and an annual influenzas vaccine, because of susceptibility to infection secondary to functional asplenia.

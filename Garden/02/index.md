@@ -131,7 +131,7 @@ As mentioned, MCHN makes up 20% of the board exam. Not only that, but family and
 | Diseases of Newborns, Infants, and Children | Rheumatic Fever                                         |  5.0   |   ✅    |
 | Diseases of Newborns, Infants, and Children | Kawasaki Disease                                        |  3.7   |   ✅    |
 | Diseases of Newborns, Infants, and Children | Sickle Cell Anemia                                      |  5.0   |        |
-| Diseases of Newborns, Infants, and Children | β-Thallasemia                                           |  4.3   |   ✅    |
+| Diseases of Newborns, Infants, and Children | β-Thalassemia                                           |  4.3   |   ✅    |
 | Diseases of Newborns, Infants, and Children | Hemophilia                                              |  5.0   |        |
 | Diseases of Newborns, Infants, and Children | Idiopathic Thrombocytopenic Purpura                     |  2.3   |        |
 | Diseases of Newborns, Infants, and Children | Anemia                                                  |  5.0   |        |

@@ -4,12 +4,11 @@ title: Head Injury
 tags:
   - MS
   - Neurology
-  - L1
-description: "Traumatic head injury is the leading cause of death and disability from ages 1 to 44 in mostly men. It is caused by an external mechanical force and may result in permanent or temporary impairment of cognitive, physical, and psychosocial functions, with an associated diminished or altered state of consciousness."
+description: Traumatic head injury is the leading cause of death and disability from ages 1 to 44 in mostly men. It is caused by an external mechanical force and may result in permanent or temporary impairment of cognitive, physical, and psychosocial functions, with an associated diminished or altered state of consciousness.
 ---
 **Reference**:
 1. **Brunner & Suddarth's Textbook of Medical-Surgical Nursing**, 15th Edition, ISBN 978-197-51-6103-3, by Janice L. Hinkle, Kerry H. Cheever, and Kristen J. Overbaugh (pp. 2055-2060)
-2. **Lecturer** (Rotairo, VJVS)
+2. **Saunders Comprehensive Review for the NCLEX-RN Examination**, 9th Edition, ISBN 978-032-37-9530-2, by Linda Anne Silvestri, Angela E. Silvestri, and Jessica Grimm (Ch. 59, pp. 859-860)
 
 ___
 
@@ -66,7 +65,19 @@ Categorized into severity of TBI:
 >
 >![[posturing_decorticate-decerebrate.png]]
 >
->The progression of a patient from a decorticate posture to a decerebrate posture indicates **worsening** of their condition, as reflected by Glasgow's coma scale.
+>The progression of a patient from a decorticate posture to a decerebrate posture indicates **worsening** of their condition, as reflected by Glasgow's coma scale. The most severe posturing is *flaccid posturing*, the absence of motor response in any extremity.
+
+## Increased Intracranial Pressure
+1. Altered level of consciousness, which is the most sensitive and earliest indication of increasing ICP
+2. Headache
+3. Abnormal respirations: Cheyne-Stokes, neurogenic hyperventilation, apneustic, ataxic, cluster
+4. Rise in blood pressure with widening pulse pressure
+5. Slowing of pulse
+6. Elevated temperature
+7. Vomiting
+8. Pupil changes
+9. Late signs of increased ICP include **increased systolic blood pressure, widened pulse pressure, and slowed heart rate**. These, along with abnormal respirations, completes the Cushing triad/Cushing reflex.
+10. Other late signs include changes in motor function from weakness to hemiplegia, a positive Babinski’s reflex, decorticate or decerebrate posturing, and seizures.
 
 ___
 
@@ -103,6 +114,7 @@ In nondepressed skull fractures, surgical treatment is not necessary, but close 
 | Seizure activity                              | **Anti-seizure drugs**. This is used **prophylactically** during the first week of management.          |
 | **Medical induction of a coma**               | Done to reduce the oxygen demands of the brain, reducing the potential for cell death in hypoperfusion. |
 | **Problems with attention and concentration** | **Amantadine**, **Methylphenidate**, **Bromocriptine**, **Antidepressants**                             |
+|                                               |                                                                                                         |
 
 ___
 
@@ -115,3 +127,18 @@ The nurse primarily focuses her efforts on maintaining a patent airway, ventilat
 	- **Supratentorial positioning**: neutral neck alignment and side-lying or supine. Avoid operative side.
 	- **Infratentorial positioning**: maintain straight neck alignment; no flexion to avoid tearing suture. Position patient on either side, not supine.
 	- **Transsphenoidal positioning**: nasal packing, instruct patient to avoid blowing the nose. Provide oral care and keep head of bed elevated.
+
+## Interventions for Increased Intracranial Pressure
+1. For the client with increased ICP, elevate the head of the bed 30 to 40 degrees, avoid the Trendelenburg’s position, and prevent flexion of the neck and hips.
+2. Monitor respiratory status and prevent hypoxia.
+3. Monitor ICP if a pressure device is in place.
+4. Avoid the administration of morphine sulfate to prevent the occurrence of hypoxia.
+5. Maintain mechanical ventilation as prescribed; maintaining the PaCO2 at 30 to 35 mm Hg will result in vasoconstriction of the cerebral blood vessels, decreased blood flow, and therefore decreased ICP.
+6. Maintain body temperature.
+7. Prevent shivering, which can increase ICP.
+8. Decrease environmental stimuli.
+9. Monitor electrolyte levels and acid–base balance.
+10. Monitor intake and output.
+11. Limit fluid intake to 1200 mL/day.
+12. Instruct the client to avoid straining activities, such as coughing and sneezing.
+13. Instruct the client to avoid Valsalva’s maneuver.

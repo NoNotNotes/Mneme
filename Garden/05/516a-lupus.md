@@ -14,6 +14,8 @@ ___
 
 SLE is **an inflammatory autoimmune disorder that affects nearly every organ in the body** (systemic). The overall incidence is estimated to be 1.8 to 7.6 per 100,000 people, occurring 4 to 12 times more in women than men. It is more common in African Americans, Hispanics/Latino Americans, Asians, and American Indians/Alaska Natives, compared to White Americans. Other forms of lupus also exist, including **subacute cutaneous or discoid lupus erythematosus**, and **drug-induced lupus**.
 
+![[lupus-manifestations.png]]
+
 ___
 
 # Pathophysiology

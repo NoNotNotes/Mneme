@@ -23,7 +23,7 @@ The **absence or ineffectiveness of peristalsis of the esophagus**. This is prim
 4. **Diagnostic Evaluation**:
 	- **X-ray studies**, **Barium swallow**, **CT scan**: Check for allergies to **iodine**, shellfish, shrimps, etc.
 	- **Endoscopy** for visualization
-	- **Monometry**: measurement of the electrical activity of the esophageal musculature.
+	- **Manometry**: measurement of the electrical activity of the esophageal musculature.
 5. **Management**:
 	- **Diet**: eat and drink slowly. Fluid intake is encouraged during meals to aid the food in being moved.
 	- **Pharmacology**:
