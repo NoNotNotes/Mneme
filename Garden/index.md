@@ -6,22 +6,13 @@ image: og-image.png
 >[!CITE] Richard Holmes
 ><span style="text-align: center; font-style: italic;">There is a goddess of Memory, **Mnemosyne**; but none of Forgetting. Yet there should be, as they are twin sisters, twin powers, and walk on either side of us, disputing for sovereignty over us and who we are, all the way until death.</span>
 
-All roads lead here. I've done my best to collect and collate references from many, many sources (*too many!*) and compiled them into dense, thorough, comprehensive pages divided into every single topic I could get my hands on. What were the [[#references|references]] I used? Broadly, these were the works used in levels of contribution and reliability:
+I've done my best to collect and collate references from many, many sources (*too many!*) and compiled them into dense, thorough, comprehensive pages divided into every single topic I could get my hands on. What were the [[#references|references]] I used? Broadly, these were the works used in levels of contribution and reliability:
 1. **Curriculum Textbooks**. Basically the most reliable sources both nationally and internationally. They offer the most trustworthy *and* comprehensive information that one can read about.
 2. **Review textbooks and modules**. While mostly local, these are books from individual authors and review centers that did the same thing I'm doing now. These works often derive from a larger dataset than even I do, but may fall short in terms of comprehensiveness (*and visual appeal, in my opinion*). Uniquely, these references shape their content around the topics and even specific bits of information that are known to have come up and could come up in future board exams. They also offer many mnemonics and memory tools, although I've refrained from utilizing many of them to respect it as their own intellectual property.
 3. **Online research**. I very rarely use information I find online, but when I do, I pick thoroughly! Any pages containing external research—if I publish them—will cite all works used.
 
 >[!WARNING] Locality
 >I'm based in the **Philippines**, and am currently following the curriculum set for this country. Some notes, especially those related to professional practice (PALMER) and community health nursing, are not entirely applicable internationally. I'll be making a subdomain specifically for NCLEX content at some point.
-
-This page just recently began being prepared for publication (`June 9, 2025`), making many parts unfinished and unpolished. Here are the following broad changes that are still being implemented:
-1. ~~**Format page titles**; set note names. Might be removing the indexing system or at least revamping it.~~
-2. ~~Add **page metadata**: title, description, date, permalink, content tags (completion and reference status), and publication status.~~
-3. ~~**Fix references**. No need for APA, but I do need to standardize the book names and add a dedicated master list of references somewhere.~~
-4. **Re-order notes** according to chapter rather than simply alphabetically. I'm not quite sure how to feel about making too many subdirectories, but I'll figure it out.
-5. Become **mobile friendly**. At the moment the site is basically only tailored to desktops and tablets, with mobile users only having a good view when on Desktop Mode.
-6. **Mnemonics**? After all, the website is named after its root word—Mneme. I don't like forcing mnemonics on things, but I do include some that seem relevant to me. Perhaps I'll leave it as an exercise to the reader to make their own. I could also use other memory tools.
-7. **Find more content reviewers**! My eyes alone feel inadequate as a measure of completeness and clarity for everything I write. I want at least one other person to take a very granular look at these notes and help me make the pages better.
 
 ___
 

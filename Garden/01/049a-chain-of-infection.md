@@ -10,6 +10,8 @@ description: "The chain of infection is a model used in communicable disease to 
 **Reference**:
 1. Lecturer
 
+[[038a-has-thorax#^5f4724|block]]
+
 ___
 
 The **chain of infection** is a model used in communicable disease to outline the process by which an infective agent (the first link in the chain) reaches a susceptible host (the last link in the chain). This is an important tool to combat communicable diseases. The following are the six links in the chain of infection, and how each one may be broken.

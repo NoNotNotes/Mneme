@@ -38,11 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      filterFn: (node) => {
-        return !["QNA", "RC"].some(tag => node.data.tags?.includes(tag))
-      },
-    }),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),

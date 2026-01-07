@@ -23,3 +23,9 @@ Chest landmarks are imperative for assessment. These include a series of imagina
 4. **Midaxillary Lines**: Vertical lines running down from the apex of the axillae.
 5. **Posterior Axillary Lines**: Vertical lines running down from the posterior axillary folds.
 6. **Vertebral Line**: A vertical line centered through the spinous processes from C7 to T12
+
+![[chest-wall-segments.png]]
+
+![[chest-wall-landmarks.png]]
+
+block of text ^5f4724
