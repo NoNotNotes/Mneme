@@ -12,7 +12,7 @@ aliases:
 The list of topics included in this list is primarily based on **Brunner and Suddarth's Textbook of Medical-Surgical Nursing**. Given the sheer volume of information regarding this field, there are many notes yet to be completed. Many notes are published but remain lackluster, with only superficial-level details provided. I'll be updating all of them in time.
 
 >[!TIP] Ratings?
->**Ratings** are based on a very limited sample size of lecturers (four!) who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5). I'll keep asking around for more input from reviewers!
+>**Ratings** are based on a very limited sample size of lecturers who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5).
 
 | Chapter                                                | Topic                                                   | Rating | Status |
 | ------------------------------------------------------ | ------------------------------------------------------- | :----: | :----: |

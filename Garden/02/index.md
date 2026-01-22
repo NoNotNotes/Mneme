@@ -15,7 +15,7 @@ image: og-image.png
 As mentioned, MCHN makes up 20% of the board exam. Not only that, but family and child health is also one of the largest delegations of nurse work (~25% of nurses in the U.S.). Being knowledgeable about this field, especially for health education regarding care of well and sick children, is highly serviceable knowledge to carry into your professional life.
 
 >[!TIP] Ratings?
->**Ratings** are based on a very limited sample size of lecturers (four!) who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5). I'll keep asking around for more input from reviewers!
+>**Ratings** are based on a very limited sample size of lecturers who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5).
 
 | Chapter                                     | Topic                                                   | Rating | Status |
 | ------------------------------------------- | ------------------------------------------------------- | :----: | :----: |

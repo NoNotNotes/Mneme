@@ -10,6 +10,9 @@ image: og-image.png
 ---
 **Psychiatric-Mental Health Nursing** is found in Nursing Practice V—Care of Clients with Physiologic and Psychosocial Alterations (Part C), covering topics of maladaptive behaviors, age-related alterations in thought and perception, depression, mania, suicide, stress, anxiety, maladaptive personality patterns, and substance abuse ([Board of Nursing Resolution No. 11, 2017](https://www.prc.gov.ph/uploaded/documents/PRB_BON_Reso2017-11.pdf)).
 
+>[!TIP] Ratings?
+>**Ratings** are based on a very limited sample size of lecturers who have rated a topic's **relevance to the board exam** from the options "*Low Priority*" (1), "*Nice to Know*" (3), and "*Must Know*" (5).
+
 | Chapter                                    | Topic                                                  | Rating | Status |
 | ------------------------------------------ | ------------------------------------------------------ | :----: | :----: |
 | Introduction to Psychiatric Nursing        | Concepts of Mental Health                              |  4.0   |   ✅    |
